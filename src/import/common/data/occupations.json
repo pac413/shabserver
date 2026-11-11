@@ -1,0 +1,3572 @@
+[
+  {
+    "_id": 1,
+    "occupationId": 2,
+    "name": "Akadeämie",
+    "lang": "de"
+  },
+  {
+    "_id": 2,
+    "occupationId": 2,
+    "name": "Acadeemia",
+    "lang": "en"
+  },
+  {
+    "_id": 3,
+    "occupationId": 2,
+    "name": "Académie",
+    "lang": "fr"
+  },
+  {
+    "_id": 4,
+    "occupationId": 2,
+    "name": "אקדמיה",
+    "lang": "he"
+  },
+  {
+    "_id": 5,
+    "occupationId": 2,
+    "name": "Acadeemia",
+    "lang": "pt"
+  },
+  {
+    "_id": 6,
+    "occupationId": 2,
+    "name": "Acadeemia",
+    "lang": "ru"
+  },
+  {
+    "_id": 7,
+    "occupationId": 2,
+    "name": "Acadeemia",
+    "lang": "es"
+  },
+  {
+    "_id": 8,
+    "occupationId": 3,
+    "name": "Buchhaltung",
+    "lang": "de"
+  },
+  {
+    "_id": 9,
+    "occupationId": 3,
+    "name": "Accounting",
+    "lang": "en"
+  },
+  {
+    "_id": 10,
+    "occupationId": 3,
+    "name": "Comptabilité",
+    "lang": "fr"
+  },
+  {
+    "_id": 11,
+    "occupationId": 3,
+    "name": "חשבונאות",
+    "lang": "he"
+  },
+  {
+    "_id": 12,
+    "occupationId": 3,
+    "name": "Contabilidade",
+    "lang": "pt"
+  },
+  {
+    "_id": 13,
+    "occupationId": 3,
+    "name": "Учет",
+    "lang": "ru"
+  },
+  {
+    "_id": 14,
+    "occupationId": 3,
+    "name": "Contabilidad",
+    "lang": "es"
+  },
+  {
+    "_id": 15,
+    "occupationId": 4,
+    "name": "Verwaltungsassistent / Sekretär",
+    "lang": "de"
+  },
+  {
+    "_id": 16,
+    "occupationId": 4,
+    "name": "Administrative Assistant/Secretary",
+    "lang": "en"
+  },
+  {
+    "_id": 17,
+    "occupationId": 4,
+    "name": "Adjointe administrative / secrétaire",
+    "lang": "fr"
+  },
+  {
+    "_id": 18,
+    "occupationId": 4,
+    "name": "עוזר / מזכיר מנהלי",
+    "lang": "he"
+  },
+  {
+    "_id": 19,
+    "occupationId": 4,
+    "name": "Assistente Administrativo / Secretário",
+    "lang": "pt"
+  },
+  {
+    "_id": 20,
+    "occupationId": 4,
+    "name": "Административный помощник / секретарь",
+    "lang": "ru"
+  },
+  {
+    "_id": 21,
+    "occupationId": 4,
+    "name": "Asistente Administrativo / Secretario",
+    "lang": "es"
+  },
+  {
+    "_id": 22,
+    "occupationId": 5,
+    "name": "Luftfahrt",
+    "lang": "de"
+  },
+  {
+    "_id": 23,
+    "occupationId": 5,
+    "name": "Aviation",
+    "lang": "en"
+  },
+  {
+    "_id": 24,
+    "occupationId": 5,
+    "name": "Aviation",
+    "lang": "fr"
+  },
+  {
+    "_id": 25,
+    "occupationId": 5,
+    "name": "תעופה",
+    "lang": "he"
+  },
+  {
+    "_id": 26,
+    "occupationId": 5,
+    "name": "Aviação",
+    "lang": "pt"
+  },
+  {
+    "_id": 27,
+    "occupationId": 5,
+    "name": "авиации",
+    "lang": "ru"
+  },
+  {
+    "_id": 28,
+    "occupationId": 5,
+    "name": "Aviación",
+    "lang": "es"
+  },
+  {
+    "_id": 29,
+    "occupationId": 6,
+    "name": "Werbung",
+    "lang": "de"
+  },
+  {
+    "_id": 30,
+    "occupationId": 6,
+    "name": "Advertising",
+    "lang": "en"
+  },
+  {
+    "_id": 31,
+    "occupationId": 6,
+    "name": "La publicité",
+    "lang": "fr"
+  },
+  {
+    "_id": 32,
+    "occupationId": 6,
+    "name": "פרסום",
+    "lang": "he"
+  },
+  {
+    "_id": 33,
+    "occupationId": 6,
+    "name": "Publicidade",
+    "lang": "pt"
+  },
+  {
+    "_id": 34,
+    "occupationId": 6,
+    "name": "реклама",
+    "lang": "ru"
+  },
+  {
+    "_id": 35,
+    "occupationId": 6,
+    "name": "Publicidad",
+    "lang": "es"
+  },
+  {
+    "_id": 36,
+    "occupationId": 7,
+    "name": "Landwirtschaft",
+    "lang": "de"
+  },
+  {
+    "_id": 37,
+    "occupationId": 7,
+    "name": "Agriculture",
+    "lang": "en"
+  },
+  {
+    "_id": 38,
+    "occupationId": 7,
+    "name": "Agriculture",
+    "lang": "fr"
+  },
+  {
+    "_id": 39,
+    "occupationId": 7,
+    "name": "חקלאות",
+    "lang": "he"
+  },
+  {
+    "_id": 40,
+    "occupationId": 7,
+    "name": "Agricultura",
+    "lang": "pt"
+  },
+  {
+    "_id": 41,
+    "occupationId": 7,
+    "name": "сельское хозяйство",
+    "lang": "ru"
+  },
+  {
+    "_id": 42,
+    "occupationId": 7,
+    "name": "Agricultura",
+    "lang": "es"
+  },
+  {
+    "_id": 43,
+    "occupationId": 8,
+    "name": "App-Entwicklung",
+    "lang": "de"
+  },
+  {
+    "_id": 44,
+    "occupationId": 8,
+    "name": "App Development",
+    "lang": "en"
+  },
+  {
+    "_id": 45,
+    "occupationId": 8,
+    "name": "Développement d'applications",
+    "lang": "fr"
+  },
+  {
+    "_id": 46,
+    "occupationId": 8,
+    "name": "פיתוח אפליקציות",
+    "lang": "he"
+  },
+  {
+    "_id": 47,
+    "occupationId": 8,
+    "name": "Desenvolvimento de Aplicativos",
+    "lang": "pt"
+  },
+  {
+    "_id": 48,
+    "occupationId": 8,
+    "name": "Разработка приложений",
+    "lang": "ru"
+  },
+  {
+    "_id": 49,
+    "occupationId": 8,
+    "name": "Desarrollo de aplicaciones",
+    "lang": "es"
+  },
+  {
+    "_id": 50,
+    "occupationId": 9,
+    "name": "Haushaltsgeräte",
+    "lang": "de"
+  },
+  {
+    "_id": 51,
+    "occupationId": 9,
+    "name": "Appliances",
+    "lang": "en"
+  },
+  {
+    "_id": 52,
+    "occupationId": 9,
+    "name": "appareils électroménagers",
+    "lang": "fr"
+  },
+  {
+    "_id": 53,
+    "occupationId": 9,
+    "name": "מכשירים",
+    "lang": "he"
+  },
+  {
+    "_id": 54,
+    "occupationId": 9,
+    "name": "Eletrodomésticos",
+    "lang": "pt"
+  },
+  {
+    "_id": 55,
+    "occupationId": 9,
+    "name": "бытовая техника",
+    "lang": "ru"
+  },
+  {
+    "_id": 56,
+    "occupationId": 9,
+    "name": "Accesorios",
+    "lang": "es"
+  },
+  {
+    "_id": 57,
+    "occupationId": 10,
+    "name": "Die Architektur",
+    "lang": "de"
+  },
+  {
+    "_id": 58,
+    "occupationId": 10,
+    "name": "Architecture",
+    "lang": "en"
+  },
+  {
+    "_id": 59,
+    "occupationId": 10,
+    "name": "Architecture",
+    "lang": "fr"
+  },
+  {
+    "_id": 60,
+    "occupationId": 10,
+    "name": "ארכיטקטורה",
+    "lang": "he"
+  },
+  {
+    "_id": 61,
+    "occupationId": 10,
+    "name": "Arquitetura",
+    "lang": "pt"
+  },
+  {
+    "_id": 62,
+    "occupationId": 10,
+    "name": "Архитектура",
+    "lang": "ru"
+  },
+  {
+    "_id": 63,
+    "occupationId": 10,
+    "name": "Arquitectura",
+    "lang": "es"
+  },
+  {
+    "_id": 64,
+    "occupationId": 11,
+    "name": "Kunst",
+    "lang": "de"
+  },
+  {
+    "_id": 65,
+    "occupationId": 11,
+    "name": "Art",
+    "lang": "en"
+  },
+  {
+    "_id": 66,
+    "occupationId": 11,
+    "name": "Art",
+    "lang": "fr"
+  },
+  {
+    "_id": 67,
+    "occupationId": 11,
+    "name": "אומנות",
+    "lang": "he"
+  },
+  {
+    "_id": 68,
+    "occupationId": 11,
+    "name": "Arte",
+    "lang": "pt"
+  },
+  {
+    "_id": 69,
+    "occupationId": 11,
+    "name": "Искусство",
+    "lang": "ru"
+  },
+  {
+    "_id": 70,
+    "occupationId": 11,
+    "name": "Arte",
+    "lang": "es"
+  },
+  {
+    "_id": 71,
+    "occupationId": 12,
+    "name": "Künstler",
+    "lang": "de"
+  },
+  {
+    "_id": 72,
+    "occupationId": 12,
+    "name": "Artist",
+    "lang": "en"
+  },
+  {
+    "_id": 73,
+    "occupationId": 12,
+    "name": "Artiste",
+    "lang": "fr"
+  },
+  {
+    "_id": 74,
+    "occupationId": 12,
+    "name": "אמן",
+    "lang": "he"
+  },
+  {
+    "_id": 75,
+    "occupationId": 12,
+    "name": "Artista",
+    "lang": "pt"
+  },
+  {
+    "_id": 76,
+    "occupationId": 12,
+    "name": "художник",
+    "lang": "ru"
+  },
+  {
+    "_id": 77,
+    "occupationId": 12,
+    "name": "Artista",
+    "lang": "es"
+  },
+  {
+    "_id": 78,
+    "occupationId": 13,
+    "name": "Bankwesen",
+    "lang": "de"
+  },
+  {
+    "_id": 79,
+    "occupationId": 13,
+    "name": "Banking",
+    "lang": "en"
+  },
+  {
+    "_id": 80,
+    "occupationId": 13,
+    "name": "Bancaire",
+    "lang": "fr"
+  },
+  {
+    "_id": 81,
+    "occupationId": 13,
+    "name": "בנקאות",
+    "lang": "he"
+  },
+  {
+    "_id": 82,
+    "occupationId": 13,
+    "name": "Bancário",
+    "lang": "pt"
+  },
+  {
+    "_id": 83,
+    "occupationId": 13,
+    "name": "Банковское дело",
+    "lang": "ru"
+  },
+  {
+    "_id": 84,
+    "occupationId": 13,
+    "name": "Bancario",
+    "lang": "es"
+  },
+  {
+    "_id": 85,
+    "occupationId": 14,
+    "name": "Schönheit",
+    "lang": "de"
+  },
+  {
+    "_id": 86,
+    "occupationId": 14,
+    "name": "Beauty",
+    "lang": "en"
+  },
+  {
+    "_id": 87,
+    "occupationId": 14,
+    "name": "Beauté",
+    "lang": "fr"
+  },
+  {
+    "_id": 88,
+    "occupationId": 14,
+    "name": "יופי",
+    "lang": "he"
+  },
+  {
+    "_id": 89,
+    "occupationId": 14,
+    "name": "Beleza",
+    "lang": "pt"
+  },
+  {
+    "_id": 90,
+    "occupationId": 14,
+    "name": "красота",
+    "lang": "ru"
+  },
+  {
+    "_id": 91,
+    "occupationId": 14,
+    "name": "Belleza",
+    "lang": "es"
+  },
+  {
+    "_id": 92,
+    "occupationId": 15,
+    "name": "Blaues Halsband",
+    "lang": "de"
+  },
+  {
+    "_id": 93,
+    "occupationId": 15,
+    "name": "Blue collar",
+    "lang": "en"
+  },
+  {
+    "_id": 94,
+    "occupationId": 15,
+    "name": "Col bleu",
+    "lang": "fr"
+  },
+  {
+    "_id": 95,
+    "occupationId": 15,
+    "name": "צווארון כחול",
+    "lang": "he"
+  },
+  {
+    "_id": 96,
+    "occupationId": 15,
+    "name": "Colarinho azul",
+    "lang": "pt"
+  },
+  {
+    "_id": 97,
+    "occupationId": 15,
+    "name": "Синий воротник",
+    "lang": "ru"
+  },
+  {
+    "_id": 98,
+    "occupationId": 15,
+    "name": "Collar azul",
+    "lang": "es"
+  },
+  {
+    "_id": 99,
+    "occupationId": 16,
+    "name": "Buchhaltung",
+    "lang": "de"
+  },
+  {
+    "_id": 100,
+    "occupationId": 16,
+    "name": "Book keeping",
+    "lang": "en"
+  },
+  {
+    "_id": 101,
+    "occupationId": 16,
+    "name": "Tenue de livre compte",
+    "lang": "fr"
+  },
+  {
+    "_id": 102,
+    "occupationId": 16,
+    "name": "שמירת ספרים",
+    "lang": "he"
+  },
+  {
+    "_id": 103,
+    "occupationId": 16,
+    "name": "Manutenção de livros",
+    "lang": "pt"
+  },
+  {
+    "_id": 104,
+    "occupationId": 16,
+    "name": "Бухгалтерский учет",
+    "lang": "ru"
+  },
+  {
+    "_id": 105,
+    "occupationId": 16,
+    "name": "Mantenimiento de libros",
+    "lang": "es"
+  },
+  {
+    "_id": 106,
+    "occupationId": 17,
+    "name": "Buchveröffentlichung",
+    "lang": "de"
+  },
+  {
+    "_id": 107,
+    "occupationId": 17,
+    "name": "Book Publishing",
+    "lang": "en"
+  },
+  {
+    "_id": 108,
+    "occupationId": 17,
+    "name": "Édition de livres",
+    "lang": "fr"
+  },
+  {
+    "_id": 109,
+    "occupationId": 17,
+    "name": "הוצאת ספרים",
+    "lang": "he"
+  },
+  {
+    "_id": 110,
+    "occupationId": 17,
+    "name": "Publicação de Livros",
+    "lang": "pt"
+  },
+  {
+    "_id": 111,
+    "occupationId": 17,
+    "name": "Книгоиздание",
+    "lang": "ru"
+  },
+  {
+    "_id": 112,
+    "occupationId": 17,
+    "name": "Publicación de libros",
+    "lang": "es"
+  },
+  {
+    "_id": 113,
+    "occupationId": 18,
+    "name": "Geschäft",
+    "lang": "de"
+  },
+  {
+    "_id": 114,
+    "occupationId": 18,
+    "name": "Business",
+    "lang": "en"
+  },
+  {
+    "_id": 115,
+    "occupationId": 18,
+    "name": "Entreprise",
+    "lang": "fr"
+  },
+  {
+    "_id": 116,
+    "occupationId": 18,
+    "name": "עסקים",
+    "lang": "he"
+  },
+  {
+    "_id": 117,
+    "occupationId": 18,
+    "name": "O negócio",
+    "lang": "pt"
+  },
+  {
+    "_id": 118,
+    "occupationId": 18,
+    "name": "Бизнес",
+    "lang": "ru"
+  },
+  {
+    "_id": 119,
+    "occupationId": 18,
+    "name": "Negocio",
+    "lang": "es"
+  },
+  {
+    "_id": 120,
+    "occupationId": 19,
+    "name": "Geschäftsentwicklung",
+    "lang": "de"
+  },
+  {
+    "_id": 121,
+    "occupationId": 19,
+    "name": "Business Development",
+    "lang": "en"
+  },
+  {
+    "_id": 122,
+    "occupationId": 19,
+    "name": "Développement des affaires",
+    "lang": "fr"
+  },
+  {
+    "_id": 123,
+    "occupationId": 19,
+    "name": "פיתוח עסקי",
+    "lang": "he"
+  },
+  {
+    "_id": 124,
+    "occupationId": 19,
+    "name": "Desenvolvimento de negócios",
+    "lang": "pt"
+  },
+  {
+    "_id": 125,
+    "occupationId": 19,
+    "name": "Развитие бизнеса",
+    "lang": "ru"
+  },
+  {
+    "_id": 126,
+    "occupationId": 19,
+    "name": "Desarrollo de negocios",
+    "lang": "es"
+  },
+  {
+    "_id": 127,
+    "occupationId": 20,
+    "name": "Kinderbetreuung",
+    "lang": "de"
+  },
+  {
+    "_id": 128,
+    "occupationId": 20,
+    "name": "Child Care",
+    "lang": "en"
+  },
+  {
+    "_id": 129,
+    "occupationId": 20,
+    "name": "Garde d'enfants",
+    "lang": "fr"
+  },
+  {
+    "_id": 130,
+    "occupationId": 20,
+    "name": "טיפול בילדים",
+    "lang": "he"
+  },
+  {
+    "_id": 131,
+    "occupationId": 20,
+    "name": "Cuidado infantil",
+    "lang": "pt"
+  },
+  {
+    "_id": 132,
+    "occupationId": 20,
+    "name": "Уход за детьми",
+    "lang": "ru"
+  },
+  {
+    "_id": 133,
+    "occupationId": 20,
+    "name": "Cuidado de los niños",
+    "lang": "es"
+  },
+  {
+    "_id": 134,
+    "occupationId": 21,
+    "name": "Klerus",
+    "lang": "de"
+  },
+  {
+    "_id": 135,
+    "occupationId": 21,
+    "name": "Clergy",
+    "lang": "en"
+  },
+  {
+    "_id": 136,
+    "occupationId": 21,
+    "name": "Le clergé",
+    "lang": "fr"
+  },
+  {
+    "_id": 137,
+    "occupationId": 21,
+    "name": "כמורה",
+    "lang": "he"
+  },
+  {
+    "_id": 138,
+    "occupationId": 21,
+    "name": "Clero",
+    "lang": "pt"
+  },
+  {
+    "_id": 139,
+    "occupationId": 21,
+    "name": "клир",
+    "lang": "ru"
+  },
+  {
+    "_id": 140,
+    "occupationId": 21,
+    "name": "Clero",
+    "lang": "es"
+  },
+  {
+    "_id": 141,
+    "occupationId": 22,
+    "name": "Beratung",
+    "lang": "de"
+  },
+  {
+    "_id": 142,
+    "occupationId": 22,
+    "name": "Counseling",
+    "lang": "en"
+  },
+  {
+    "_id": 143,
+    "occupationId": 22,
+    "name": "Conseils",
+    "lang": "fr"
+  },
+  {
+    "_id": 144,
+    "occupationId": 22,
+    "name": "ייעוץ",
+    "lang": "he"
+  },
+  {
+    "_id": 145,
+    "occupationId": 22,
+    "name": "Aconselhamento",
+    "lang": "pt"
+  },
+  {
+    "_id": 146,
+    "occupationId": 22,
+    "name": "консультирование",
+    "lang": "ru"
+  },
+  {
+    "_id": 147,
+    "occupationId": 22,
+    "name": "Asesoramiento",
+    "lang": "es"
+  },
+  {
+    "_id": 148,
+    "occupationId": 23,
+    "name": "Computerprogrammierung",
+    "lang": "de"
+  },
+  {
+    "_id": 149,
+    "occupationId": 23,
+    "name": "Computer Programming",
+    "lang": "en"
+  },
+  {
+    "_id": 150,
+    "occupationId": 23,
+    "name": "Programmation informatique",
+    "lang": "fr"
+  },
+  {
+    "_id": 151,
+    "occupationId": 23,
+    "name": "תכנות מחשבים",
+    "lang": "he"
+  },
+  {
+    "_id": 152,
+    "occupationId": 23,
+    "name": "Programação de Computador",
+    "lang": "pt"
+  },
+  {
+    "_id": 153,
+    "occupationId": 23,
+    "name": "Компьютерное программирование",
+    "lang": "ru"
+  },
+  {
+    "_id": 154,
+    "occupationId": 23,
+    "name": "Programación de computadoras",
+    "lang": "es"
+  },
+  {
+    "_id": 155,
+    "occupationId": 24,
+    "name": "Konstruktion",
+    "lang": "de"
+  },
+  {
+    "_id": 156,
+    "occupationId": 24,
+    "name": "Construction",
+    "lang": "en"
+  },
+  {
+    "_id": 157,
+    "occupationId": 24,
+    "name": "Construction",
+    "lang": "fr"
+  },
+  {
+    "_id": 158,
+    "occupationId": 24,
+    "name": "בנייה",
+    "lang": "he"
+  },
+  {
+    "_id": 159,
+    "occupationId": 24,
+    "name": "Construção",
+    "lang": "pt"
+  },
+  {
+    "_id": 160,
+    "occupationId": 24,
+    "name": "строительство",
+    "lang": "ru"
+  },
+  {
+    "_id": 161,
+    "occupationId": 24,
+    "name": "Construcción",
+    "lang": "es"
+  },
+  {
+    "_id": 162,
+    "occupationId": 25,
+    "name": "Beratung",
+    "lang": "de"
+  },
+  {
+    "_id": 163,
+    "occupationId": 25,
+    "name": "Consulting",
+    "lang": "en"
+  },
+  {
+    "_id": 164,
+    "occupationId": 25,
+    "name": "Consultant",
+    "lang": "fr"
+  },
+  {
+    "_id": 165,
+    "occupationId": 25,
+    "name": "יעוץ",
+    "lang": "he"
+  },
+  {
+    "_id": 166,
+    "occupationId": 25,
+    "name": "Consultando",
+    "lang": "pt"
+  },
+  {
+    "_id": 167,
+    "occupationId": 25,
+    "name": "Консалтинг",
+    "lang": "ru"
+  },
+  {
+    "_id": 168,
+    "occupationId": 25,
+    "name": "Consultante",
+    "lang": "es"
+  },
+  {
+    "_id": 169,
+    "occupationId": 26,
+    "name": "Kreative Kunst",
+    "lang": "de"
+  },
+  {
+    "_id": 170,
+    "occupationId": 26,
+    "name": "Creative arts",
+    "lang": "en"
+  },
+  {
+    "_id": 171,
+    "occupationId": 26,
+    "name": "Arts créatifs",
+    "lang": "fr"
+  },
+  {
+    "_id": 172,
+    "occupationId": 26,
+    "name": "אומנות יצירתית",
+    "lang": "he"
+  },
+  {
+    "_id": 173,
+    "occupationId": 26,
+    "name": "Artes criativas",
+    "lang": "pt"
+  },
+  {
+    "_id": 174,
+    "occupationId": 26,
+    "name": "Искусство",
+    "lang": "ru"
+  },
+  {
+    "_id": 175,
+    "occupationId": 26,
+    "name": "Artes creativas",
+    "lang": "es"
+  },
+  {
+    "_id": 176,
+    "occupationId": 27,
+    "name": "Kulinarisch",
+    "lang": "de"
+  },
+  {
+    "_id": 177,
+    "occupationId": 27,
+    "name": "Culinary",
+    "lang": "en"
+  },
+  {
+    "_id": 178,
+    "occupationId": 27,
+    "name": "Culinaire",
+    "lang": "fr"
+  },
+  {
+    "_id": 179,
+    "occupationId": 27,
+    "name": "קולינריה",
+    "lang": "he"
+  },
+  {
+    "_id": 180,
+    "occupationId": 27,
+    "name": "Culinária",
+    "lang": "pt"
+  },
+  {
+    "_id": 181,
+    "occupationId": 27,
+    "name": "кулинарный",
+    "lang": "ru"
+  },
+  {
+    "_id": 182,
+    "occupationId": 27,
+    "name": "Culinario",
+    "lang": "es"
+  },
+  {
+    "_id": 183,
+    "occupationId": 28,
+    "name": "Kundendienst",
+    "lang": "de"
+  },
+  {
+    "_id": 184,
+    "occupationId": 28,
+    "name": "Customer Service",
+    "lang": "en"
+  },
+  {
+    "_id": 185,
+    "occupationId": 28,
+    "name": "Service Clients",
+    "lang": "fr"
+  },
+  {
+    "_id": 186,
+    "occupationId": 28,
+    "name": "שירות לקוחות",
+    "lang": "he"
+  },
+  {
+    "_id": 187,
+    "occupationId": 28,
+    "name": "Atendimento ao Cliente",
+    "lang": "pt"
+  },
+  {
+    "_id": 188,
+    "occupationId": 28,
+    "name": "Обслуживание клиентов",
+    "lang": "ru"
+  },
+  {
+    "_id": 189,
+    "occupationId": 28,
+    "name": "Servicio al Cliente",
+    "lang": "es"
+  },
+  {
+    "_id": 190,
+    "occupationId": 29,
+    "name": "Datenbankadministrator",
+    "lang": "de"
+  },
+  {
+    "_id": 191,
+    "occupationId": 29,
+    "name": "Database Admin",
+    "lang": "en"
+  },
+  {
+    "_id": 192,
+    "occupationId": 29,
+    "name": "Administrateur de base de données",
+    "lang": "fr"
+  },
+  {
+    "_id": 193,
+    "occupationId": 29,
+    "name": "מנהל מסד נתונים",
+    "lang": "he"
+  },
+  {
+    "_id": 194,
+    "occupationId": 29,
+    "name": "Administrador do banco de dados",
+    "lang": "pt"
+  },
+  {
+    "_id": 195,
+    "occupationId": 29,
+    "name": "Администратор базы данных",
+    "lang": "ru"
+  },
+  {
+    "_id": 196,
+    "occupationId": 29,
+    "name": "Administrador de base de datos",
+    "lang": "es"
+  },
+  {
+    "_id": 197,
+    "occupationId": 30,
+    "name": "Inländischer Arbeiter",
+    "lang": "de"
+  },
+  {
+    "_id": 198,
+    "occupationId": 30,
+    "name": "Domestic worker",
+    "lang": "en"
+  },
+  {
+    "_id": 199,
+    "occupationId": 30,
+    "name": "Travailleur domestique",
+    "lang": "fr"
+  },
+  {
+    "_id": 200,
+    "occupationId": 30,
+    "name": "עובד בית",
+    "lang": "he"
+  },
+  {
+    "_id": 201,
+    "occupationId": 30,
+    "name": "Trabalho doméstico",
+    "lang": "pt"
+  },
+  {
+    "_id": 202,
+    "occupationId": 30,
+    "name": "Домашний работник",
+    "lang": "ru"
+  },
+  {
+    "_id": 203,
+    "occupationId": 30,
+    "name": "Trabajadora doméstica",
+    "lang": "es"
+  },
+  {
+    "_id": 204,
+    "occupationId": 31,
+    "name": "Bildung / Online",
+    "lang": "de"
+  },
+  {
+    "_id": 205,
+    "occupationId": 31,
+    "name": "Education/Online",
+    "lang": "en"
+  },
+  {
+    "_id": 206,
+    "occupationId": 31,
+    "name": "Éducation / en ligne",
+    "lang": "fr"
+  },
+  {
+    "_id": 207,
+    "occupationId": 31,
+    "name": "חינוך / מקוון",
+    "lang": "he"
+  },
+  {
+    "_id": 208,
+    "occupationId": 31,
+    "name": "Educação / Online",
+    "lang": "pt"
+  },
+  {
+    "_id": 209,
+    "occupationId": 31,
+    "name": "Образование / Интернет",
+    "lang": "ru"
+  },
+  {
+    "_id": 210,
+    "occupationId": 31,
+    "name": "Educación / en línea",
+    "lang": "es"
+  },
+  {
+    "_id": 211,
+    "occupationId": 32,
+    "name": "Veranstaltung / Design",
+    "lang": "de"
+  },
+  {
+    "_id": 212,
+    "occupationId": 32,
+    "name": "Event/ Design",
+    "lang": "en"
+  },
+  {
+    "_id": 213,
+    "occupationId": 32,
+    "name": "Événement / Design",
+    "lang": "fr"
+  },
+  {
+    "_id": 214,
+    "occupationId": 32,
+    "name": "עיצוב אירועים",
+    "lang": "he"
+  },
+  {
+    "_id": 215,
+    "occupationId": 32,
+    "name": "Evento / Design",
+    "lang": "pt"
+  },
+  {
+    "_id": 216,
+    "occupationId": 32,
+    "name": "Событие / Дизайн",
+    "lang": "ru"
+  },
+  {
+    "_id": 217,
+    "occupationId": 32,
+    "name": "Evento / Diseño",
+    "lang": "es"
+  },
+  {
+    "_id": 218,
+    "occupationId": 33,
+    "name": "Mode-Design",
+    "lang": "de"
+  },
+  {
+    "_id": 219,
+    "occupationId": 33,
+    "name": "Fashion/ design",
+    "lang": "en"
+  },
+  {
+    "_id": 220,
+    "occupationId": 33,
+    "name": "Dessin de mode",
+    "lang": "fr"
+  },
+  {
+    "_id": 221,
+    "occupationId": 33,
+    "name": "עיצוב אופנה",
+    "lang": "he"
+  },
+  {
+    "_id": 222,
+    "occupationId": 33,
+    "name": "Design de Moda",
+    "lang": "pt"
+  },
+  {
+    "_id": 223,
+    "occupationId": 33,
+    "name": "Модный дизайн",
+    "lang": "ru"
+  },
+  {
+    "_id": 224,
+    "occupationId": 33,
+    "name": "Diseño de moda",
+    "lang": "es"
+  },
+  {
+    "_id": 225,
+    "occupationId": 34,
+    "name": "Film / Filmemachen",
+    "lang": "de"
+  },
+  {
+    "_id": 226,
+    "occupationId": 34,
+    "name": "Film/ filmmaking",
+    "lang": "en"
+  },
+  {
+    "_id": 227,
+    "occupationId": 34,
+    "name": "Film / réalisation",
+    "lang": "fr"
+  },
+  {
+    "_id": 228,
+    "occupationId": 34,
+    "name": "סרטים / עשיית קולנוע",
+    "lang": "he"
+  },
+  {
+    "_id": 229,
+    "occupationId": 34,
+    "name": "Filme / cinema",
+    "lang": "pt"
+  },
+  {
+    "_id": 230,
+    "occupationId": 34,
+    "name": "Кино / кинопроизводство",
+    "lang": "ru"
+  },
+  {
+    "_id": 231,
+    "occupationId": 34,
+    "name": "Cine / cine",
+    "lang": "es"
+  },
+  {
+    "_id": 232,
+    "occupationId": 35,
+    "name": "Finanzen",
+    "lang": "de"
+  },
+  {
+    "_id": 233,
+    "occupationId": 35,
+    "name": "Finance",
+    "lang": "en"
+  },
+  {
+    "_id": 234,
+    "occupationId": 35,
+    "name": "La finance",
+    "lang": "fr"
+  },
+  {
+    "_id": 235,
+    "occupationId": 35,
+    "name": "כספים",
+    "lang": "he"
+  },
+  {
+    "_id": 236,
+    "occupationId": 35,
+    "name": "Finança",
+    "lang": "pt"
+  },
+  {
+    "_id": 237,
+    "occupationId": 35,
+    "name": "финансов",
+    "lang": "ru"
+  },
+  {
+    "_id": 238,
+    "occupationId": 35,
+    "name": "Finanzas",
+    "lang": "es"
+  },
+  {
+    "_id": 239,
+    "occupationId": 36,
+    "name": "Fitness",
+    "lang": "de"
+  },
+  {
+    "_id": 240,
+    "occupationId": 36,
+    "name": "Fitness",
+    "lang": "en"
+  },
+  {
+    "_id": 241,
+    "occupationId": 36,
+    "name": "Aptitude",
+    "lang": "fr"
+  },
+  {
+    "_id": 242,
+    "occupationId": 36,
+    "name": "כושר",
+    "lang": "he"
+  },
+  {
+    "_id": 243,
+    "occupationId": 36,
+    "name": "Ginástica",
+    "lang": "pt"
+  },
+  {
+    "_id": 244,
+    "occupationId": 36,
+    "name": "фитнес",
+    "lang": "ru"
+  },
+  {
+    "_id": 245,
+    "occupationId": 36,
+    "name": "Aptitud",
+    "lang": "es"
+  },
+  {
+    "_id": 246,
+    "occupationId": 37,
+    "name": "Essen",
+    "lang": "de"
+  },
+  {
+    "_id": 247,
+    "occupationId": 37,
+    "name": "Food",
+    "lang": "en"
+  },
+  {
+    "_id": 248,
+    "occupationId": 37,
+    "name": "Nourriture",
+    "lang": "fr"
+  },
+  {
+    "_id": 249,
+    "occupationId": 37,
+    "name": "מזון",
+    "lang": "he"
+  },
+  {
+    "_id": 250,
+    "occupationId": 37,
+    "name": "Comida",
+    "lang": "pt"
+  },
+  {
+    "_id": 251,
+    "occupationId": 37,
+    "name": "питание",
+    "lang": "ru"
+  },
+  {
+    "_id": 252,
+    "occupationId": 37,
+    "name": "Comida",
+    "lang": "es"
+  },
+  {
+    "_id": 253,
+    "occupationId": 38,
+    "name": "Freiberufliche Bearbeitung / Schreiben",
+    "lang": "de"
+  },
+  {
+    "_id": 254,
+    "occupationId": 38,
+    "name": "Freelance Editing/Writing",
+    "lang": "en"
+  },
+  {
+    "_id": 255,
+    "occupationId": 38,
+    "name": "Rédaction / rédaction indépendante",
+    "lang": "fr"
+  },
+  {
+    "_id": 256,
+    "occupationId": 38,
+    "name": "עריכה / כתיבה פרילנסרית",
+    "lang": "he"
+  },
+  {
+    "_id": 257,
+    "occupationId": 38,
+    "name": "Edição / Redação Freelance",
+    "lang": "pt"
+  },
+  {
+    "_id": 258,
+    "occupationId": 38,
+    "name": "Внештатный Редактирование / Письмо",
+    "lang": "ru"
+  },
+  {
+    "_id": 259,
+    "occupationId": 38,
+    "name": "Edición / escritura independiente",
+    "lang": "es"
+  },
+  {
+    "_id": 260,
+    "occupationId": 39,
+    "name": "Spendensammlung",
+    "lang": "de"
+  },
+  {
+    "_id": 261,
+    "occupationId": 39,
+    "name": "Fundraising",
+    "lang": "en"
+  },
+  {
+    "_id": 262,
+    "occupationId": 39,
+    "name": "Collecte de fonds",
+    "lang": "fr"
+  },
+  {
+    "_id": 263,
+    "occupationId": 39,
+    "name": "גיוס כספים",
+    "lang": "he"
+  },
+  {
+    "_id": 264,
+    "occupationId": 39,
+    "name": "Arrecadação",
+    "lang": "pt"
+  },
+  {
+    "_id": 265,
+    "occupationId": 39,
+    "name": "Сбор средств",
+    "lang": "ru"
+  },
+  {
+    "_id": 266,
+    "occupationId": 39,
+    "name": "Recaudación de fondos",
+    "lang": "es"
+  },
+  {
+    "_id": 267,
+    "occupationId": 40,
+    "name": "Regierung",
+    "lang": "de"
+  },
+  {
+    "_id": 268,
+    "occupationId": 40,
+    "name": "Government",
+    "lang": "en"
+  },
+  {
+    "_id": 269,
+    "occupationId": 40,
+    "name": "Gouvernement",
+    "lang": "fr"
+  },
+  {
+    "_id": 270,
+    "occupationId": 40,
+    "name": "ממשלה",
+    "lang": "he"
+  },
+  {
+    "_id": 271,
+    "occupationId": 40,
+    "name": "Governo",
+    "lang": "pt"
+  },
+  {
+    "_id": 272,
+    "occupationId": 40,
+    "name": "Правительство",
+    "lang": "ru"
+  },
+  {
+    "_id": 273,
+    "occupationId": 40,
+    "name": "Gobierno",
+    "lang": "es"
+  },
+  {
+    "_id": 274,
+    "occupationId": 41,
+    "name": "Grafikdesign",
+    "lang": "de"
+  },
+  {
+    "_id": 275,
+    "occupationId": 41,
+    "name": "Graphic Design",
+    "lang": "en"
+  },
+  {
+    "_id": 276,
+    "occupationId": 41,
+    "name": "Conception graphique",
+    "lang": "fr"
+  },
+  {
+    "_id": 277,
+    "occupationId": 41,
+    "name": "עיצוב גרפי",
+    "lang": "he"
+  },
+  {
+    "_id": 278,
+    "occupationId": 41,
+    "name": "Design gráfico",
+    "lang": "pt"
+  },
+  {
+    "_id": 279,
+    "occupationId": 41,
+    "name": "Графический дизайн",
+    "lang": "ru"
+  },
+  {
+    "_id": 280,
+    "occupationId": 41,
+    "name": "Diseño gráfico",
+    "lang": "es"
+  },
+  {
+    "_id": 281,
+    "occupationId": 42,
+    "name": "Gesundheitsvorsorge",
+    "lang": "de"
+  },
+  {
+    "_id": 282,
+    "occupationId": 42,
+    "name": "Health Care",
+    "lang": "en"
+  },
+  {
+    "_id": 283,
+    "occupationId": 42,
+    "name": "Soins de santé",
+    "lang": "fr"
+  },
+  {
+    "_id": 284,
+    "occupationId": 42,
+    "name": "בריאות",
+    "lang": "he"
+  },
+  {
+    "_id": 285,
+    "occupationId": 42,
+    "name": "Cuidados de saúde",
+    "lang": "pt"
+  },
+  {
+    "_id": 286,
+    "occupationId": 42,
+    "name": "Здравоохранение",
+    "lang": "ru"
+  },
+  {
+    "_id": 287,
+    "occupationId": 42,
+    "name": "Cuidado de la salud",
+    "lang": "es"
+  },
+  {
+    "_id": 288,
+    "occupationId": 43,
+    "name": "Zuhause",
+    "lang": "de"
+  },
+  {
+    "_id": 289,
+    "occupationId": 43,
+    "name": "Home",
+    "lang": "en"
+  },
+  {
+    "_id": 290,
+    "occupationId": 43,
+    "name": "Accueil",
+    "lang": "fr"
+  },
+  {
+    "_id": 291,
+    "occupationId": 43,
+    "name": "בית",
+    "lang": "he"
+  },
+  {
+    "_id": 292,
+    "occupationId": 43,
+    "name": "Casa",
+    "lang": "pt"
+  },
+  {
+    "_id": 293,
+    "occupationId": 43,
+    "name": "Дом",
+    "lang": "ru"
+  },
+  {
+    "_id": 294,
+    "occupationId": 43,
+    "name": "Hogar",
+    "lang": "es"
+  },
+  {
+    "_id": 295,
+    "occupationId": 44,
+    "name": "Homöopathisch",
+    "lang": "de"
+  },
+  {
+    "_id": 296,
+    "occupationId": 44,
+    "name": "Homeopathic",
+    "lang": "en"
+  },
+  {
+    "_id": 297,
+    "occupationId": 44,
+    "name": "Homéopathique",
+    "lang": "fr"
+  },
+  {
+    "_id": 298,
+    "occupationId": 44,
+    "name": "הומיאופתית",
+    "lang": "he"
+  },
+  {
+    "_id": 299,
+    "occupationId": 44,
+    "name": "Homeopático",
+    "lang": "pt"
+  },
+  {
+    "_id": 300,
+    "occupationId": 44,
+    "name": "гомеопатический",
+    "lang": "ru"
+  },
+  {
+    "_id": 301,
+    "occupationId": 44,
+    "name": "Homeopático",
+    "lang": "es"
+  },
+  {
+    "_id": 302,
+    "occupationId": 45,
+    "name": "Humanressourcen",
+    "lang": "de"
+  },
+  {
+    "_id": 303,
+    "occupationId": 45,
+    "name": "Human Resources",
+    "lang": "en"
+  },
+  {
+    "_id": 304,
+    "occupationId": 45,
+    "name": "Ressources humaines",
+    "lang": "fr"
+  },
+  {
+    "_id": 305,
+    "occupationId": 45,
+    "name": "משאבי אנוש",
+    "lang": "he"
+  },
+  {
+    "_id": 306,
+    "occupationId": 45,
+    "name": "Recursos humanos",
+    "lang": "pt"
+  },
+  {
+    "_id": 307,
+    "occupationId": 45,
+    "name": "Отдел кадров",
+    "lang": "ru"
+  },
+  {
+    "_id": 308,
+    "occupationId": 45,
+    "name": "Recursos humanos",
+    "lang": "es"
+  },
+  {
+    "_id": 309,
+    "occupationId": 46,
+    "name": "Versicherung",
+    "lang": "de"
+  },
+  {
+    "_id": 310,
+    "occupationId": 46,
+    "name": "Insurance",
+    "lang": "en"
+  },
+  {
+    "_id": 311,
+    "occupationId": 46,
+    "name": "Assurance",
+    "lang": "fr"
+  },
+  {
+    "_id": 312,
+    "occupationId": 46,
+    "name": "ביטוח",
+    "lang": "he"
+  },
+  {
+    "_id": 313,
+    "occupationId": 46,
+    "name": "Seguro",
+    "lang": "pt"
+  },
+  {
+    "_id": 314,
+    "occupationId": 46,
+    "name": "страхование",
+    "lang": "ru"
+  },
+  {
+    "_id": 315,
+    "occupationId": 46,
+    "name": "Seguro",
+    "lang": "es"
+  },
+  {
+    "_id": 316,
+    "occupationId": 47,
+    "name": "Praktika",
+    "lang": "de"
+  },
+  {
+    "_id": 317,
+    "occupationId": 47,
+    "name": "Internships",
+    "lang": "en"
+  },
+  {
+    "_id": 318,
+    "occupationId": 47,
+    "name": "Des stages",
+    "lang": "fr"
+  },
+  {
+    "_id": 319,
+    "occupationId": 47,
+    "name": "התמחות",
+    "lang": "he"
+  },
+  {
+    "_id": 320,
+    "occupationId": 47,
+    "name": "Estágios",
+    "lang": "pt"
+  },
+  {
+    "_id": 321,
+    "occupationId": 47,
+    "name": "Стажировки",
+    "lang": "ru"
+  },
+  {
+    "_id": 322,
+    "occupationId": 47,
+    "name": "Pasantías",
+    "lang": "es"
+  },
+  {
+    "_id": 323,
+    "occupationId": 48,
+    "name": "Investment Banking",
+    "lang": "de"
+  },
+  {
+    "_id": 324,
+    "occupationId": 48,
+    "name": "Investment Banking",
+    "lang": "en"
+  },
+  {
+    "_id": 325,
+    "occupationId": 48,
+    "name": "Banque d'investissement",
+    "lang": "fr"
+  },
+  {
+    "_id": 326,
+    "occupationId": 48,
+    "name": "בנקאות השקעות",
+    "lang": "he"
+  },
+  {
+    "_id": 327,
+    "occupationId": 48,
+    "name": "Investimento bancário",
+    "lang": "pt"
+  },
+  {
+    "_id": 328,
+    "occupationId": 48,
+    "name": "Инвестиционная деятельность банков",
+    "lang": "ru"
+  },
+  {
+    "_id": 329,
+    "occupationId": 48,
+    "name": "Banca de inversión",
+    "lang": "es"
+  },
+  {
+    "_id": 330,
+    "occupationId": 49,
+    "name": "Gesetz",
+    "lang": "de"
+  },
+  {
+    "_id": 331,
+    "occupationId": 49,
+    "name": "Law",
+    "lang": "en"
+  },
+  {
+    "_id": 332,
+    "occupationId": 49,
+    "name": "Loi",
+    "lang": "fr"
+  },
+  {
+    "_id": 333,
+    "occupationId": 49,
+    "name": "חוק",
+    "lang": "he"
+  },
+  {
+    "_id": 334,
+    "occupationId": 49,
+    "name": "Lei",
+    "lang": "pt"
+  },
+  {
+    "_id": 335,
+    "occupationId": 49,
+    "name": "закон",
+    "lang": "ru"
+  },
+  {
+    "_id": 336,
+    "occupationId": 49,
+    "name": "Ley",
+    "lang": "es"
+  },
+  {
+    "_id": 337,
+    "occupationId": 50,
+    "name": "Strafverfolgung",
+    "lang": "de"
+  },
+  {
+    "_id": 338,
+    "occupationId": 50,
+    "name": "Law Enforcement",
+    "lang": "en"
+  },
+  {
+    "_id": 339,
+    "occupationId": 50,
+    "name": "Forces de l'ordre",
+    "lang": "fr"
+  },
+  {
+    "_id": 340,
+    "occupationId": 50,
+    "name": "אכיפת חוק",
+    "lang": "he"
+  },
+  {
+    "_id": 341,
+    "occupationId": 50,
+    "name": "Aplicação da lei",
+    "lang": "pt"
+  },
+  {
+    "_id": 342,
+    "occupationId": 50,
+    "name": "Правоохранительные органы",
+    "lang": "ru"
+  },
+  {
+    "_id": 343,
+    "occupationId": 50,
+    "name": "Cumplimiento de la ley",
+    "lang": "es"
+  },
+  {
+    "_id": 344,
+    "occupationId": 51,
+    "name": "Logistik",
+    "lang": "de"
+  },
+  {
+    "_id": 345,
+    "occupationId": 51,
+    "name": "Logistics",
+    "lang": "en"
+  },
+  {
+    "_id": 346,
+    "occupationId": 51,
+    "name": "Logistique",
+    "lang": "fr"
+  },
+  {
+    "_id": 347,
+    "occupationId": 51,
+    "name": "לוגיסטיקה",
+    "lang": "he"
+  },
+  {
+    "_id": 348,
+    "occupationId": 51,
+    "name": "Logística",
+    "lang": "pt"
+  },
+  {
+    "_id": 349,
+    "occupationId": 51,
+    "name": "Логистика",
+    "lang": "ru"
+  },
+  {
+    "_id": 350,
+    "occupationId": 51,
+    "name": "Logística",
+    "lang": "es"
+  },
+  {
+    "_id": 351,
+    "occupationId": 52,
+    "name": "Verwaltung",
+    "lang": "de"
+  },
+  {
+    "_id": 352,
+    "occupationId": 52,
+    "name": "Management",
+    "lang": "en"
+  },
+  {
+    "_id": 353,
+    "occupationId": 52,
+    "name": "La gestion",
+    "lang": "fr"
+  },
+  {
+    "_id": 354,
+    "occupationId": 52,
+    "name": "ניהול",
+    "lang": "he"
+  },
+  {
+    "_id": 355,
+    "occupationId": 52,
+    "name": "Gestão",
+    "lang": "pt"
+  },
+  {
+    "_id": 356,
+    "occupationId": 52,
+    "name": "управление",
+    "lang": "ru"
+  },
+  {
+    "_id": 357,
+    "occupationId": 52,
+    "name": "administración",
+    "lang": "es"
+  },
+  {
+    "_id": 358,
+    "occupationId": 53,
+    "name": "Marketing",
+    "lang": "de"
+  },
+  {
+    "_id": 359,
+    "occupationId": 53,
+    "name": "Marketing",
+    "lang": "en"
+  },
+  {
+    "_id": 360,
+    "occupationId": 53,
+    "name": "Commercialisation",
+    "lang": "fr"
+  },
+  {
+    "_id": 361,
+    "occupationId": 53,
+    "name": "שיווק",
+    "lang": "he"
+  },
+  {
+    "_id": 362,
+    "occupationId": 53,
+    "name": "Marketing",
+    "lang": "pt"
+  },
+  {
+    "_id": 363,
+    "occupationId": 53,
+    "name": "маркетинг",
+    "lang": "ru"
+  },
+  {
+    "_id": 364,
+    "occupationId": 53,
+    "name": "Márketing",
+    "lang": "es"
+  },
+  {
+    "_id": 365,
+    "occupationId": 54,
+    "name": "Marktforschung",
+    "lang": "de"
+  },
+  {
+    "_id": 366,
+    "occupationId": 54,
+    "name": "Market Research",
+    "lang": "en"
+  },
+  {
+    "_id": 367,
+    "occupationId": 54,
+    "name": "Étude de marché",
+    "lang": "fr"
+  },
+  {
+    "_id": 368,
+    "occupationId": 54,
+    "name": "מחקר שוק",
+    "lang": "he"
+  },
+  {
+    "_id": 369,
+    "occupationId": 54,
+    "name": "Pesquisa de mercado",
+    "lang": "pt"
+  },
+  {
+    "_id": 370,
+    "occupationId": 54,
+    "name": "Исследования рынка",
+    "lang": "ru"
+  },
+  {
+    "_id": 371,
+    "occupationId": 54,
+    "name": "Investigación de mercado",
+    "lang": "es"
+  },
+  {
+    "_id": 372,
+    "occupationId": 55,
+    "name": "Medien",
+    "lang": "de"
+  },
+  {
+    "_id": 373,
+    "occupationId": 55,
+    "name": "Media",
+    "lang": "en"
+  },
+  {
+    "_id": 374,
+    "occupationId": 55,
+    "name": "Médias",
+    "lang": "fr"
+  },
+  {
+    "_id": 375,
+    "occupationId": 55,
+    "name": "מדיה",
+    "lang": "he"
+  },
+  {
+    "_id": 376,
+    "occupationId": 55,
+    "name": "meios de comunicação",
+    "lang": "pt"
+  },
+  {
+    "_id": 377,
+    "occupationId": 55,
+    "name": "СМИ",
+    "lang": "ru"
+  },
+  {
+    "_id": 378,
+    "occupationId": 55,
+    "name": "Medios de comunicación",
+    "lang": "es"
+  },
+  {
+    "_id": 379,
+    "occupationId": 56,
+    "name": "Medizinisch",
+    "lang": "de"
+  },
+  {
+    "_id": 380,
+    "occupationId": 56,
+    "name": "Medical",
+    "lang": "en"
+  },
+  {
+    "_id": 381,
+    "occupationId": 56,
+    "name": "Médical",
+    "lang": "fr"
+  },
+  {
+    "_id": 382,
+    "occupationId": 56,
+    "name": "רפואי",
+    "lang": "he"
+  },
+  {
+    "_id": 383,
+    "occupationId": 56,
+    "name": "Médico",
+    "lang": "pt"
+  },
+  {
+    "_id": 384,
+    "occupationId": 56,
+    "name": "медицинская",
+    "lang": "ru"
+  },
+  {
+    "_id": 385,
+    "occupationId": 56,
+    "name": "Médico",
+    "lang": "es"
+  },
+  {
+    "_id": 386,
+    "occupationId": 57,
+    "name": "Psychische Gesundheit",
+    "lang": "de"
+  },
+  {
+    "_id": 387,
+    "occupationId": 57,
+    "name": "Mental health",
+    "lang": "en"
+  },
+  {
+    "_id": 388,
+    "occupationId": 57,
+    "name": "Santé mentale",
+    "lang": "fr"
+  },
+  {
+    "_id": 389,
+    "occupationId": 57,
+    "name": "בריאות נפשית",
+    "lang": "he"
+  },
+  {
+    "_id": 390,
+    "occupationId": 57,
+    "name": "Saúde mental",
+    "lang": "pt"
+  },
+  {
+    "_id": 391,
+    "occupationId": 57,
+    "name": "Душевное здоровье",
+    "lang": "ru"
+  },
+  {
+    "_id": 392,
+    "occupationId": 57,
+    "name": "Salud mental",
+    "lang": "es"
+  },
+  {
+    "_id": 393,
+    "occupationId": 58,
+    "name": "Militär",
+    "lang": "de"
+  },
+  {
+    "_id": 394,
+    "occupationId": 58,
+    "name": "Military",
+    "lang": "en"
+  },
+  {
+    "_id": 395,
+    "occupationId": 58,
+    "name": "Militaire",
+    "lang": "fr"
+  },
+  {
+    "_id": 396,
+    "occupationId": 58,
+    "name": "צבאי",
+    "lang": "he"
+  },
+  {
+    "_id": 397,
+    "occupationId": 58,
+    "name": "Militares",
+    "lang": "pt"
+  },
+  {
+    "_id": 398,
+    "occupationId": 58,
+    "name": "военный",
+    "lang": "ru"
+  },
+  {
+    "_id": 399,
+    "occupationId": 58,
+    "name": "Militar",
+    "lang": "es"
+  },
+  {
+    "_id": 400,
+    "occupationId": 59,
+    "name": "Musik",
+    "lang": "de"
+  },
+  {
+    "_id": 401,
+    "occupationId": 59,
+    "name": "Music",
+    "lang": "en"
+  },
+  {
+    "_id": 402,
+    "occupationId": 59,
+    "name": "La musique",
+    "lang": "fr"
+  },
+  {
+    "_id": 403,
+    "occupationId": 59,
+    "name": "מוזיקה",
+    "lang": "he"
+  },
+  {
+    "_id": 404,
+    "occupationId": 59,
+    "name": "Música",
+    "lang": "pt"
+  },
+  {
+    "_id": 405,
+    "occupationId": 59,
+    "name": "Музыка",
+    "lang": "ru"
+  },
+  {
+    "_id": 406,
+    "occupationId": 59,
+    "name": "Música",
+    "lang": "es"
+  },
+  {
+    "_id": 407,
+    "occupationId": 60,
+    "name": "Gemeinnützig",
+    "lang": "de"
+  },
+  {
+    "_id": 408,
+    "occupationId": 60,
+    "name": "Nonprofit",
+    "lang": "en"
+  },
+  {
+    "_id": 409,
+    "occupationId": 60,
+    "name": "Non lucratif",
+    "lang": "fr"
+  },
+  {
+    "_id": 410,
+    "occupationId": 60,
+    "name": "עמותה",
+    "lang": "he"
+  },
+  {
+    "_id": 411,
+    "occupationId": 60,
+    "name": "Sem fins lucrativos",
+    "lang": "pt"
+  },
+  {
+    "_id": 412,
+    "occupationId": 60,
+    "name": "некоммерческий",
+    "lang": "ru"
+  },
+  {
+    "_id": 413,
+    "occupationId": 60,
+    "name": "Sin ánimo de lucro",
+    "lang": "es"
+  },
+  {
+    "_id": 414,
+    "occupationId": 61,
+    "name": "Operationen",
+    "lang": "de"
+  },
+  {
+    "_id": 415,
+    "occupationId": 61,
+    "name": "Operations",
+    "lang": "en"
+  },
+  {
+    "_id": 416,
+    "occupationId": 61,
+    "name": "Les opérations",
+    "lang": "fr"
+  },
+  {
+    "_id": 417,
+    "occupationId": 61,
+    "name": "פעולות",
+    "lang": "he"
+  },
+  {
+    "_id": 418,
+    "occupationId": 61,
+    "name": "Operações",
+    "lang": "pt"
+  },
+  {
+    "_id": 419,
+    "occupationId": 61,
+    "name": "операции",
+    "lang": "ru"
+  },
+  {
+    "_id": 420,
+    "occupationId": 61,
+    "name": "Operaciones",
+    "lang": "es"
+  },
+  {
+    "_id": 421,
+    "occupationId": 62,
+    "name": "Lohn-und Gehaltsabrechnung",
+    "lang": "de"
+  },
+  {
+    "_id": 422,
+    "occupationId": 62,
+    "name": "Payroll",
+    "lang": "en"
+  },
+  {
+    "_id": 423,
+    "occupationId": 62,
+    "name": "Paie",
+    "lang": "fr"
+  },
+  {
+    "_id": 424,
+    "occupationId": 62,
+    "name": "שכר",
+    "lang": "he"
+  },
+  {
+    "_id": 425,
+    "occupationId": 62,
+    "name": "Folha de pagamento",
+    "lang": "pt"
+  },
+  {
+    "_id": 426,
+    "occupationId": 62,
+    "name": "Начисление заработной платы",
+    "lang": "ru"
+  },
+  {
+    "_id": 427,
+    "occupationId": 62,
+    "name": "Nómina de sueldos",
+    "lang": "es"
+  },
+  {
+    "_id": 428,
+    "occupationId": 63,
+    "name": "Persönlicher Assistent",
+    "lang": "de"
+  },
+  {
+    "_id": 429,
+    "occupationId": 63,
+    "name": "Personal Assistant",
+    "lang": "en"
+  },
+  {
+    "_id": 430,
+    "occupationId": 63,
+    "name": "Assistant personnel",
+    "lang": "fr"
+  },
+  {
+    "_id": 431,
+    "occupationId": 63,
+    "name": "עוזר אישי",
+    "lang": "he"
+  },
+  {
+    "_id": 432,
+    "occupationId": 63,
+    "name": "Assistente Pessoal",
+    "lang": "pt"
+  },
+  {
+    "_id": 433,
+    "occupationId": 63,
+    "name": "Личный ассистент",
+    "lang": "ru"
+  },
+  {
+    "_id": 434,
+    "occupationId": 63,
+    "name": "Asistente personal",
+    "lang": "es"
+  },
+  {
+    "_id": 435,
+    "occupationId": 64,
+    "name": "Persönliche Gesundheit",
+    "lang": "de"
+  },
+  {
+    "_id": 436,
+    "occupationId": 64,
+    "name": "Personal Health",
+    "lang": "en"
+  },
+  {
+    "_id": 437,
+    "occupationId": 64,
+    "name": "Santé personnelle",
+    "lang": "fr"
+  },
+  {
+    "_id": 438,
+    "occupationId": 64,
+    "name": "בריאות אישית",
+    "lang": "he"
+  },
+  {
+    "_id": 439,
+    "occupationId": 64,
+    "name": "Saúde pessoal",
+    "lang": "pt"
+  },
+  {
+    "_id": 440,
+    "occupationId": 64,
+    "name": "Личное здоровье",
+    "lang": "ru"
+  },
+  {
+    "_id": 441,
+    "occupationId": 64,
+    "name": "Salud personal",
+    "lang": "es"
+  },
+  {
+    "_id": 442,
+    "occupationId": 65,
+    "name": "Projektmanagement",
+    "lang": "de"
+  },
+  {
+    "_id": 443,
+    "occupationId": 65,
+    "name": "Project Management",
+    "lang": "en"
+  },
+  {
+    "_id": 444,
+    "occupationId": 65,
+    "name": "Gestion de projet",
+    "lang": "fr"
+  },
+  {
+    "_id": 445,
+    "occupationId": 65,
+    "name": "ניהול פרוייקט",
+    "lang": "he"
+  },
+  {
+    "_id": 446,
+    "occupationId": 65,
+    "name": "Gerenciamento de Projetos",
+    "lang": "pt"
+  },
+  {
+    "_id": 447,
+    "occupationId": 65,
+    "name": "Управление проектом",
+    "lang": "ru"
+  },
+  {
+    "_id": 448,
+    "occupationId": 65,
+    "name": "Gestión de proyectos",
+    "lang": "es"
+  },
+  {
+    "_id": 449,
+    "occupationId": 66,
+    "name": "Psychologie",
+    "lang": "de"
+  },
+  {
+    "_id": 450,
+    "occupationId": 66,
+    "name": "Psychology",
+    "lang": "en"
+  },
+  {
+    "_id": 451,
+    "occupationId": 66,
+    "name": "Psychologie",
+    "lang": "fr"
+  },
+  {
+    "_id": 452,
+    "occupationId": 66,
+    "name": "פסיכולוגיה",
+    "lang": "he"
+  },
+  {
+    "_id": 453,
+    "occupationId": 66,
+    "name": "Psicologia",
+    "lang": "pt"
+  },
+  {
+    "_id": 454,
+    "occupationId": 66,
+    "name": "Психология",
+    "lang": "ru"
+  },
+  {
+    "_id": 455,
+    "occupationId": 66,
+    "name": "Psicología",
+    "lang": "es"
+  },
+  {
+    "_id": 456,
+    "occupationId": 67,
+    "name": "Öffentlichkeitsarbeit",
+    "lang": "de"
+  },
+  {
+    "_id": 457,
+    "occupationId": 67,
+    "name": "Public Relations",
+    "lang": "en"
+  },
+  {
+    "_id": 458,
+    "occupationId": 67,
+    "name": "Relations publiques",
+    "lang": "fr"
+  },
+  {
+    "_id": 459,
+    "occupationId": 67,
+    "name": "יחסי ציבור",
+    "lang": "he"
+  },
+  {
+    "_id": 460,
+    "occupationId": 67,
+    "name": "Relações públicas",
+    "lang": "pt"
+  },
+  {
+    "_id": 461,
+    "occupationId": 67,
+    "name": "Связи с общественностью",
+    "lang": "ru"
+  },
+  {
+    "_id": 462,
+    "occupationId": 67,
+    "name": "Relaciones públicas",
+    "lang": "es"
+  },
+  {
+    "_id": 463,
+    "occupationId": 68,
+    "name": "Grundeigentum",
+    "lang": "de"
+  },
+  {
+    "_id": 464,
+    "occupationId": 68,
+    "name": "Real Estate",
+    "lang": "en"
+  },
+  {
+    "_id": 465,
+    "occupationId": 68,
+    "name": "Immobilier",
+    "lang": "fr"
+  },
+  {
+    "_id": 466,
+    "occupationId": 68,
+    "name": "נדל\"ן",
+    "lang": "he"
+  },
+  {
+    "_id": 467,
+    "occupationId": 68,
+    "name": "Imobiliária",
+    "lang": "pt"
+  },
+  {
+    "_id": 468,
+    "occupationId": 68,
+    "name": "Недвижимость",
+    "lang": "ru"
+  },
+  {
+    "_id": 469,
+    "occupationId": 68,
+    "name": "Bienes raíces",
+    "lang": "es"
+  },
+  {
+    "_id": 470,
+    "occupationId": 69,
+    "name": "Rekrutierung",
+    "lang": "de"
+  },
+  {
+    "_id": 471,
+    "occupationId": 69,
+    "name": "Recruiting",
+    "lang": "en"
+  },
+  {
+    "_id": 472,
+    "occupationId": 69,
+    "name": "Recrutement",
+    "lang": "fr"
+  },
+  {
+    "_id": 473,
+    "occupationId": 69,
+    "name": "גיוס",
+    "lang": "he"
+  },
+  {
+    "_id": 474,
+    "occupationId": 69,
+    "name": "Recrutamento",
+    "lang": "pt"
+  },
+  {
+    "_id": 475,
+    "occupationId": 69,
+    "name": "наем",
+    "lang": "ru"
+  },
+  {
+    "_id": 476,
+    "occupationId": 69,
+    "name": "Reclutamiento",
+    "lang": "es"
+  },
+  {
+    "_id": 477,
+    "occupationId": 70,
+    "name": "Verkauf",
+    "lang": "de"
+  },
+  {
+    "_id": 478,
+    "occupationId": 70,
+    "name": "Retail",
+    "lang": "en"
+  },
+  {
+    "_id": 479,
+    "occupationId": 70,
+    "name": "Vente au détail",
+    "lang": "fr"
+  },
+  {
+    "_id": 480,
+    "occupationId": 70,
+    "name": "קמעונאות",
+    "lang": "he"
+  },
+  {
+    "_id": 481,
+    "occupationId": 70,
+    "name": "Varejo",
+    "lang": "pt"
+  },
+  {
+    "_id": 482,
+    "occupationId": 70,
+    "name": "Розничная торговля",
+    "lang": "ru"
+  },
+  {
+    "_id": 483,
+    "occupationId": 70,
+    "name": "Al por menor",
+    "lang": "es"
+  },
+  {
+    "_id": 484,
+    "occupationId": 71,
+    "name": "Der Umsatz",
+    "lang": "de"
+  },
+  {
+    "_id": 485,
+    "occupationId": 71,
+    "name": "Sales",
+    "lang": "en"
+  },
+  {
+    "_id": 486,
+    "occupationId": 71,
+    "name": "Ventes",
+    "lang": "fr"
+  },
+  {
+    "_id": 487,
+    "occupationId": 71,
+    "name": "מכירות",
+    "lang": "he"
+  },
+  {
+    "_id": 488,
+    "occupationId": 71,
+    "name": "Vendas",
+    "lang": "pt"
+  },
+  {
+    "_id": 489,
+    "occupationId": 71,
+    "name": "Продажи",
+    "lang": "ru"
+  },
+  {
+    "_id": 490,
+    "occupationId": 71,
+    "name": "Ventas",
+    "lang": "es"
+  },
+  {
+    "_id": 491,
+    "occupationId": 72,
+    "name": "Schulberatung",
+    "lang": "de"
+  },
+  {
+    "_id": 492,
+    "occupationId": 72,
+    "name": "School Counseling",
+    "lang": "en"
+  },
+  {
+    "_id": 493,
+    "occupationId": 72,
+    "name": "Orientation scolaire",
+    "lang": "fr"
+  },
+  {
+    "_id": 494,
+    "occupationId": 72,
+    "name": "ייעוץ בבתי ספר",
+    "lang": "he"
+  },
+  {
+    "_id": 495,
+    "occupationId": 72,
+    "name": "Aconselhamento Escolar",
+    "lang": "pt"
+  },
+  {
+    "_id": 496,
+    "occupationId": 72,
+    "name": "Школа консультирования",
+    "lang": "ru"
+  },
+  {
+    "_id": 497,
+    "occupationId": 72,
+    "name": "Consejería escolar",
+    "lang": "es"
+  },
+  {
+    "_id": 498,
+    "occupationId": 73,
+    "name": "Wissenschaft und Forschung",
+    "lang": "de"
+  },
+  {
+    "_id": 499,
+    "occupationId": 73,
+    "name": "Science and research",
+    "lang": "en"
+  },
+  {
+    "_id": 500,
+    "occupationId": 73,
+    "name": "Science et recherche",
+    "lang": "fr"
+  },
+  {
+    "_id": 501,
+    "occupationId": 73,
+    "name": "מדע ומחקר",
+    "lang": "he"
+  },
+  {
+    "_id": 502,
+    "occupationId": 73,
+    "name": "Ciência e pesquisa",
+    "lang": "pt"
+  },
+  {
+    "_id": 503,
+    "occupationId": 73,
+    "name": "Наука и исследования",
+    "lang": "ru"
+  },
+  {
+    "_id": 504,
+    "occupationId": 73,
+    "name": "Ciencia e investigación",
+    "lang": "es"
+  },
+  {
+    "_id": 505,
+    "occupationId": 74,
+    "name": "Sozialen Medien",
+    "lang": "de"
+  },
+  {
+    "_id": 506,
+    "occupationId": 74,
+    "name": "Social Media",
+    "lang": "en"
+  },
+  {
+    "_id": 507,
+    "occupationId": 74,
+    "name": "Des médias sociaux",
+    "lang": "fr"
+  },
+  {
+    "_id": 508,
+    "occupationId": 74,
+    "name": "מדיה חברתית",
+    "lang": "he"
+  },
+  {
+    "_id": 509,
+    "occupationId": 74,
+    "name": "Mídia social",
+    "lang": "pt"
+  },
+  {
+    "_id": 510,
+    "occupationId": 74,
+    "name": "Социальные сети",
+    "lang": "ru"
+  },
+  {
+    "_id": 511,
+    "occupationId": 74,
+    "name": "Medios de comunicación social",
+    "lang": "es"
+  },
+  {
+    "_id": 512,
+    "occupationId": 75,
+    "name": "Sozialdienstleistungen",
+    "lang": "de"
+  },
+  {
+    "_id": 513,
+    "occupationId": 75,
+    "name": "Social Services",
+    "lang": "en"
+  },
+  {
+    "_id": 514,
+    "occupationId": 75,
+    "name": "Services sociaux",
+    "lang": "fr"
+  },
+  {
+    "_id": 515,
+    "occupationId": 75,
+    "name": "שירותים סוציאליים",
+    "lang": "he"
+  },
+  {
+    "_id": 516,
+    "occupationId": 75,
+    "name": "Serviços sociais",
+    "lang": "pt"
+  },
+  {
+    "_id": 517,
+    "occupationId": 75,
+    "name": "Социальные службы",
+    "lang": "ru"
+  },
+  {
+    "_id": 518,
+    "occupationId": 75,
+    "name": "Servicios sociales",
+    "lang": "es"
+  },
+  {
+    "_id": 519,
+    "occupationId": 76,
+    "name": "Sozialarbeit",
+    "lang": "de"
+  },
+  {
+    "_id": 520,
+    "occupationId": 76,
+    "name": "Social Work",
+    "lang": "en"
+  },
+  {
+    "_id": 521,
+    "occupationId": 76,
+    "name": "Travail social",
+    "lang": "fr"
+  },
+  {
+    "_id": 522,
+    "occupationId": 76,
+    "name": "עבודה סוציאלית",
+    "lang": "he"
+  },
+  {
+    "_id": 523,
+    "occupationId": 76,
+    "name": "Trabalho social",
+    "lang": "pt"
+  },
+  {
+    "_id": 524,
+    "occupationId": 76,
+    "name": "Социальная работа",
+    "lang": "ru"
+  },
+  {
+    "_id": 525,
+    "occupationId": 76,
+    "name": "Trabajo Social",
+    "lang": "es"
+  },
+  {
+    "_id": 526,
+    "occupationId": 77,
+    "name": "Software-Entwicklung",
+    "lang": "de"
+  },
+  {
+    "_id": 527,
+    "occupationId": 77,
+    "name": "Software Development",
+    "lang": "en"
+  },
+  {
+    "_id": 528,
+    "occupationId": 77,
+    "name": "Développement de logiciels",
+    "lang": "fr"
+  },
+  {
+    "_id": 529,
+    "occupationId": 77,
+    "name": "פיתוח תוכנה",
+    "lang": "he"
+  },
+  {
+    "_id": 530,
+    "occupationId": 77,
+    "name": "Desenvolvimento de software",
+    "lang": "pt"
+  },
+  {
+    "_id": 531,
+    "occupationId": 77,
+    "name": "Разработка программного обеспечения",
+    "lang": "ru"
+  },
+  {
+    "_id": 532,
+    "occupationId": 77,
+    "name": "Desarrollo de software",
+    "lang": "es"
+  },
+  {
+    "_id": 533,
+    "occupationId": 78,
+    "name": "Sport",
+    "lang": "de"
+  },
+  {
+    "_id": 534,
+    "occupationId": 78,
+    "name": "Sports",
+    "lang": "en"
+  },
+  {
+    "_id": 535,
+    "occupationId": 78,
+    "name": "Des sports",
+    "lang": "fr"
+  },
+  {
+    "_id": 536,
+    "occupationId": 78,
+    "name": "ספורט",
+    "lang": "he"
+  },
+  {
+    "_id": 537,
+    "occupationId": 78,
+    "name": "Esportes",
+    "lang": "pt"
+  },
+  {
+    "_id": 538,
+    "occupationId": 78,
+    "name": "Виды спорта",
+    "lang": "ru"
+  },
+  {
+    "_id": 539,
+    "occupationId": 78,
+    "name": "Deportes",
+    "lang": "es"
+  },
+  {
+    "_id": 540,
+    "occupationId": 79,
+    "name": "Sommerjobs",
+    "lang": "de"
+  },
+  {
+    "_id": 541,
+    "occupationId": 79,
+    "name": "Summer Jobs",
+    "lang": "en"
+  },
+  {
+    "_id": 542,
+    "occupationId": 79,
+    "name": "Emplois d'été",
+    "lang": "fr"
+  },
+  {
+    "_id": 543,
+    "occupationId": 79,
+    "name": "עבודות קיץ",
+    "lang": "he"
+  },
+  {
+    "_id": 544,
+    "occupationId": 79,
+    "name": "Empregos de verao",
+    "lang": "pt"
+  },
+  {
+    "_id": 545,
+    "occupationId": 79,
+    "name": "Работа на лето",
+    "lang": "ru"
+  },
+  {
+    "_id": 546,
+    "occupationId": 79,
+    "name": "Trabajo de verano",
+    "lang": "es"
+  },
+  {
+    "_id": 547,
+    "occupationId": 80,
+    "name": "Therapeut",
+    "lang": "de"
+  },
+  {
+    "_id": 548,
+    "occupationId": 80,
+    "name": "Therapist",
+    "lang": "en"
+  },
+  {
+    "_id": 549,
+    "occupationId": 80,
+    "name": "Thérapeute",
+    "lang": "fr"
+  },
+  {
+    "_id": 550,
+    "occupationId": 80,
+    "name": "מטפל",
+    "lang": "he"
+  },
+  {
+    "_id": 551,
+    "occupationId": 80,
+    "name": "Terapeuta",
+    "lang": "pt"
+  },
+  {
+    "_id": 552,
+    "occupationId": 80,
+    "name": "Терапевт",
+    "lang": "ru"
+  },
+  {
+    "_id": 553,
+    "occupationId": 80,
+    "name": "Terapeuta",
+    "lang": "es"
+  },
+  {
+    "_id": 554,
+    "occupationId": 81,
+    "name": "Web Entwicklung",
+    "lang": "de"
+  },
+  {
+    "_id": 555,
+    "occupationId": 81,
+    "name": "Web Development",
+    "lang": "en"
+  },
+  {
+    "_id": 556,
+    "occupationId": 81,
+    "name": "Développement web",
+    "lang": "fr"
+  },
+  {
+    "_id": 557,
+    "occupationId": 81,
+    "name": "בניית אתרים",
+    "lang": "he"
+  },
+  {
+    "_id": 558,
+    "occupationId": 81,
+    "name": "Desenvolvimento web",
+    "lang": "pt"
+  },
+  {
+    "_id": 559,
+    "occupationId": 81,
+    "name": "Веб-разработка",
+    "lang": "ru"
+  },
+  {
+    "_id": 560,
+    "occupationId": 81,
+    "name": "Desarrollo web",
+    "lang": "es"
+  },
+  {
+    "_id": 561,
+    "occupationId": 82,
+    "name": "Zuhause arbeiten",
+    "lang": "de"
+  },
+  {
+    "_id": 562,
+    "occupationId": 82,
+    "name": "Work at Home",
+    "lang": "en"
+  },
+  {
+    "_id": 563,
+    "occupationId": 82,
+    "name": "Travail à la maison",
+    "lang": "fr"
+  },
+  {
+    "_id": 564,
+    "occupationId": 82,
+    "name": "עבודה מהבית",
+    "lang": "he"
+  },
+  {
+    "_id": 565,
+    "occupationId": 82,
+    "name": "Trabalhar em Casa",
+    "lang": "pt"
+  },
+  {
+    "_id": 566,
+    "occupationId": 82,
+    "name": "Работа на дому",
+    "lang": "ru"
+  },
+  {
+    "_id": 567,
+    "occupationId": 82,
+    "name": "Trabajar en casa",
+    "lang": "es"
+  },
+  {
+    "_id": 568,
+    "occupationId": 83,
+    "name": "Rabbiner",
+    "lang": "de"
+  },
+  {
+    "_id": 569,
+    "occupationId": 83,
+    "name": "Rabbi",
+    "lang": "en"
+  },
+  {
+    "_id": 570,
+    "occupationId": 83,
+    "name": "Rabbin",
+    "lang": "fr"
+  },
+  {
+    "_id": 571,
+    "occupationId": 83,
+    "name": "רב",
+    "lang": "he"
+  },
+  {
+    "_id": 572,
+    "occupationId": 83,
+    "name": "Rabino",
+    "lang": "pt"
+  },
+  {
+    "_id": 573,
+    "occupationId": 83,
+    "name": "Раввин",
+    "lang": "ru"
+  },
+  {
+    "_id": 574,
+    "occupationId": 83,
+    "name": "Rabino",
+    "lang": "es"
+  },
+  {
+    "_id": 575,
+    "occupationId": 250,
+    "name": "Andere",
+    "lang": "de"
+  },
+  {
+    "_id": 576,
+    "occupationId": 250,
+    "name": "Other",
+    "lang": "en"
+  },
+  {
+    "_id": 577,
+    "occupationId": 250,
+    "name": "Autre",
+    "lang": "fr"
+  },
+  {
+    "_id": 578,
+    "occupationId": 250,
+    "name": "אחר",
+    "lang": "he"
+  },
+  {
+    "_id": 579,
+    "occupationId": 250,
+    "name": "De outros",
+    "lang": "pt"
+  },
+  {
+    "_id": 580,
+    "occupationId": 250,
+    "name": "Другой",
+    "lang": "ru"
+  },
+  {
+    "_id": 581,
+    "occupationId": 250,
+    "name": "Otro",
+    "lang": "es"
+  },
+  {
+    "_id": 582,
+    "occupationId": 251,
+    "name": "Schüler",
+    "lang": "de"
+  },
+  {
+    "_id": 583,
+    "occupationId": 251,
+    "name": "Student",
+    "lang": "en"
+  },
+  {
+    "_id": 584,
+    "occupationId": 251,
+    "name": "Étudiant",
+    "lang": "fr"
+  },
+  {
+    "_id": 585,
+    "occupationId": 251,
+    "name": "סטודנט",
+    "lang": "he"
+  },
+  {
+    "_id": 586,
+    "occupationId": 251,
+    "name": "Aluna",
+    "lang": "pt"
+  },
+  {
+    "_id": 587,
+    "occupationId": 251,
+    "name": "Ученик",
+    "lang": "ru"
+  },
+  {
+    "_id": 588,
+    "occupationId": 251,
+    "name": "Estudiante",
+    "lang": "es"
+  },
+  {
+    "_id": 589,
+    "occupationId": 252,
+    "name": "Mutter",
+    "lang": "de"
+  },
+  {
+    "_id": 590,
+    "occupationId": 252,
+    "name": "Mother",
+    "lang": "en"
+  },
+  {
+    "_id": 591,
+    "occupationId": 252,
+    "name": "Mère",
+    "lang": "fr"
+  },
+  {
+    "_id": 592,
+    "occupationId": 252,
+    "name": "אמא",
+    "lang": "he"
+  },
+  {
+    "_id": 593,
+    "occupationId": 252,
+    "name": "Mãe",
+    "lang": "pt"
+  },
+  {
+    "_id": 594,
+    "occupationId": 252,
+    "name": "Мама",
+    "lang": "ru"
+  },
+  {
+    "_id": 595,
+    "occupationId": 252,
+    "name": "Madre",
+    "lang": "es"
+  }
+]

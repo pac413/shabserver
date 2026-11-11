@@ -1,0 +1,306 @@
+{
+  "errors": {
+    "admin": {
+      "only-allowed": "Only admin can use this feature",
+      "already-admin": "User already an admin",
+      "not-admin": "User is not an admin"
+    },
+    "zealot": {
+      "already-zealot": "User already a zealot",
+      "not-zealot": "User does not have a Zealot status"
+    },
+    "greenlight": {
+      "already-greenlight": "User already has a Greenlight status",
+      "not-greenlight": "User is not a greenlight"
+    },
+    "auth": {
+      "not-found-user": "No account is associated with this entered email address. Please re-check and try again.",
+      "not-found-reset-password-token": "Reset password token not found",
+      "forbidden-email": "Forbidden email",
+      "forbidden-password": "Forbidden password",
+      "registration-paused": "Registration is temporary paused",
+      "invalid-first-name": "Invalid first name",
+      "invalid-last-name": "Invalid last name",
+      "invalid-email": "Invalid email",
+      "invalid-password-length": "Password must contain at least 6 characters",
+      "duplicate-email": "Email entered already exists for an account on Shabbat.com",
+      "email-already-confirmed": "Email already confirmed",
+      "different-account": "You are logged in currently to a different Shabbat.com account. To use this link, please logout first and then sign-in to the account associated with this link.",
+      "suspended": "Account has been suspended",
+      "deleted": "Account has been deleted",
+      "invalid-token": "Your token is invalid",
+      "invalid-credentials": "Your email or password is invalid",
+      "error": "An error occurred and your request could not be processed."
+    },
+    "global": {
+      "forbidden": "Forbidden",
+      "not-found": "Not Found",
+      "internal": "Internal Server Error",
+      "unauthorised": "Unauthorised"
+    },
+    "conversation": {
+      "approval-forbidden": "You are not authorized to approve this conversation",
+      "invalid-id": "Invalid conversation id {{conversationId}}",
+      "reject-forbidden": "You are not authorized to reject this conversation",
+      "reject-not-pending": "You can only reject pending conversation but this conversation is not pending",
+      "empty-participants-list": "Cannot create conversation with empty participants list {{participants}}",
+      "blocked-participants-list": "Cannot create conversation with a Shabbat.com member who you are blocking and vice versa",
+      "restricted-participants-list": "Cannot create conversation with messaging restricted participants",
+      "forbidden-create-broadcast-conversation": "You are not authorized to create a new broadcast conversation",
+      "forbidden-archive-broadcast-conversation": "You are not authorized to archive this broadcast conversation"
+    },
+    "endorse": {
+      "invalid-endorsee-site-role": "Endorsee is not a {{siteRole}}",
+      "endorsement-blocked": "Endorsement is blocked for this profile"
+    },
+    "feed": {
+      "forbidden": "You don't have access to this feed item",
+      "invalid-id": "Invalid feed item id {{feedItemId}}"
+    },
+    "flagging-content": {
+      "invalid-post-id": "Invalid Post id {{resourceId}} to flag",
+      "invalid-post-comment-id": "Invalid Post Comment id {{resourceId}} to flag",
+      "invalid-post-comment-reply-id": "Invalid Post Comment Reply id {{resourceId}} to flag",
+      "invalid-profile-avatar-id": "Invalid Profile Avatar (Media)id {{resourceId}} to flag",
+      "invalid-profile-picture-id": "Invalid Profile Picture (Media)id {{resourceId}} to flag"
+    },
+    "follower": {
+      "invalid-follower-id": "You have not been following the profile {{followerId}}",
+      "invalid-follower-profile-id": "Follower profile doesn't exist {{followerId}}"
+    },
+    "friend": {
+      "approve-request-failed": "Cannot approve friend request because it has either expired or already been accepted",
+      "invalid-friend-profile-id": "Invalid friend profile id",
+      "blocking-friend-profile-id": "Apologies, could not add friend at this time",
+      "frienship-already-exists": "Friendship already exists",
+      "invalid-friend-request-id": "Invalid friend request id"
+    },
+    "guest-profile": {
+      "update-forbidden": "Can't update this guest profile"
+    },
+    "hosting": {
+      "accept-hosting-invitation-forbidden": "You are not authorized to accept this hosting invitation",
+      "accept-hosting-request-forbidden": "You are not authorized to accept this hosting request",
+      "reject-hosting-invitation-forbidden": "You are not authorized to reject this hosting invitation",
+      "reject-hosting-request-forbidden": "You are not authorized to reject this hosting request",
+      "request-hosting-forbidden": "You are not authorized to request hosting",
+      "create-invite-forbidden": "You are not authorized to create this invitation",
+      "create-invite-private-code-required": "Private invite code is required to request hosting",
+      "create-invite-private-code-mismatch": "Private invite code doesn't match. Please confirm the code with the host again",
+      "contacts-forbidden": "You are not authorized to view this profile contacts"
+    },
+    "hosting-profile": {
+      "private-invite-not-enabled": "Private invite is not enabled. Please enable it first.",
+      "no-host-profile-found": "No host profile found"
+    },
+    "dating": {
+      "profile-already-request": "You have already requested to view this dating profile. Requests cannot be made more than once at this time."
+    },
+    "media": {
+      "invalid-feed-reference": "Can't find feedItemId from media reference"
+    },
+    "message": {
+      "forbidden-conversation-id": "Cannot list messages from the conversation which you do not belong to",
+      "pending-approval": "You cannot send message until you approve the conversation"
+    },
+    "message-reaction": {
+      "invalid-conversation-id": "Conversation not found",
+      "invalid-message-id": "Message not found",
+      "invalid-message-reaction-id": "Message reaction not found"
+    },
+    "notification": {
+      "invalid-id": "Invalid notification id {{notificationId}}",
+      "update-forbidden": "You are not authorized to update this notification status {{notificationId}}"
+    },
+    "post": {
+      "invalid-id": "Invalid post id {{postId}}",
+      "invalid-like-id": "No like found for post by: {{activeProfileId}}",
+      "invalid-comment-id": "No post found for comment with id: {{commentId}} for post by id: {{postId}}",
+      "delete-comment-forbidden": "You are not allowed to delete this comment",
+      "update-comment-forbidden": "You are not allowed to update this comment",
+      "comment-like-not-found": "No like on post comment by {{activeProfileId}}",
+      "comment-reply-like-not-found": "No like on post comment reply by {{activeProfileId}}",
+      "delete-comment-reply-forbidden": "You are not allowed to delete this comment reply",
+      "update-comment-reply-forbidden": "You are not allowed to update this comment reply"
+    },
+    "profile": {
+      "not-found": "Profile not found {{profileId}}",
+      "incomplete-profile": "Incomplete Profile {{flags}}",
+      "update-forbidden": "Can't update this profile {{profileId}}"
+    },
+    "reference": {
+      "invalid-id": "Cannot find reference request {{referenceId}}",
+      "create-forbidden": "Can't add reference to this profile {{profileId}}",
+      "update-forbidden": "Can't update reference of this profile {{profileId}}",
+      "invalid-recipient-profile-id": "Can't find recipient profile {{profileId}}",
+      "invalid-requestor-profile-id": "Can't find requestor profile {{profileId}}",
+      "request-exists": "References has already been requested. If approved, you will receive all references via email."
+    },
+    "mute-connection": {
+      "profile-not-muted": "You have not been hiding posts of profile {{profileId}}"
+    }
+  },
+  "notification": {
+    "new-message-request": {
+      "title": "New Message Request",
+      "content": "New Message Request from <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a>",
+      "mobile-content": "New Message Request from {{firstName}} {{lastName}}",
+      "accept": "Accept",
+      "delete": "Delete"
+    },
+    "new-message-approved": {
+      "title": "Message Request Approved",
+      "content": "Message Request to <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> was approved",
+      "mobile-content": "Message Request to {{firstName}} {{lastName}} was approved"
+    },
+    "new-message": {
+      "title": "New Message from <a href=\"{{senderProfileUrl}}\">{{senderFirstName}} {{senderLastName}}</a>",
+      "mobile-title": "New Message from {{senderFirstName}} {{senderLastName}}",
+      "mobile-content": "New Message from {{senderFirstName}} {{senderLastName}}",
+      "attachment": "New Attachment",
+      "view": "View"
+    },
+    "profile-endorsed": {
+      "title": "New Endorsement",
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> endorsed you for {{siteRole}}",
+      "mobile-content": "{{firstName}} {{lastName}} endorsed you for {{siteRole}}",
+      "view": "View Endorsement",
+      "endorse-back": "Endorse Back"
+    },
+    "profile-viewed": {
+      "title": "New Profile View",
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> viewed your profile",
+      "mobile-content": "{{firstName}} {{lastName}} viewed your profile"
+    },
+    "profile-followed": {
+      "title": "New Follower",
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> is now following you on Shabbat.com",
+      "mobile-content": "{{firstName}} {{lastName}} is now following you on Shabbat.com"
+    },
+    "new-friend-request": {
+      "title": "New Friend Request",
+      "content": "New Friend Request from <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a>",
+      "mobile-content": "New Friend Request from {{firstName}} {{lastName}}",
+      "accept": "Accept",
+      "delete": "Delete"
+    },
+    "friend-request-approved": {
+      "title": "{{firstName}} {{lastName}} accepted your friend request",
+      "content": "Friend Request to <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> was approved",
+      "mobile-content": "Friend Request to {{firstName}} {{lastName}} was approved"
+    },
+    "dating-profile-request": {
+      "title": "New Dating Profile Request",
+      "content": "New Dating Profile Request from <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a>",
+      "mobile-content": "New Dating Profile Request from {{firstName}} {{lastName}}",
+      "accept": "Accept"
+    },
+    "new-invite": {
+      "title": "New Invite",
+      "content": "You have been invited for Shabbat by <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a>",
+      "mobile-content": "You have been invited for Shabbat by {{firstName}} {{lastName}}",
+      "accept": "Accept",
+      "decline": "Decline",
+      "more": "View Invite",
+      "view-invite": "View Invite"
+    },
+    "invite-accepted": {
+      "title": "Invite accepted",
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> has accepted your invite for Shabbat",
+      "mobile-content": "{{firstName}} {{lastName}} has accepted your invite for Shabbat"
+    },
+    "invite-declined": {
+      "title": "Invite declined",
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> has declined your invite for Shabbat",
+      "mobile-content": "{{firstName}} {{lastName}} has declined your invite for Shabbat"
+    },
+    "new-host-request": {
+      "title": "New Host Request",
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> is requesting hosting for Shabbat",
+      "mobile-content": "{{firstName}} {{lastName}} is requesting hosting for Shabbat",
+      "accept": "Accept",
+      "decline": "Decline",
+      "more": "View Invite",
+      "view-invite": "View Invite"
+    },
+    "host-approved": {
+      "title": "Host Approved",
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> has accepted your request for hosting",
+      "mobile-content": "{{firstName}} {{lastName}} has accepted your request for hosting"
+    },
+    "host-declined": {
+      "title": "Host Declined",
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> has politely declined your request for Shabbat",
+      "mobile-content": "{{firstName}} {{lastName}} has politely declined your request for Shabbat"
+    },
+    "new-like-on-post": {
+      "title": "New Like on Post",
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> liked your post: \"{{content}}\" ",
+      "mobile-content": "{{firstName}} {{lastName}} liked your post",
+      "view": "View"
+    },
+    "new-like-on-comment": {
+      "title": "New Like on Comment",
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> liked your comment: \"{{content}}\" ",
+      "mobile-content": "{{firstName}} {{lastName}} liked your comment",
+      "view": "View"
+    },
+    "new-comment-on-post": {
+      "title": "New Comment On Post",
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> commented on your post: \"{{content}}\" ",
+      "mobile-content": "{{firstName}} {{lastName}} commented on your post",
+      "view": "View"
+    },
+    "new-comment-on-comment": {
+      "title": "New Comment Reply",
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> commented on comment: \"{{content}}\" ",
+      "mobile-content": "{{firstName}} {{lastName}} commented on comment",
+      "view": "View"
+    },
+    "post-media-processed": {
+      "title": "Your recent post is now ready to be viewed",
+      "content": "Your {{mediaType}} is now viewable on your feed",
+      "mobile-content": "Your {{mediaType}} is now viewable on your feed",
+      "view": "View"
+    },
+    "comment-media-processed": {
+      "title": "Your recent comment is now ready to be viewed",
+      "content": "Your {{mediaType}} is now viewable as a comment",
+      "mobile-content": "Your {{mediaType}} is now viewable as a comment",
+      "view": "View"
+    },
+    "comment_reply-media-processed": {
+      "title": "Your recent comment reply is now ready to be viewed",
+      "content": "Your {{mediaType}} is now viewable as a comment reply",
+      "mobile-content": "Your {{mediaType}} is now viewable as a comment reply",
+      "view": "View"
+    },
+    "host-endorsement-request": {
+      "title": "New Host Endorsement Request",
+      "content": "Add a new host endorsement for <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a>.",
+      "mobile-content": "Add a new host endorsement for {{firstName}} {{lastName}}.",
+      "accept": "Endorse here"
+    },
+    "guest-endorsement-request": {
+      "title": "New Guest Endorsement Request",
+      "content": "Add a new guest endorsement for <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a>.",
+      "mobile-content": "Add a new guest endorsement for {{firstName}} {{lastName}}.",
+      "accept": "Endorse here"
+    },
+    "message-reaction": {
+      "mobile-title": "{{firstName}} {{lastName}} reacted to your message",
+      "mobile-content": "{{reaction}}"
+    }
+  },
+  "messages": {
+    "new-friends": "You are now friends on <a href=\"https://shabbat.com\">Shabbat.com</a>. Start a conversation.",
+    "new-hosting": "Discuss your Shabbat invite in messaging"
+  },
+  "post": {
+    "avatar-updated": "{{firstName}} {{lastName}}'s avatar has changed.",
+    "new-picture-added": "{{firstName}} {{lastName}} added a picture."
+  },
+  "auth": {
+    "reset-for-deleted-account": "Your reset password email has been sent. When you login to shabbat.com with your new password you will be able to reinstate your account."
+  }
+}

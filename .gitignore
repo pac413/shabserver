@@ -1,0 +1,29 @@
+# annoyances
+**/.DS_Store/**
+.DS_Store
+.env
+.env.*
+.nvmrc
+
+
+# npm, node
+node_modules/
+
+mongodb/
+
+uploads/*
+dist/*
+
+# misc
+.vscode
+
+logs
+logs/*
+
+# tmp
+tmp/*
+
+dump.rdb
+
+.terraform
+.terraform.lock.hcl

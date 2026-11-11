@@ -1,0 +1,36 @@
+{
+  "parser": "@babel/eslint-parser",
+  "extends": [
+    "standard",
+    "prettier"
+  ],
+  "plugins": [
+    "import",
+    "prettier"
+  ],
+  "parserOptions": {
+    "ecmaVersion": 2017
+  },
+  "env": {
+    "node": true,
+    "es6": true,
+    "jest": true
+  },
+  "rules": {
+    "import/order": ["error", {
+      "groups": [
+        "builtin",
+        "external",
+        "internal",
+        "parent",
+        "sibling",
+        "index"
+      ],
+      "newlines-between": "never"
+    }],
+    "new-cap": 0,
+    "no-use-before-define": "error",
+    "prettier/prettier": 2,
+    "space-before-function-paren": 0
+  }
+}

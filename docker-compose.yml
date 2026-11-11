@@ -1,0 +1,131 @@
+version: '3.5'
+
+services:
+
+  server:
+    container_name: server
+    build:
+      context: .
+      target: development
+
+    # this line is not necessary because of the last line in the docker file.
+    # but will help when we start using tests
+    command: ['npm', 'run', 'local']
+
+    ports:
+      - 8080:8080
+      - 4000:4000
+
+    volumes:
+      - .:/application
+      # We don't have a node_modules in our local dir. 
+      # If you accidentally run npm install on your local and get a local node_module dir,
+      # this line prevents the line above from clobbering the /application/node_modules directory 
+      # that was created when we build the docker image 
+      - /application/node_modules
+
+    depends_on:
+     - mongodb
+     - redis
+
+    environment:
+      # This is set in the docker file but can be overwritten here
+      - PORT=8080
+      - FAKE=${FAKE}
+      - GOOGLE_CLIENT_ID=${GOOGLE_CLIENT_ID}
+      - GOOGLE_CLIENT_SECRET=${GOOGLE_CLIENT_SECRET}
+      - NODE_ENV=development
+      - MONGODB_URL=mongodb://api:api@mongodb:27017/shabbat_com_development
+      - REDIS_SERVER=redis
+      - REDIS_PORT=6379
+      - FB_APP_ID=592803028228011
+      - FB_APP_SECRET=${FB_APP_SECRET}
+      - FRONTEND_URL=https://localhost:3000
+      - SECRET=${SECRET}
+      - S3_MEDIA_BUCKET=shabbat-com
+      - S3_URL=minio
+      - S3_PORT=9000
+      - S3_ACCESS_KEY=${MINIO_ACCESS_KEY}
+      - S3_SECRET_KEY=${MINIO_SECRET_KEY}
+      - S3_PUBLIC_URL=localhost
+      - AUTO_APPROVE_CONVERSATIONS=true
+      - IMPORT=${IMPORT}
+      - OFFSET=${OFFSET}
+      - LIMIT=${LIMIT}
+      - JWT_EXPIRES=300
+      - LEGACY_API_URL=https://www.shabbat.com/api
+  worker:
+    container_name: worker
+    build:
+      context: .
+      target: development
+
+    command: [
+      "./wait-for-it.sh", "mongodb:27017", "--",
+      "./wait-for-it.sh", "redis:6379", "--",
+      "npm", "run", "worker"
+    ]
+
+    volumes:
+      - .:/application
+      - /application/node_modules
+
+    depends_on:
+     - mongodb
+     - redis
+
+    environment:
+      - NODE_ENV=local
+      - MONGODB_URL=mongodb://api:api@mongodb:27017/shabbat_com_development
+      - REDIS_SERVER=redis
+      - REDIS_PORT=6379
+
+  mongodb:
+    # no need to build. just use standard image.
+    image: mongo:latest
+    container_name: "mongodb"
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./mongodb/data:/data/db
+      - ./mongodb/mongod.conf:/etc/mongod.conf
+      - ./mongodb/initdb.d/:/docker-entrypoint-initdb.d/
+      - ./mongodb/log/:/var/log/mongodb/
+    env_file:
+        - .env
+    environment:
+      # add to .env file
+      - MONGO_INITDB_DATABASE=shabbat_com_development
+      - MONGO_INITDB_ROOT_USERNAME=api
+      - MONGO_INITDB_ROOT_PASSWORD=api
+      - MONGO_URL=mongodb://mongodb:27017
+      - MONGO_INITDB_USERNAME=api
+      - MONGO_INITDB_PASSWORD=api
+      - MONGO_REPLICA_SET_NAME=rs0
+    healthcheck:
+      test: test $$(echo "rs.initiate().ok || rs.status().ok" | mongo -u $${MONGO_INITDB_ROOT_USERNAME} -p $${MONGO_INITDB_ROOT_PASSWORD} --quiet) -eq 1
+      interval: 10s
+      start_period: 30s
+    command: ["-f", "/etc/mongod.conf", "--replSet", "${MONGO_REPLICA_SET_NAME}", "--bind_ip_all"]
+  minio:
+    image: minio/minio
+    container_name: "shabbat_com_minio"
+    volumes:
+      - ./uploads:/data
+    ports:
+      - 9000:9000
+    command: server /data
+    environment:
+      - MINIO_ACCESS_KEY=${MINIO_ACCESS_KEY}
+      - MINIO_SECRET_KEY=${MINIO_SECRET_KEY}
+
+  redis:
+    # no need to build. just use standard image.
+    image: redis
+    ports:
+      - 6379:6379
+  redis_testing:
+    # no need to build. just use standard image.
+    image: redis
+    ports:
+      - 6378:6379

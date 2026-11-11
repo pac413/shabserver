@@ -1,0 +1,2 @@
+export const DEFAULT_FOLLOWERS_LIMIT = 20
+export const DEFAULT_FOLLOWINGS_LIMIT = 20

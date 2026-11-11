@@ -1,0 +1,5659 @@
+{
+  "messages": [
+    {
+      "_id": "3d125c9b-66ee-4e2f-8ada-8e42be145a9e",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Sending a test message",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2020-03-19T15:27:55.483Z"
+    },
+    {
+      "_id": "af280f29-b7d2-42ee-9da1-0b58f1834fb8",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "All set",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2020-02-14T14:51:08.213Z"
+    },
+    {
+      "_id": "56c8ea2b-478e-4c91-bf94-b0203a742fca",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Reply from Yehudah test user",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2019-09-20T15:54:00.31Z"
+    },
+    {
+      "_id": "64801c54-9aa2-42b6-93fa-5de29c08a0d7",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2019-09-19T21:44:36.103Z"
+    },
+    {
+      "_id": "3b6e9813-5c31-445a-80d4-330d4169d0dd",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Very cool!\n",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2019-09-17T18:34:46.963Z"
+    },
+    {
+      "_id": "09fd6e29-e44f-4724-bfb8-ad2c87369b75",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "See this",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2019-09-17T17:45:40.083Z"
+    },
+    {
+      "_id": "dbad4236-0f80-4d3e-9a96-6fbc31c9e872",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2019-09-17T17:45:33.327Z"
+    },
+    {
+      "_id": "2ed0fec4-8918-4062-b148-d322f906cc0b",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2019-09-17T17:45:08.45Z"
+    },
+    {
+      "_id": "97d07654-aad6-475f-a661-7d7665db0bac",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "replying",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2019-09-17T17:33:10.42Z"
+    },
+    {
+      "_id": "01b3db0e-a89a-4770-a45a-ea7251b521e5",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Rov - I'm testing here. Can you please reply?",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2019-09-17T17:20:26.117Z"
+    },
+    {
+      "_id": "5f81988b-c7e2-4b20-9f4b-fca2fcebf921",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Testing",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2018-11-26T23:53:33.247Z"
+    },
+    {
+      "_id": "d14b26cf-83f2-4d4b-9df9-49bc47505c99",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Just testing the app here",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2018-11-15T00:41:36.907Z"
+    },
+    {
+      "_id": "7f358652-a550-40ff-967a-6ef8feb5a80a",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Cool - testing back",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2018-04-11T01:07:57.403Z"
+    },
+    {
+      "_id": "12dafa94-4247-4fcd-baa6-54bd636a9487",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test 3",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2018-04-11T01:05:16.4Z"
+    },
+    {
+      "_id": "04eae5c0-cee8-4f7b-93b6-9767021bdf80",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Testing 2",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2018-04-10T23:53:04.873Z"
+    },
+    {
+      "_id": "5147b212-1ff0-45b7-ac79-0e095c286647",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hey Testing Here",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2018-04-10T23:51:38.843Z"
+    },
+    {
+      "_id": "c50a4fb0-b8f6-4123-970d-b4a28a4e0c91",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "FIX THE DONATE FOR CREDIT CARDS",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2018-03-14T17:43:53.703Z"
+    },
+    {
+      "_id": "e4a8d1a3-db22-4517-b04a-7d174efbb8ef",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2018-01-09T00:34:10.52Z"
+    },
+    {
+      "_id": "4c437db1-eeca-44ea-bd11-0c85363c8840",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2018-01-09T00:33:59.337Z"
+    },
+    {
+      "_id": "127fc7e8-cbe8-41b1-a5cd-aafaa44676fb",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Here are the screenshots as rendered on my phone",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2018-01-09T00:33:48.203Z"
+    },
+    {
+      "_id": "7390af38-5c64-4b2f-8676-adb823364ce9",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Cute baby!! Right?",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2018-01-09T00:32:35.83Z"
+    },
+    {
+      "_id": "7f4459fd-0beb-4aec-a48b-dbc1855df0d1",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hi back",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2017-11-15T21:01:16.643Z"
+    },
+    {
+      "_id": "3aec75e2-0b2b-472c-a0e2-56e4c6b410e9",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hi",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2017-11-15T21:00:33.75Z"
+    },
+    {
+      "_id": "2a8cdd21-542f-4825-9581-c65eeefad008",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2017-09-05T13:17:15.113Z"
+    },
+    {
+      "_id": "fae06e11-63d7-4b02-a31b-634a87aec8a1",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Just testing here",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2017-07-30T18:20:20.66Z"
+    },
+    {
+      "_id": "7c3ba382-3f54-4a5a-bed9-5bba470bd1a1",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Holy Rabbi!",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2017-07-28T04:27:01.733Z"
+    },
+    {
+      "_id": "86bcdddd-471c-4bd6-b5c2-cebbb2f78483",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "thank you!!",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2017-07-20T04:54:56.567Z"
+    },
+    {
+      "_id": "1547b2e1-8e26-4ab9-b940-bc5d96bc3645",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "All restored including the groovy scrolling.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2017-07-20T03:31:09.823Z"
+    },
+    {
+      "_id": "7410fb96-1ec7-429a-a9d6-eb24a04610f5",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "It's working now - somehow my adding the scrollbar to encompass the whole area is affecting what is accessible in 'scope' - so I have to restore the scrolling but it's a lesser issue.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2017-07-20T00:45:19.867Z"
+    },
+    {
+      "_id": "581e0f8a-45ea-4aec-8fc5-3216b85eb0af",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "It's working now - somehow my adding the scrollbar to encompass the whole area is affecting what is accessible in 'scope' - so I have to restore the scrolling but it's a lesser issue.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2017-07-20T00:45:14.937Z"
+    },
+    {
+      "_id": "ccd60222-407c-4b6c-8bc1-848b61143d69",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Does it work?",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2017-07-20T00:44:22.747Z"
+    },
+    {
+      "_id": "1f36a3ad-7b8b-4387-8283-63ced7d67cfe",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2017-07-20T00:42:14.123Z"
+    },
+    {
+      "_id": "17316401-bbd5-40f9-a94e-c5d28296d7f4",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Check: \nhttp://www.shabbat.com/services/suggest_dating.asmx/request_private_dating_profile",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2017-07-20T00:13:12.43Z"
+    },
+    {
+      "_id": "f19ad707-58f5-4d78-8dba-467d355e7940",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Got it",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2017-07-18T15:21:08.067Z"
+    },
+    {
+      "_id": "aa23f850-e7ee-42d8-be49-415b81e92b70",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "One more",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2017-07-18T15:21:02.067Z"
+    },
+    {
+      "_id": "1a8d513a-b36a-446f-9c3c-9432ea7b6448",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hey rov",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2017-07-18T15:20:49.767Z"
+    },
+    {
+      "_id": "57912899-ac49-4162-96ce-b66ba17d004f",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I'm on my way over",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2017-07-13T13:27:38.5Z"
+    },
+    {
+      "_id": "0a216ce7-9e6c-4089-99df-4a38bc5b4b1b",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "It may just be my Internet connection but I would like if you could check. It looks like the videos that are uploaded and posted are bringing up the word \"null\" and not posting. (this is on the website)",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2017-06-26T00:04:58.737Z"
+    },
+    {
+      "_id": "b2b73fbc-152e-48f9-9328-bc6c209c812b",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Good morning my friend. If you want to speak and let me know where we're holding I'm available",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2017-06-23T15:33:35.327Z"
+    },
+    {
+      "_id": "ab0ceeb1-224e-4071-8266-9914c1fc0062",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "testing",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-12-01T15:55:59.15Z"
+    },
+    {
+      "_id": "658c9121-2b4f-4584-ad67-87ec36c3d2fa",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "That makes sense. Thank you!",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-11-24T16:14:23.117Z"
+    },
+    {
+      "_id": "99bf1747-abd9-418e-833f-d0e8c8331da7",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Ok - I figured out the problem and fixed it. I'll have to republish the app with the fix. I'll do so with Android. Ios is still in review (since yesterday). I think I'll wait till that is accepted and then issue the new build instead of cancelling the review etc. Unless you disagree.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-11-24T14:18:46.94Z"
+    },
+    {
+      "_id": "57e5292b-7a5d-485b-98a4-9cd251ccbb3f",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "ouch - I'll check it. I know it was working when I built it - I don't know how these things creep in. Will check it now...",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-11-24T13:52:06.117Z"
+    },
+    {
+      "_id": "205f4b4e-5de7-40f2-b367-88e25327f2da",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Just testing.",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-11-24T06:14:58.23Z"
+    },
+    {
+      "_id": "35a42ff0-5ae0-48b7-b80f-370e6acac963",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "The new update looks great. One thing. When trying to change status from a guest to a host or the other way around on the app, the app hangs and needs to be closed down. This is not a product of the update. It was like that before.",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-11-24T05:43:03.803Z"
+    },
+    {
+      "_id": "c9e7547d-a359-48eb-9c90-2d011937bdeb",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "He wrote back:\nGood point, it's probably locked down, let me check that, and either change it, or give you a different URL\nMight take a bit, will try to follow up shortly",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-11-15T22:32:55.977Z"
+    },
+    {
+      "_id": "a1112646-9eb4-4d6c-a18b-0b1570d2078e",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Ok",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-11-15T22:28:43.157Z"
+    },
+    {
+      "_id": "e5f264ba-01fc-48e8-8b99-ccfbadf0196c",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I sent it to him",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-11-15T22:22:35.09Z"
+    },
+    {
+      "_id": "d383f748-032f-425c-a7c5-8cc6585dd603",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Tell him that an Iframe wont work:\n\nRefused to display 'https://jewishmusicstream.com/paused.html' in a frame because it set 'X-Frame-Options' to 'SAMEORIGIN'.\n\nUnless he changes the X-FRAME-OPTIONS",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-11-15T22:14:45.063Z"
+    },
+    {
+      "_id": "bd5b9c35-2832-4bbc-ba00-39a4d53b7dd1",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-11-15T22:13:58.61Z"
+    },
+    {
+      "_id": "b0a749b4-f015-4b61-afad-a21ae7422a96",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Got it - but the iframe element we can set a width but It might be cut off. Will see.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-11-15T21:55:06.663Z"
+    },
+    {
+      "_id": "e75dc31e-7325-49ec-ad99-e110b74e3a6f",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "This is what he wrote me about the music player. \n\nJust use an iframe to embed that page, easiest way to go\nIf you take the code from that page, something may change on my end and mess you up\nbut if you just use that page, then any changes I make will show up on your end as well\nChat Conversation End",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-11-15T20:39:36.57Z"
+    },
+    {
+      "_id": "04f97aeb-2a34-4364-97dc-a1822caade64",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Before I forget, for now, you can just embed either https://jewishmusicstream.com/play.html (plays automatically) or https://jewishmusicstream.com/paused.html (paused by default) on your site.",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-11-15T18:13:04.6Z"
+    },
+    {
+      "_id": "6401d16f-b369-4d5e-93f2-f78dcfcb508c",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Just a thought but I think we need to not display all dating recommendations on the feed. Not everyone gets the feature and write funny things or words intended as a greeting. Maybe only display if length of the full text is significant then likely substantive. Very easy to do.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-11-15T03:06:00.697Z"
+    },
+    {
+      "_id": "6aea0dbb-f3c1-4912-bd04-7762b83c248d",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test send",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-11-03T21:41:35.007Z"
+    },
+    {
+      "_id": "03d3e187-4f63-4e3d-b0a2-a86d68181ee0",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "http://www.shabbat.com/profile/5606f3bd-2b3d-41b0-9b4b-3809ebe839ff/",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-10-07T17:47:25.25Z"
+    },
+    {
+      "_id": "5f918818-37fe-46cc-8876-98e3a553b9ef",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "You could do it, but your messages page (inbox) is going to become cluttered.\n\nMaybe consider doing an email blast?",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-09-28T22:43:48.073Z"
+    },
+    {
+      "_id": "04831506-d9ca-4263-9275-04f2350186a3",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I have a question for you. Does the site have the ability yet for me to send a message to a lot of people at once?  I want to let my friends know about our son's bar mitzvah next week.",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-09-28T21:43:55.647Z"
+    },
+    {
+      "_id": "79b4252a-7519-452e-9be6-4a2fdc1e9873",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I found where to list myself as unavailable on the app which is why I am currently unavailable. Yesterday a list of myself as unavailable on the website but I still got requests. Thank you for checking it out.",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-09-25T22:18:01.743Z"
+    },
+    {
+      "_id": "f8cc00b5-170e-40cb-b555-0a928f782913",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Ok but you are listed as unavailable. The bug might be related to not evaluating your true status in determining the display of the hot me button. Will check that.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-09-25T22:17:04.72Z"
+    },
+    {
+      "_id": "330af4c3-84dc-4c78-ac37-81b0be721aa8",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Also, I did make myself unavailable to host on the website and people were still able to request hosting. For your information, I checked off unavailable not on available this week.",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-09-25T22:07:03.79Z"
+    },
+    {
+      "_id": "156629b2-6ea5-479c-a21e-6e5fb394b3e4",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "On the app, I think we should change the menu title from \" privacy settings\" to \" privacy and availability\". It's the first time I tried 2 make myself unavailable on the app and I had a difficult time finding where that said it was. Because it's a very common setting to change I think it should read as such.",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-09-25T22:05:27.31Z"
+    },
+    {
+      "_id": "3eac566c-14fa-4462-8f91-78bdd537474b",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-09-16T18:10:46.743Z"
+    },
+    {
+      "_id": "f01d3aff-da26-45e9-bc09-d8a7ad133af3",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-09-16T14:54:45.34Z"
+    },
+    {
+      "_id": "224965cd-31bb-4cf7-ba9c-bb5e2d46b005",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Will check - I actually worked on this today. The reject and greenlight need to be looked at again since the new feed code went into place. \n\nAlso - kindly- if you can - no pressure - I really like these issues in github",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-09-16T04:37:21.313Z"
+    },
+    {
+      "_id": "68e63341-f6b7-4d79-b56c-f825386a4dda",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hi! If you can check, when I send a message with a website or youtube link, our message capture keeps holding it until I press send, even though I have \"Greenlighted\" myself in the admin. Can you make sure \"Greenlighting\" works?",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-09-16T04:10:16.97Z"
+    },
+    {
+      "_id": "f37cfd89-9bf7-4b9e-815c-fcb93e80b49d",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-09-16T04:05:56.103Z"
+    },
+    {
+      "_id": "4dd024ee-a2d0-4cb5-8ab6-136803e2b0a5",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-09-15T19:17:25.267Z"
+    },
+    {
+      "_id": "f8d453dd-3409-45f8-99bb-0af97fd8a09a",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test message",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-08-25T14:15:48.717Z"
+    },
+    {
+      "_id": "802a4f5e-f188-4342-9ed4-1fb15b5e1367",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I love the new feed! It is silky smooth and Visually appealing! Thank you so much for working so hard on it! I really appreciate your efforts!",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-08-21T11:52:14.187Z"
+    },
+    {
+      "_id": "6e0b1c93-a35b-49d2-8f69-0b91ac2f9bd6",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "New feed published. Worked till 3 am to get this done motze shabbos since I have a dreaded noon wedding on Sunday. I know bugs will be found and I will fix as I hear about the. \n\nFor some reason folks where complaining about the feed and the error was of a different kind. I suspect it was due to final changes I made to some of the geo-algorithms for the new users nearby content box possibly affecting the the assembling of the prev. feed in some instances. Not really sure - couldn't replicate and not due to CDN content as previous. Therefore, I assumed to hustle and get this feed into production. Why fix soon-be antiquated errors. \n\nOk.\n\nMay Hashem see our efforts and respond with Bracha and Hatzlocha!",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-08-21T07:06:14.46Z"
+    },
+    {
+      "_id": "d59488c9-f473-4bcd-b0b2-0ad30fd71958",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test back to you",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-08-19T16:06:56.933Z"
+    },
+    {
+      "_id": "9684e36a-cb39-4bc4-8f2e-bb811491dc71",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test 4",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-08-19T16:05:10.917Z"
+    },
+    {
+      "_id": "d3a58c48-4958-41fa-99aa-45f875ee80cc",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test 3",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-08-19T16:02:49.537Z"
+    },
+    {
+      "_id": "c3b01b9f-dcda-4a54-bc3f-96ed6d9886a5",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test 2",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-08-19T00:25:35.93Z"
+    },
+    {
+      "_id": "2af5d4e8-3e9d-43e2-bdbe-681cfa425770",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-08-18T20:47:27.283Z"
+    },
+    {
+      "_id": "dbbd1b3e-4eb2-4b7d-975d-c29951e275e1",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Just testing from an andrpid device",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-08-11T14:42:56.023Z"
+    },
+    {
+      "_id": "8d3c7efc-5576-465f-a409-ac03bec1e04f",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-08-10T22:12:21.79Z"
+    },
+    {
+      "_id": "0818b247-fc3f-4a14-9268-9c304f7d31ba",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Just testing messaging again.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-08-10T22:11:38.18Z"
+    },
+    {
+      "_id": "a6604739-ab58-4257-a455-e9c9285417ac",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Just a testing message",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-08-09T18:09:31.69Z"
+    },
+    {
+      "_id": "f2d2093f-b428-419f-9923-6a4b0ca6f475",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Working better now",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-08-01T04:38:42.043Z"
+    },
+    {
+      "_id": "e249e034-c639-4f51-90c4-a99ca5260949",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Posting a message should be pretty instantaneous on the app. The Api endpoint is now fully asynchronous",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-07-29T21:44:44.273Z"
+    },
+    {
+      "_id": "5db72d57-6841-43f0-8519-10f24bf1f8ae",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Just a test",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-07-29T21:44:00.817Z"
+    },
+    {
+      "_id": "e9f91de7-049f-46b4-b12c-387f628586b9",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Sending",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-07-29T15:28:59.613Z"
+    },
+    {
+      "_id": "50ed1c3e-ae1f-4087-bfbb-76f769e9af12",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test back",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-07-21T11:38:54.527Z"
+    },
+    {
+      "_id": "36183980-c3b8-4c17-9b44-cfdca4aeb9c5",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-07-21T11:38:45.253Z"
+    },
+    {
+      "_id": "eb53667c-9b92-4255-bf06-2f31a4e963c8",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Just testing here.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-07-13T10:26:07.59Z"
+    },
+    {
+      "_id": "2a5c04b2-400e-4b8a-9920-d9a71cbef421",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "\"Set as Primary Thumbnail\" on a picture does not seem to work.",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-07-13T03:44:04.833Z"
+    },
+    {
+      "_id": "eea7dcdf-fd53-4813-a709-c5bf1ca400f9",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hey Rabbi",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-07-12T14:51:16Z"
+    },
+    {
+      "_id": "9d3dcc46-522f-4492-af4d-4ca38d2273fa",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Sure. How about 9:30?",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-07-12T03:45:46.317Z"
+    },
+    {
+      "_id": "52cf98bc-3222-4efd-b014-cb6da8f8eadd",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Maybe we can meet face to face tomorrow and strategize going forward. I'm more than happy to visit the Klatzko compound",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-07-12T02:39:40.767Z"
+    },
+    {
+      "_id": "35f1e138-10b4-4023-9ea0-837f84aaa439",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I agree. Thoughts about adding picture upload to the modal?",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-07-12T02:25:24Z"
+    },
+    {
+      "_id": "ed6d38e1-34a3-4298-a9a7-a06080fc2d11",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "So I think we should not include messages in the global feed",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-07-12T02:19:24.23Z"
+    },
+    {
+      "_id": "74b82875-1ee8-4111-ad47-12be16bc8eb4",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Great!",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-07-11T23:41:03.633Z"
+    },
+    {
+      "_id": "7f9393b0-265a-4d1e-92b5-08612babb9dc",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Other things, I have to check my notes",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-07-11T23:36:51.633Z"
+    },
+    {
+      "_id": "f2f74b35-eac3-4f66-8ada-a9f3badc8bcf",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Yeah, delete dating profile in the privacy menu as well as on the dating profile page",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-07-11T23:36:01.653Z"
+    },
+    {
+      "_id": "1976448f-bda0-425c-9580-cbe1ab5bacc5",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "You said \"other goodies\"...?",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-07-11T23:29:18.263Z"
+    },
+    {
+      "_id": "4178e202-1c42-41b9-a4e2-e3f64ce1de48",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Its wonderful!",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-07-11T23:28:14.657Z"
+    },
+    {
+      "_id": "1b6de96c-7ab0-4f6a-99b4-6c567a3cc6aa",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "If you think it's good.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-07-11T22:54:12.57Z"
+    },
+    {
+      "_id": "f863bd83-75e6-4c5b-aee2-5347b8c66984",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Can we announce this?",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-07-11T22:48:39.323Z"
+    },
+    {
+      "_id": "412340ec-b075-422e-9c14-f747665ae71e",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Amazing!!! Wonderful!! Extraordinary!! A Shabbat.com couple!",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-07-11T22:48:12.983Z"
+    },
+    {
+      "_id": "1158f612-a17e-4b30-92ac-046d74a899c8",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-07-11T22:48:02.317Z"
+    },
+    {
+      "_id": "ed9023dc-ad41-478e-b9e5-0d498e5f97b3",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-07-11T21:55:12.613Z"
+    },
+    {
+      "_id": "020cdbbe-4c77-464a-95a3-6cf6fb4f5830",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Also note that an admin can view any members messaging section by going to shabbat.com/messages/PROFILE_URL_OR_ID",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-07-11T21:54:04.197Z"
+    },
+    {
+      "_id": "7db5de94-159c-4dd6-bc63-29dc9f9097a2",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Messaging is up and running. Please test before you blast the world :)",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-07-11T21:50:15.007Z"
+    },
+    {
+      "_id": "f1c9bd00-f948-4fdf-91c7-adbe0b9ce532",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Yes of course - it's on my list. We need the API to assemble those links for us to be bound to the anchor tags. There's lots of bits coming.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-07-08T12:34:58.03Z"
+    },
+    {
+      "_id": "7d8922c6-2514-4139-9921-1086b4ea2b06",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Do you plan on allowing the User to click on any thumbnail image in messaging in order to get that users profile page? This is helpful when a person receives a message from someone that they're not familiar with and they wish to go to that users profile page to check them out.",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-07-08T04:52:55.043Z"
+    },
+    {
+      "_id": "509a124d-a1b9-4c8e-9e84-29cfef1f33db",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "sweet!!!! Bhatzlacha11",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-07-08T04:50:25.933Z"
+    },
+    {
+      "_id": "0605fde2-dba0-41ce-b5c4-b8e67ec03cae",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I'll keep working to finish. Made some progress, trying to be as robust as any modern messaging client, with a single developer. Bh, adding and resting more functions",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-07-08T04:21:06.787Z"
+    },
+    {
+      "_id": "6f1f5687-ba2d-48ba-8a7c-1f69dc088d39",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Well, we'll see. The basics are in place and tested.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-07-08T03:20:15.333Z"
+    },
+    {
+      "_id": "dad48c19-f997-40ba-bc65-ba187ae35216",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Thank you!! Very excited about the messaging page. Before Shabbos??",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-07-08T02:48:19.203Z"
+    },
+    {
+      "_id": "7ecad804-4561-4a78-b6c5-dcf56b615bc6",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "You bet. About me edit bug is fixed.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-07-08T00:33:02.227Z"
+    },
+    {
+      "_id": "4f269d7c-7564-4194-9b4c-9a3cde57ce82",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I love that you included pictures",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-07-07T23:35:14.19Z"
+    },
+    {
+      "_id": "5fe0c9b5-43f2-434e-846d-9c4d59d7de80",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Very cool!!!!!",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-07-07T23:34:57.547Z"
+    },
+    {
+      "_id": "a08cd8c9-34cd-444d-a3fa-baa7fc56e08f",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Rov, you can try going to shabbat.com/messages-2/ and checking out the progress. One thing you'll notice is real time action.\n\nMake sure to refresh the page a few times to get the new code loaded",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-07-07T20:58:01.85Z"
+    },
+    {
+      "_id": "b7f49b1a-1573-4991-a56b-106bd947e80f",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-06-28T17:41:05.463Z"
+    },
+    {
+      "_id": "761f354c-3d38-4b08-9041-1d7c940f308a",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-06-28T17:20:59.453Z"
+    },
+    {
+      "_id": "b8abe232-20b0-495d-9bf2-7694fcf5bd07",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Rov - for testing can you message me a picture so I can see how it looks in the new message box?",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-06-28T16:48:21.493Z"
+    },
+    {
+      "_id": "5afb4f8b-df2a-4957-ab87-dae3228aac36",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test 9",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-05-05T17:46:20.313Z"
+    },
+    {
+      "_id": "66260859-b932-4e27-a864-1cd686a16f78",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test 8",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-05-05T17:46:00.67Z"
+    },
+    {
+      "_id": "f15fc2a2-96ad-4d2c-8270-fa4fed869cfd",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test 7",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-05-05T17:32:55.823Z"
+    },
+    {
+      "_id": "dbf57595-75f8-4420-b1d6-c3b6b0ad4969",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test 6",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-05-05T17:31:40.07Z"
+    },
+    {
+      "_id": "4ed232a9-6861-4e17-bc52-dbae1bb804fa",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test 5",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-05-05T17:29:37.983Z"
+    },
+    {
+      "_id": "2c07982b-633d-4b6a-a5f3-d6553b39bb59",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test 4",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-05-05T17:29:19.847Z"
+    },
+    {
+      "_id": "aff0d67a-07b3-445d-a109-789186cfd94b",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test 3",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-05-05T17:28:43.173Z"
+    },
+    {
+      "_id": "52d5743f-8d60-4f51-a3be-47841b1a11c0",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test 2",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-05-05T17:22:34.26Z"
+    },
+    {
+      "_id": "65be7e1d-2bc3-4c71-bded-439debadf5d2",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-05-05T16:53:32.62Z"
+    },
+    {
+      "_id": "1a15f48a-642b-493d-b758-ae60ea3870af",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test 2",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-04-20T14:08:17.593Z"
+    },
+    {
+      "_id": "9f2a1829-1055-45f4-a2b4-4b9a4cb668e6",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Just testing here",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-04-20T14:06:19.15Z"
+    },
+    {
+      "_id": "f56ae6d8-9e47-4475-b1d2-8beed9576a00",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Almost done.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-04-14T00:21:21.757Z"
+    },
+    {
+      "_id": "62635984-3d23-41ed-b465-8c4df6eb61f0",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "A bunch of people just signed up, some non tziusdik. Can you quickly crop before people go crazy.",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-04-14T00:16:05.883Z"
+    },
+    {
+      "_id": "3ba6874c-2e32-4752-972a-2d4d4762b410",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Thanks",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-04-11T22:16:00.947Z"
+    },
+    {
+      "_id": "14df293b-b17a-4a66-8edd-b7ff49477e55",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "All set",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-04-11T22:06:40Z"
+    },
+    {
+      "_id": "63bf874d-3b7e-4b6c-9093-ea95e59a40a5",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Soitenly",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-04-11T22:04:04.35Z"
+    },
+    {
+      "_id": "0c6cede5-e1de-48da-835c-2546a0a20a84",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "There were a few pictures that just came out on the news feed sideways. I am about to show the app to a college. Can you please rotate those pictures?",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-04-11T22:03:41.707Z"
+    },
+    {
+      "_id": "4df03640-0b30-4f81-b522-7b0a9977d10d",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-04-07T13:14:47.58Z"
+    },
+    {
+      "_id": "21ab989e-fd7d-4627-93e8-eb781f715a81",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Beautiful",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-04-04T16:18:27.863Z"
+    },
+    {
+      "_id": "f5310e4f-eebe-4336-9d94-4e91faafa99e",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Purim!",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-04-01T21:47:55.52Z"
+    },
+    {
+      "_id": "3cde78ec-6ba5-409f-9058-003765a231e5",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test2",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-04-01T15:53:40.11Z"
+    },
+    {
+      "_id": "caf291da-850f-47ce-8842-1f9e66a7114d",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-04-01T15:52:09.937Z"
+    },
+    {
+      "_id": "7cbae041-fb97-4af2-942c-079cc3e66c2b",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Is the font on the feed on the app any bigger? It doesn't seem any bigger.",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-02-25T03:57:31.527Z"
+    },
+    {
+      "_id": "ec5994da-1b0d-4e89-b903-ccf765341923",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Yeah i get it, there is a lot of cleanup that we need to do. I think rhat now that we know what features the site has and a layout strategy ie facebook style - we can tighten everything up together",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-02-24T15:59:37.477Z"
+    },
+    {
+      "_id": "508820be-7196-4882-ba24-83c531c9dec0",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Looking over the mobile app, I have a suggestion. I think we should make the word shabbatcom much smaller and put the same icons that we have at the top of the app also on top of the mobile site.",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-02-24T05:15:46.317Z"
+    },
+    {
+      "_id": "5c5045d9-fe57-43cf-ab10-4b05e82939ee",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "It really looks great! Well done! Did you check how it looks on the mobile version?",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-02-23T22:16:33.023Z"
+    },
+    {
+      "_id": "5436d3ac-3845-4e93-895d-4dd082d509ea",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Did you check out the update?",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-02-23T21:28:16.673Z"
+    },
+    {
+      "_id": "5bb978c7-dbb5-443f-b565-e704b990faea",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "They wrote back that now the sound works",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-02-22T15:57:52.767Z"
+    },
+    {
+      "_id": "e0b0c874-532a-487f-b0f2-11d3fbf76dfb",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I'll take care of these",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-02-22T14:22:12.863Z"
+    },
+    {
+      "_id": "dfbe8e05-5c3a-4b8c-96fe-550abe30ecea",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "One more thing. Someone wrote me an email saying that there is no sound on the videos on his iPhone 6. Can you please check?",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-02-22T00:56:51.577Z"
+    },
+    {
+      "_id": "b7d1b5f2-d25a-4d16-814e-9f0969fa313c",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I had a quick thought. I was looking at the size of the font in the messages on our news feed next to the size of the font that Facebook uses. I think their font is slightly larger and easier on the eyes. Can you please look into that? Thank you",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-02-21T23:01:09.363Z"
+    },
+    {
+      "_id": "bbc4a5e8-3134-4e4f-bee1-293418e3de28",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I also just sent you an email about a bug on the app",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-02-11T12:40:22.827Z"
+    },
+    {
+      "_id": "6a557487-c7a4-4ee1-879d-f2aa8629ef6a",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "It should say the new mock up page, not market.",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-02-11T12:40:09.25Z"
+    },
+    {
+      "_id": "18c3552c-df59-4153-b01c-a56b44603847",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Just a comment on the new market. Or the icons at the top of the page, I think they should be spread out more as much as possible. Also, please label them like you do on the website so people will know clearly what the icons are for.",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-02-11T07:00:13.997Z"
+    },
+    {
+      "_id": "d7816862-0148-4a8a-9c5b-8759f8d204a7",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Thanks! Thats great!",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-02-08T21:03:37.05Z"
+    },
+    {
+      "_id": "89693423-f583-4835-bd90-4f51612ad4e7",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Yes I did",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-02-08T20:40:32.037Z"
+    },
+    {
+      "_id": "5d97897e-7af8-4c5e-b033-128e3f8104f1",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Were you able to check the iPhone now that it has been updated to the latest build, to make sure that the screen doesn't go black in the middle of registration?",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-02-08T20:32:37.043Z"
+    },
+    {
+      "_id": "09ad136d-b28d-4338-8982-cf6b1de737b1",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Groovy!",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-02-04T01:08:09.04Z"
+    },
+    {
+      "_id": "e01124ea-efe8-44f1-a15c-f162fa10c6e4",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "This new version of the app rocks!",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-02-04T01:07:20.357Z"
+    },
+    {
+      "_id": "f0815bc4-5272-4532-99b4-ee708c4644a8",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-02-03T21:18:29.46Z"
+    },
+    {
+      "_id": "a454510d-49e8-4658-ae71-7caad0f03345",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Just testing here",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-02-03T21:18:12.62Z"
+    },
+    {
+      "_id": "c0f48427-ba48-433f-9235-4f91291e4863",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I was just thinking that it might be helpful to put produce a video which we can add to Google Play as well as iTunes so instead of just the pictures screenshots that were showing we could also have a real video",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-02-02T15:07:09.937Z"
+    },
+    {
+      "_id": "43e8ff87-c7f3-489e-8553-0bbde50dd1ec",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Worth thinking about. .",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2016-01-24T19:50:14.367Z"
+    },
+    {
+      "_id": "3d3c226b-2bae-4a56-95a2-13ad4a8699ee",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hey rov, someone sent me this, your thoughts:\n\nHi Yehuda,\n\nI'm new to Shabbat.com, and I think it's a great concept.  If you don't mind, I would like to make a suggestion.  There is no way to  really know if people are active on this site, such as when someone last logged in.  I noticed some people that I know on here that have moved.  So, obviously they have not been on here in a while, but not everyone would know that if they don't know them.  I just think this feature would be helpful to people when they want to message someone.\n\nThanks,\n\nMax",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-01-24T19:06:15.35Z"
+    },
+    {
+      "_id": "14ff4aa4-ae15-4066-a95c-e9b47355e75f",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hey rov 3",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-01-12T20:33:15.41Z"
+    },
+    {
+      "_id": "05f90334-87da-4d3f-80bc-991d9df9d82e",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hey rov 2",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-01-12T20:33:05.33Z"
+    },
+    {
+      "_id": "4357726f-b3c2-4fa4-bce0-f12cae44c4e8",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hey rov",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2016-01-12T20:32:49.85Z"
+    },
+    {
+      "_id": "9c761520-bd19-432d-86f0-134627834ff3",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Great! Looking forward to speaking with you. Have a pleasant evening",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-12-08T04:23:46.917Z"
+    },
+    {
+      "_id": "1b6a2a16-90dc-4a37-808f-a7307cdcaaae",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hey rov, I know you've been busy with the telethon. I've also been busy with family commitments. However tomorrow I'll brief you on my progress.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-12-08T04:22:40.96Z"
+    },
+    {
+      "_id": "ee13294d-5bf1-42b4-a123-594615e53489",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Send me a selfie from the wedding!",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-12-02T23:14:04.603Z"
+    },
+    {
+      "_id": "6236f30d-324d-4fbb-9d37-e91079c57c60",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Great",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-12-02T02:50:56.447Z"
+    },
+    {
+      "_id": "16ed5418-c6c4-4e6b-a576-d83d295528be",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-12-02T02:16:37.127Z"
+    },
+    {
+      "_id": "ceb6b880-e22d-4956-b214-872933ad83db",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I see you've learned how to use the feature:",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-12-02T02:11:42.457Z"
+    },
+    {
+      "_id": "584bf5e7-f0c5-4655-90da-7da1b3d90cff",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Love it!",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-12-02T01:35:44.32Z"
+    },
+    {
+      "_id": "7aa2881d-66e1-416d-a9df-492c75da6821",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I'll check it now. Could be a caching issue. Also I have a url you can hit to refresh the cache. I'll let\nYou know",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-11-24T01:23:47.25Z"
+    },
+    {
+      "_id": "73456216-26fc-4303-b626-afbb3a786860",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Is the dating working. I'm not sure if I have a bad connection but it won't load on my phone. Can you please check it out.",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-11-24T00:52:16.127Z"
+    },
+    {
+      "_id": "073864f1-bcb4-4604-a6fe-66b1993a99a2",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test message",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-11-23T21:20:02.99Z"
+    },
+    {
+      "_id": "21b45e69-f5c9-4c9f-b9f8-c2ec47f0bad7",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test message to Yehudah",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-11-22T16:51:18.777Z"
+    },
+    {
+      "_id": "3bb803f4-e4e0-41b1-bec6-2452652fa7fd",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Yes got it",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-11-22T04:30:51.807Z"
+    },
+    {
+      "_id": "c6053f41-a240-4614-982b-4400fd0b6bf9",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Have you been able to get the new version of android app?",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-11-20T20:12:24.1Z"
+    },
+    {
+      "_id": "310ced89-bcbf-406c-8f71-3bd3f56ecc47",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Cool",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-11-19T23:30:56.157Z"
+    },
+    {
+      "_id": "d12138ea-44cc-496b-9754-f9498cfe3334",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Sending a message",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-11-19T23:30:45.217Z"
+    },
+    {
+      "_id": "e92e0e51-c5a8-4688-8bb9-0494320a0bed",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Rov - I'm just doing some testing on messaging",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-11-19T21:28:59.74Z"
+    },
+    {
+      "_id": "4fe507e6-dacc-4d1d-81f4-ac5055026c10",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Back at ya",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-11-19T21:22:38.473Z"
+    },
+    {
+      "_id": "b30f9362-ede1-4826-962d-f2430ea835a8",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Testing 2",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-11-19T21:22:28.407Z"
+    },
+    {
+      "_id": "b943ff7e-bcfa-4eab-a979-4bc4174794b6",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hello - testing",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-11-19T21:21:56.123Z"
+    },
+    {
+      "_id": "e31ed548-e151-4914-81cf-0deb0d9c4ca0",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test for badge amounts",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-11-11T17:22:22.283Z"
+    },
+    {
+      "_id": "c8e081e6-0f03-4341-a1c0-4a8d8b52ff09",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Great",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-11-09T15:41:57.797Z"
+    },
+    {
+      "_id": "aa39c754-5fca-4fce-9de4-d7046471f967",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Giddy up",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-11-09T03:47:01.1Z"
+    },
+    {
+      "_id": "eb66bf73-a85e-448f-b9b8-92bdb82935c3",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Also, I think we should default \"someone looked at your profile\" push notification to \"off\"",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-11-09T01:18:31.793Z"
+    },
+    {
+      "_id": "c60c464a-941d-4730-8b9b-2fde9e20d184",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Can you please message me on the site. I set it to push notifications only and I want to see if it comes to me email anyways.",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-11-09T01:17:30.05Z"
+    },
+    {
+      "_id": "757330b0-08eb-4ce2-9266-697ce73aabbe",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Beseder",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-11-08T02:51:04.73Z"
+    },
+    {
+      "_id": "cf263b9c-ecb8-4ccc-a17b-7a644d23a342",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I am",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-11-08T02:50:10.63Z"
+    },
+    {
+      "_id": "8f32a720-5e1f-4f0a-94ab-e600ba31deeb",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Just checking that your getting Shabbat.com emails.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-11-08T02:08:01.96Z"
+    },
+    {
+      "_id": "26dd1f9c-ee47-4f73-8f28-1ec872cc9258",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I got it!",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-10-22T02:48:03.36Z"
+    },
+    {
+      "_id": "1dbcbe9d-2960-43c3-91c2-5336123a44de",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "It could be its not proposed in googles servers. The size of the download is nearly the same each time. About 27 megabytes",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-10-22T00:30:14.417Z"
+    },
+    {
+      "_id": "2b49e4af-68cb-4ccf-862d-e70f7dd47363",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "For some reason, it's taking a long time to update. I stopped it twice because it was taking so long. I'm going to try it again. I have a very good 4G connection",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-10-22T00:29:13.837Z"
+    },
+    {
+      "_id": "929129b1-ed02-4b87-aafb-3a562711391e",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Send me a message that your ready and then close your app and I'll send you a message",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-10-22T00:28:07.513Z"
+    },
+    {
+      "_id": "f90c5b11-105c-42fd-9ce2-75294bc8b20a",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "If you get this as a push when your app is closed - your app icon will increment.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-10-22T00:27:31.653Z"
+    },
+    {
+      "_id": "35e6c057-3ca9-45dc-a3b9-236bd06ae2b5",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test message",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-10-15T19:53:06.473Z"
+    },
+    {
+      "_id": "b5e66916-1b59-413e-bd9b-eb9eae3aad39",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "OK. looking forward!",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-10-13T18:29:24.043Z"
+    },
+    {
+      "_id": "e2ed2e46-2192-494d-8d17-0424a0f70e19",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "OK. looking forward!",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-10-13T18:29:23.01Z"
+    },
+    {
+      "_id": "55bc76e5-2f08-4019-9cf2-1a47b52c5116",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I thought of an issue in the registration process I'll discuss with you later on.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-10-13T14:54:44.803Z"
+    },
+    {
+      "_id": "13b45cda-bf8a-467d-868b-ea38293d68bd",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Fantastic",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-10-01T15:52:26.947Z"
+    },
+    {
+      "_id": "9a194818-660e-494c-bbec-9815eb170b79",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Great - testing push for iOS. All set.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-10-01T15:21:06.11Z"
+    },
+    {
+      "_id": "248c85cd-90cf-413b-8b9a-dcb79f89f467",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Sending a test",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-10-01T15:13:38.593Z"
+    },
+    {
+      "_id": "208ae460-344d-4928-8d62-5b8f2a16d92e",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Can you send me a test message and reply?",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-10-01T15:05:28.407Z"
+    },
+    {
+      "_id": "114c1457-8b16-4987-a9b4-0e99ca793501",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Ok",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-10-01T14:58:26.237Z"
+    },
+    {
+      "_id": "5e1d502d-4c53-4b06-98a8-b0c77430f106",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Bows not good I guess maybe tonight.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-10-01T14:56:45.093Z"
+    },
+    {
+      "_id": "fdde2bef-8635-44c9-a2f5-0d45ae9935e2",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Should I call you?\n",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-10-01T14:27:32.85Z"
+    },
+    {
+      "_id": "b13d23a8-1bb7-454c-a7cc-137531644896",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I do want to discuss with you some legal issues or ramifications based on the rules I said we will abide by and what Apple requires just to make sure that we're all understanding that's a crock correctly",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-10-01T14:17:29.32Z"
+    },
+    {
+      "_id": "4d8f81ee-828a-45bc-86c0-a3145f988cea",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "They didn't begin reviewing the changes and issues that they found what they did acknowledge that they received the my update and they said they're looking forward to reviewing it I make sure that they have the absolute latest build as of this morning so that whatever they will be reviewing will be our latest and greatest",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-10-01T14:16:05.67Z"
+    },
+    {
+      "_id": "7e873a2f-97cb-4974-afa9-640df90d6ca4",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Any word from Apple? Did they send back for further tweaks?",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-10-01T14:02:20.477Z"
+    },
+    {
+      "_id": "0c7e677c-0bdd-4095-80fb-b28ba3e7bdd0",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "yes, thanks!",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-10-01T14:01:37.613Z"
+    },
+    {
+      "_id": "149e4494-9e33-4441-9be9-990677ce66be",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "As you can see the profile viewing ticker has been restores",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-10-01T13:53:48.137Z"
+    },
+    {
+      "_id": "d256451e-abf5-48ca-be09-77baeaddea0a",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Version 1.0.5",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-09-24T13:11:24.737Z"
+    },
+    {
+      "_id": "47db00cf-14f2-4ba5-ba6a-02b6c38dc29e",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Version 1.0.4 os published and propegated",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-09-11T16:44:45.317Z"
+    },
+    {
+      "_id": "2d14eeba-eff6-4733-bf4a-8753d61da044",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "By cropping you mean cropping and rotating correct? These are really important features that you are working on.",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-09-09T13:31:23.643Z"
+    },
+    {
+      "_id": "32226974-0f6c-4da2-8ebb-5bbd7e13c27a",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Im Working on adding pictures looking into the issue with cropping as well as adding a new dating profile",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-09-09T13:21:12.09Z"
+    },
+    {
+      "_id": "1b443a94-562c-4a69-8107-7696706e5823",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hey nice speaking with you!",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-09-08T20:19:41.353Z"
+    },
+    {
+      "_id": "460e2052-ee0b-4a2d-8c2c-4c29785eb487",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "hey",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-09-07T22:50:47.033Z"
+    },
+    {
+      "_id": "17268c02-94f1-45ff-b371-9a18be118e1a",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hey",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-09-07T21:43:27.44Z"
+    },
+    {
+      "_id": "4c60a3e5-1054-4286-9f1c-8fddf80c3cca",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "looks like it worked",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-09-06T14:37:32.183Z"
+    },
+    {
+      "_id": "c2dd7184-4162-4e05-b69a-d7539b05e6eb",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "This is just me testing The message feature to see how well it performs with Siri",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-09-06T14:27:10.093Z"
+    },
+    {
+      "_id": "56b64b88-35cf-4ea4-a931-6a922d099964",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Thanks\n",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-09-06T03:07:03.237Z"
+    },
+    {
+      "_id": "9ae8f941-7248-4444-906f-17211668779b",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I'll call u in a bit",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-09-06T02:58:00.17Z"
+    },
+    {
+      "_id": "2b2a71f8-4331-42d6-8486-9ee114fbea76",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Got it. I had a quick though tor 2 regarding the app. Can you speak for 3 minutes?",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-09-06T02:54:47.12Z"
+    },
+    {
+      "_id": "d75311fe-c1f4-4daf-b2eb-1b8112ff0054",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I think that profile was deleted",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-09-06T02:48:45.507Z"
+    },
+    {
+      "_id": "362b1c64-9588-4305-a780-d890ef5118ba",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test message 5",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-09-04T21:43:33.217Z"
+    },
+    {
+      "_id": "b8557194-cad4-4ec5-b6d0-933b7a01bb74",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test message 4",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-09-04T21:43:03.497Z"
+    },
+    {
+      "_id": "891c0ce2-a082-4cac-a84e-4cc3b03899d6",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test message 1",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-09-04T19:28:15.64Z"
+    },
+    {
+      "_id": "04adb693-d885-468e-a1f4-9f85c0ee3d92",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Good job!!",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-09-04T14:29:10.2Z"
+    },
+    {
+      "_id": "e88dd2c9-748f-4cf3-a32c-6729af9afe26",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Continued testing",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-09-03T14:23:47.65Z"
+    },
+    {
+      "_id": "634c177d-3d36-4a71-8185-da185f8975d7",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Second test message with push",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-09-03T13:38:36.113Z"
+    },
+    {
+      "_id": "ccf70344-3f9e-4f82-b02e-a3d4185e0637",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "First test message with push notifications",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-09-03T13:38:05.78Z"
+    },
+    {
+      "_id": "06b0430e-e6ae-4f9d-ade9-bc63214749bc",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Yehudah - Test message",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-07-21T22:54:39.413Z"
+    },
+    {
+      "_id": "476163a3-150a-46b3-9812-51ef3fd59e5a",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "This is great news!",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-07-20T17:11:40.533Z"
+    },
+    {
+      "_id": "79a3ac3e-16d4-47e2-89d1-695c80360100",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I just wanted to let you know that Android got an update this morning and the app is working really smooth on the new update.",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-07-19T14:12:47.107Z"
+    },
+    {
+      "_id": "d61cba86-7d5a-41eb-9c08-ef20aa9870a9",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Just a test email to make sure my upgrade for checking for suspension doesn't mess this up.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-07-17T04:28:43.287Z"
+    },
+    {
+      "_id": "faf9d616-d5e5-4957-adf4-46f7f973caec",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hey rov - just a test message from me.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-03-26T16:02:34.95Z"
+    },
+    {
+      "_id": "7beeff5b-74f7-4a83-bc74-a8635ddfaac9",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hey",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-02-17T00:00:47.38Z"
+    },
+    {
+      "_id": "0c039923-d8a8-4f24-b42f-1b6e863a5791",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hey",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-02-15T21:17:54.57Z"
+    },
+    {
+      "_id": "ffb543c2-8162-4e7c-a394-3e41562aac85",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hi Yehudah",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-02-15T21:17:14.063Z"
+    },
+    {
+      "_id": "77e78c3f-038a-4501-b8cf-f6c7c5562f10",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test number 4",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-02-15T02:13:14.007Z"
+    },
+    {
+      "_id": "3e9f02e1-cdcf-4fe7-ad98-194b4d53edeb",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test number 3",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-02-10T21:58:44.53Z"
+    },
+    {
+      "_id": "e99a704e-1162-405a-8c25-d72b911473a9",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "This is test 2",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-02-10T21:56:51.68Z"
+    },
+    {
+      "_id": "1c5f7c03-ad3b-40ea-9cae-bde926872dc0",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "This is a test message sent by the app to see how well it works.",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2015-02-10T21:54:47.933Z"
+    },
+    {
+      "_id": "3d2d5127-135f-4759-8e7e-e976cd89538e",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "This is a test message. I'll delete later.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2015-02-10T21:54:04.967Z"
+    },
+    {
+      "_id": "e98e8d5b-679f-4512-b491-84a45950eb41",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Ok, take a look at this email. I modified the template.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2014-11-27T23:03:49.497Z"
+    },
+    {
+      "_id": "28147ce2-0280-4b3c-b09a-522b6e01de3c",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Reply here",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2014-11-27T22:48:05.683Z"
+    },
+    {
+      "_id": "8df36cec-8eea-453e-87c6-bff6c5ff1c3b",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test - reply back to me ",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2014-11-27T22:44:36.717Z"
+    },
+    {
+      "_id": "b02ba5fe-19b5-4366-a2e3-1dec184df25d",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "This is a test:\n\nIf you still don't hav a place give us a call. We live in Maale Hever, just south of Kiryat Arba and easy to get to. If not this Shabbat, give us a call another time. Meir and Leah 058-4410166",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2014-11-27T13:16:24.13Z"
+    },
+    {
+      "_id": "c5f83524-ff25-454d-86ce-46ece3320f1f",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hey tov, i'm just testing this here.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2014-11-23T21:24:58.893Z"
+    },
+    {
+      "_id": "c3554c44-0aa2-40a1-9c7c-99dae2520cca",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test ing",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2014-10-29T20:30:57.933Z"
+    },
+    {
+      "_id": "d3255bfe-6bdc-4e52-ab15-213eadeb832a",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Rabbi Klatzko Messaging Yehudah",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2014-10-29T19:00:36.23Z"
+    },
+    {
+      "_id": "c3f0282b-de50-413e-b9dc-226997e774fc",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Please message me for a test.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2014-10-29T18:45:42.97Z"
+    },
+    {
+      "_id": "11f438d0-81dc-498a-a816-c78d1166dbab",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Testing Replying from yehudah to r Klatzko ",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2014-10-27T15:04:09.417Z"
+    },
+    {
+      "_id": "68a18f36-ebe3-4757-98e6-bd476cce7208",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Yehudah this is test from Rabbi Klatzko",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2014-10-27T15:01:37.413Z"
+    },
+    {
+      "_id": "a93d06f1-3489-4652-9aa3-4bc50e92f0cf",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I can't send a hosting request since your unavailable to host families. Glad to see that enforced - so I'm sending you a message request for The Shabbos Project.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2014-10-20T18:05:15.49Z"
+    },
+    {
+      "_id": "e314c8d3-86fd-464d-87ea-a79a7f0810b6",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "One last test",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2014-07-07T13:37:00.93Z"
+    },
+    {
+      "_id": "d057606e-0820-4399-9159-c38dd3a91287",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "this is from me",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2014-07-04T12:21:59.323Z"
+    },
+    {
+      "_id": "ee0c8552-4091-48dd-88b0-696e0f483113",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I think it would be best to optimize the email telling me that someone sent me a message as well.  Can that be done.  Btw, I love the animation! !",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2014-07-04T10:53:28.713Z"
+    },
+    {
+      "_id": "2fdc5461-f61f-471d-9b8e-75eb5946d875",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Good Stuff!",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2014-07-03T22:46:29.06Z"
+    },
+    {
+      "_id": "bfe42327-6fc3-4078-a331-aec765680e71",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "This worked",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2014-07-03T22:45:29.053Z"
+    },
+    {
+      "_id": "c3d24e41-5649-4376-8114-7dd621647e5b",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Thank you for testing!",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2014-07-03T22:44:02.367Z"
+    },
+    {
+      "_id": "08c475cb-5407-46cb-8fc0-f894c239ae01",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "This seems to work. I received another message which yielded An error.  I will keep testing And let you know. ",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2014-07-03T22:18:17.137Z"
+    },
+    {
+      "_id": "4a18df51-b1dc-413c-b4af-722ff5c62dc4",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test message from new mobile respond page",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2014-07-03T18:43:04.133Z"
+    },
+    {
+      "_id": "4ec87d44-e556-4d64-b683-235dd82feb6f",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test email using the new mobile messaging page. (1)",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2014-07-03T18:41:38.453Z"
+    },
+    {
+      "_id": "02c0d05e-7380-497d-af5f-ee7f23ff51de",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test 4",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2014-06-19T21:07:34.173Z"
+    },
+    {
+      "_id": "2a5c502a-6948-4c69-b15b-a8984095b385",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test 3",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2014-06-19T21:01:48.253Z"
+    },
+    {
+      "_id": "973cde3b-6fb8-4040-aee3-26f57e362ec2",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test 2",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2014-06-19T20:33:11.327Z"
+    },
+    {
+      "_id": "950687aa-319b-4abc-bdf3-19070b004949",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Sending a test",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2014-06-19T20:31:19.367Z"
+    },
+    {
+      "_id": "0bbc5756-c0e0-427e-910c-3e072ed33ce7",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Klatzko Wedding details and contact info in Israel!\n\nOn the way to Israel for our son's wedding! Benzion's number in Israel is 052-714-8516. Shani's number is 052-715-1485\n\nHere are the wedding details. If you live in Israel, we would love to see you and wish you Mazel Tov!\n\nOur son's name is Yedidya. The Kallah's name is Sara Shira Levy. \nThe wedding is on June 30. Monday.\nLocation: Armonot Chen in Jerusalem (Formaly Heichal Sapir)\n28 Beit HaDefus, Givat Shaul\nChuppa 6:15pm",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2014-06-18T13:14:05.853Z"
+    },
+    {
+      "_id": "2dea023b-34cb-4185-8d23-d8a3bf4895ba",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I thank each of you for your kind birthday wishes!\n\nIf you would like to join me in making peoples lives better, here is a mitzva and birthday present.\n\nEach week we host 60 - 100 people for an entire Shabbat, at a cost of $2000-$3000 a WEEK. We pay out of pocket with little help. My wife tells me it is getting to difficult to afford doing this each month. We have a large family and feel it is time to share this mitzva of Hachnosas Orchim.\n\nIf you have benefited in the past, or would like the zechus of Shabbos for so many people, please click the link below. It will go through Shabbat.com so your mitzva is tax deductible.\n\nhttp://www.shabbat.com/donate\n\nMay our happy days make others happy as well!\n\nMuch love,\n\nRabbi Klatzko",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2014-06-11T16:13:09.957Z"
+    },
+    {
+      "_id": "48f9000b-cd51-4071-8af0-4fe04d53a0b1",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hey Rov!",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2014-05-15T17:28:00.01Z"
+    },
+    {
+      "_id": "1523d700-783f-4873-90bd-81da12b6af8b",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Ok, it looks to me that routing through sendgrid did the trick. I'll discuss more with you when you are free.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2014-05-08T17:16:57.393Z"
+    },
+    {
+      "_id": "74800bd8-8f13-4dbd-9d9a-a8798bfc177f",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Respond (Test 3)",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2014-05-08T17:09:00.42Z"
+    },
+    {
+      "_id": "39ed374a-fe55-45ff-8eec-9a5cb23811fb",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "This is relayed using sendgrid!\n\nAnother test (test 9)",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2014-05-08T17:04:32.667Z"
+    },
+    {
+      "_id": "b9603554-b430-45d9-9b5a-2df17275debc",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Another test (test8)",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2014-05-08T16:52:08.73Z"
+    },
+    {
+      "_id": "3c607347-4969-4e61-b2dd-1758f414e1fe",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test respond to yehudah 2\n",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2014-05-08T16:04:41.967Z"
+    },
+    {
+      "_id": "6924b512-b906-45f9-9252-b199d0b4a775",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Another test (test7)",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2014-05-08T15:51:23.53Z"
+    },
+    {
+      "_id": "eee22bb8-59c3-44e2-95d1-3bb72b86a2f2",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test respond to yehudah",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2014-05-08T15:51:06.8Z"
+    },
+    {
+      "_id": "f1d4aee1-1efc-4e0f-bdf5-2d6655fb7cf5",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Another test (test6)",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2014-05-08T15:50:28.267Z"
+    },
+    {
+      "_id": "ad816362-4eda-4b2b-aeea-a565c7113fcf",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Another test (test5)",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2014-05-08T15:49:45.823Z"
+    },
+    {
+      "_id": "1fa392e5-9c3d-4603-9fcc-274350276105",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Another test (test4)",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2014-05-08T15:36:34.897Z"
+    },
+    {
+      "_id": "614e30cb-7081-4e24-9eeb-9d3be4d7b560",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Another test (test3)",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2014-05-08T15:28:54.83Z"
+    },
+    {
+      "_id": "a748ec38-f986-4957-aca1-a48c0e1bfba2",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Another test (test2)",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2014-05-08T15:13:29.2Z"
+    },
+    {
+      "_id": "5f76a8fc-5aff-43cd-ba25-8c5534e36a58",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hey Hey Hey",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2014-05-08T15:09:27.177Z"
+    },
+    {
+      "_id": "bb48eb51-cb8a-419a-8288-24c48ce77147",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Responding here!",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2014-05-08T15:05:12.277Z"
+    },
+    {
+      "_id": "abffb858-d019-48ce-ad3a-9ebe57f1780e",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2014-05-08T15:04:45.06Z"
+    },
+    {
+      "_id": "c5d89f7a-d6a3-4121-87fd-d34072a5ef63",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "The migration is complete. I'm poking around for errors. And I still have to work on securing things - making sure it's completed.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2014-05-08T15:00:38.367Z"
+    },
+    {
+      "_id": "8554f1c1-35fa-405e-92ef-cf1ac6fa8df4",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I like how the activity feed is looking!",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2014-03-12T15:10:19.74Z"
+    },
+    {
+      "_id": "9ce2fedf-057b-438a-b5b5-3b295b72072b",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "testing",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2014-01-30T01:13:09.51Z"
+    },
+    {
+      "_id": "40a1695e-04bf-4d8b-9c09-937f6dd1a335",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Rov, this is just a test.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2014-01-17T15:53:40.83Z"
+    },
+    {
+      "_id": "b1a1a198-1779-4e90-8621-5f3ba4ecf059",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Just testing the messaging. Please let mt know when you get this.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2013-10-21T19:17:28.113Z"
+    },
+    {
+      "_id": "b82430a4-63ec-4396-ac96-cf4e87961629",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "all fixed",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2013-06-20T13:56:33.187Z"
+    },
+    {
+      "_id": "48735bf9-3e33-4506-aa4f-eebbdd44425a",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "thanks",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2013-06-20T13:10:05.527Z"
+    },
+    {
+      "_id": "2907a906-904b-45e7-ae9a-ac4bbdd648cb",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I disabled the send message message box expansion on the profile page.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2013-06-20T13:00:01.02Z"
+    },
+    {
+      "_id": "55417f84-9d57-403c-9704-6a7bd4c4f4d9",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "a fellow couldn't change his profile etc.\n\nI fixed his URL\n\nfro. c.c \n\nhttp://www.shabbat.com/profile/cdurbach/",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2013-06-02T16:06:40.96Z"
+    },
+    {
+      "_id": "0589e5a6-c9ce-4a29-88e8-f5b2948e5c66",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Yup!",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2013-06-01T19:55:17.95Z"
+    },
+    {
+      "_id": "17215cee-b273-493c-9747-0f0a5fb728c5",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Just testing out messaging. Did you receive this?",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2013-05-31T20:52:05.22Z"
+    },
+    {
+      "_id": "e3b398cd-424d-4a5f-beba-f125a550d7b6",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "You can check out messaging on the activity feed. Both on a mobile device and on a desktop computer",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2013-05-23T18:54:19.417Z"
+    },
+    {
+      "_id": "d84bb40b-acd6-4578-9f6f-9534ca91355a",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Much better :)",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2013-05-19T23:00:01.147Z"
+    },
+    {
+      "_id": "2f160ca9-296a-46ac-aab8-f532b8f6d34c",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Any better? I republished and tested in other browsers.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2013-05-19T22:41:12.347Z"
+    },
+    {
+      "_id": "daf619bd-90a9-4e16-ae34-9d5e2733dab9",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I am restarting my computers. Refreshing didn't help. On my iPad it looks great!!",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2013-05-19T20:57:54.01Z"
+    },
+    {
+      "_id": "7d274ebf-4315-416d-afda-2810d6571207",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "the respond box",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2013-05-19T20:45:51.077Z"
+    },
+    {
+      "_id": "d9dc1279-aa20-448f-a09e-dd5d47a2ac6b",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "What box?",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2013-05-19T20:44:39.083Z"
+    },
+    {
+      "_id": "415b0383-1e3e-433f-a52b-fded7b354f98",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "The box is narrow. a little out of sync",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2013-05-19T20:43:14.297Z"
+    },
+    {
+      "_id": "85206e74-43f6-4752-9dc8-04f6b9c082a0",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I just finished publishing. Now I'm testing.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2013-05-19T20:39:50.317Z"
+    },
+    {
+      "_id": "b5800471-a94e-4c7f-8970-94088e9017e5",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "publish completed successfully",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2013-05-08T20:40:08.457Z"
+    },
+    {
+      "_id": "ec4c7b5e-1e63-41a4-824c-27d35ab2b2d9",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I received it",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2013-04-25T16:43:46.4Z"
+    },
+    {
+      "_id": "0a63d674-ad12-4bab-88d9-5d568380319a",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Yehudah logged in here to test the reply.",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2013-04-25T16:00:57.06Z"
+    },
+    {
+      "_id": "4d779490-c100-44c7-8303-f28932483392",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Just a test - please let me know if you receive this in your inbox.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2013-04-25T15:58:10.657Z"
+    },
+    {
+      "_id": "5c7cf562-751b-440e-8cf1-e97759dd91b1",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Great stuff.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2013-04-22T00:19:24.573Z"
+    },
+    {
+      "_id": "b6d85752-8367-4727-a7c3-1df6fea59994",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I wanted to let you know how much more I am enjoying messaging on my phone now that you've implemented the changes. Thank you for being my partner in a great thing!",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2013-04-18T22:55:36.887Z"
+    },
+    {
+      "_id": "9ed10064-2472-4b30-9aef-cb0d6163f57d",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hello",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2013-04-18T02:51:10.163Z"
+    },
+    {
+      "_id": "1fd6a4ef-13b1-4c4b-a3e6-4f314b1ca20a",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Sending a hello from my phone",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2013-04-18T02:33:33.66Z"
+    },
+    {
+      "_id": "b6eda60e-f259-4730-af9b-e05cc294b9d6",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "looks good!",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2013-04-12T04:59:23.803Z"
+    },
+    {
+      "_id": "067872a0-c3b1-4add-9f00-e008d287795c",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Rov, a test to check the email - please reply",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2013-04-11T13:51:41.45Z"
+    },
+    {
+      "_id": "a43302b9-a71b-4626-8f77-ee3f645dcb0d",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Testing",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2013-04-05T16:32:53.583Z"
+    },
+    {
+      "_id": "3553e91e-10da-4c10-a7f4-3c76a1937a91",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "got it.",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2013-03-24T21:59:54.143Z"
+    },
+    {
+      "_id": "f4a4fb19-e00e-4ef4-8f31-5c6cc48f98ef",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Rov, please reply when you receive this. Just testing.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2013-03-24T21:52:42.637Z"
+    },
+    {
+      "_id": "69f8d6c3-0370-40a2-a2b7-ecb284bb7a7d",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test for quota reached.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2013-03-15T05:14:25.997Z"
+    },
+    {
+      "_id": "796afef7-2735-4721-8b10-19fd5b96a9ec",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Test",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2013-03-15T05:03:30.333Z"
+    },
+    {
+      "_id": "147b00ca-512f-48dc-bfbb-d5a4f3796323",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hey - Just a test.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2013-03-04T05:41:04.983Z"
+    },
+    {
+      "_id": "12c3dbd8-d25d-41bd-946a-a4f6897eabbd",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2013-02-07T22:22:25.22Z"
+    },
+    {
+      "_id": "39408a04-ab54-4cda-97bb-d5ce4e2ffe61",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hey rov - testing our the send message to many hosts feature!",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2013-02-01T18:17:27.537Z"
+    },
+    {
+      "_id": "f0e05f52-03e0-445d-919b-217dd5524d72",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hey Rov, just a test to make sure messaging works.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2013-02-01T06:40:24.97Z"
+    },
+    {
+      "_id": "5f02102a-5f8b-46cd-8338-c813bb1a6048",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I hope you have a chance to take a look at the site. Lots of improvements. Notice an amended sticky footer. I'm gong to run a publish now.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2013-01-28T18:51:23.043Z"
+    },
+    {
+      "_id": "8b01fe94-84a1-4432-a6b0-2c38f8605629",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "just testing here.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2013-01-28T00:38:34.467Z"
+    },
+    {
+      "_id": "df67119b-a167-4a77-a95a-0624f88fec18",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I really feel like steak!",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2013-01-24T04:24:25.467Z"
+    },
+    {
+      "_id": "bace0f62-6e9b-4335-8792-d1991c4a9550",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I do feel like steak!",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2013-01-24T04:05:49.393Z"
+    },
+    {
+      "_id": "cbfdfa50-6de7-47ff-a45e-c7d417ba8874",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "That's great. Feel like a steak?\n",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2013-01-24T03:45:40.183Z"
+    },
+    {
+      "_id": "4aa57fb4-e1be-44ea-93fa-b6b4cfb6089b",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hey rov - testing here.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2013-01-24T03:44:32.227Z"
+    },
+    {
+      "_id": "9e305533-3b3a-4442-b0b5-d8b022c54d3f",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test2",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2013-01-09T15:10:19.353Z"
+    },
+    {
+      "_id": "813ed10e-c446-408a-bde2-725adc4b56d7",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2013-01-09T15:00:02.943Z"
+    },
+    {
+      "_id": "811887a5-a535-456c-b9f5-04e99ea97c81",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "testing",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2012-12-24T23:13:21.833Z"
+    },
+    {
+      "_id": "13251c0a-bd46-4f62-be95-ca7a747e7051",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2012-12-24T23:06:15.317Z"
+    },
+    {
+      "_id": "45490f88-d97d-4c66-b88c-82949c50c635",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "one more test",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2012-11-08T21:09:48.18Z"
+    },
+    {
+      "_id": "5ffaf142-6802-45d7-b721-8fcfad1dd206",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "just a test",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2012-11-08T21:02:38.337Z"
+    },
+    {
+      "_id": "2c08321a-d43b-4360-af06-b6a63ef2a143",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hey Rov, cant speak - in a meeting now.",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2011-11-14T17:59:17.187Z"
+    },
+    {
+      "_id": "0de05c31-b4c6-4237-8d57-df696d8508b1",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Great looking email!!!!",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2011-10-28T18:13:59.413Z"
+    },
+    {
+      "_id": "08a7e331-2566-4ce0-a44c-55a7058e6310",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Yeah. that's done. You got the email before I implemented it. See below:\r\n\r\nDifferent streams of Judaism view the prohibition on work in different ways. Observant Orthodox and Conservative Jews refrain from performing the prohibited activities. These prohibited activities are exegetically derived – based on juxtaposition of corresponding Biblical passages – from the kinds of work that were necessary for the construction of the Tabernacle. They are not directly listed in the Torah; elsewhere, the Mishnah observes that \"the laws of Shabbat [...] are like mountains hanging by a hair, for they are little Scripture but many laws\".[16] Many religious scholars have pointed out that these labors have in common activity that is \"creative,\" or that exercises control or dominion over one's environment.\r\n\r\nThe 39 categories of melakhah are: ploughing earth, sowing, reaping, binding sheaves, threshing, winnowing, selecting, grinding, sifting, kneading, baking, shearing wool, washing wool, beating wool, dyeing wool, spinning, weaving, making two loops, weaving two threads, separating two threads, tying, untying, sewing stitches, tearing, trapping, slaughtering, flaying, tanning, scraping hide, marking hides, cutting hide to shape, writing two or more letters, erasing two or more letters, building, demolishing, extinguishing a fire, kindling a fire, putting the finishing touch on an object and transporting an object between the private domain and the public domain, or for a distance of 4 cubits within the public domain.\r\n\r\nEach melakhah has derived prohibitions of various kinds. There are, therefore, many more forbidden activities on the Shabbat; all are traced back to one of the 39 above principal melakhot.\r\n\r\nGiven the above, the 39 melakhot are not so much activities as \"categories of activity.\" For example, while \"winnowing\" usually refers exclusively to the separation of chaff from grain, and \"selecting\" refers exclusively to the separation of debris from grain, they refer in the Talmudic sense to any separation of intermixed materials which renders edible that which was inedible. Thus, filtering undrinkable water to make it drinkable falls under this category, as does picking small bones from fish. (Gefilte fish is one solution to this problem.)\r\n",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2011-10-28T18:11:06.193Z"
+    },
+    {
+      "_id": "761a5746-a370-46df-ac39-341b859c0554",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Great!! Is there also a way there could be a line break in the email I receive?",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2011-10-28T17:53:34.673Z"
+    },
+    {
+      "_id": "3667e2c4-ea1e-43de-ae0e-1ddb62701873",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Different streams of Judaism view the prohibition on work in different ways. Observant Orthodox and Conservative Jews refrain from performing the prohibited activities. These prohibited activities are exegetically derived – based on juxtaposition of corresponding Biblical passages – from the kinds of work that were necessary for the construction of the Tabernacle. They are not directly listed in the Torah; elsewhere, the Mishnah observes that \"the laws of Shabbat [...] are like mountains hanging by a hair, for they are little Scripture but many laws\".[16] Many religious scholars have pointed out that these labors have in common activity that is \"creative,\" or that exercises control or dominion over one's environment.\n \nThe 39 categories of melakhah are: ploughing earth, sowing, reaping, binding sheaves, threshing, winnowing, selecting, grinding, sifting, kneading, baking, shearing wool, washing wool, beating wool, dyeing wool, spinning, weaving, making two loops, weaving two threads, separating two threads, tying, untying, sewing stitches, tearing, trapping, slaughtering, flaying, tanning, scraping hide, marking hides, cutting hide to shape, writing two or more letters, erasing two or more letters, building, demolishing, extinguishing a fire, kindling a fire, putting the finishing touch on an object and transporting an object between the private domain and the public domain, or for a distance of 4 cubits within the public domain.\n \nEach melakhah has derived prohibitions of various kinds. There are, therefore, many more forbidden activities on the Shabbat; all are traced back to one of the 39 above principal melakhot.\n \nGiven the above, the 39 melakhot are not so much activities as \"categories of activity.\" For example, while \"winnowing\" usually refers exclusively to the separation of chaff from grain, and \"selecting\" refers exclusively to the separation of debris from grain, they refer in the Talmudic sense to any separation of intermixed materials which renders edible that which was inedible. Thus, filtering undrinkable water to make it drinkable falls under this category, as does picking small bones from fish. (Gefilte fish is one solution to this problem.)\n",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2011-10-28T16:41:38.08Z"
+    },
+    {
+      "_id": "29b380ac-2830-46db-b865-9867d1a90609",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "In 1991, Spielberg directed Hook, about a middle-aged Peter Pan, played by Robin Williams, who returns to Neverland. Despite innumerable rewrites and creative changes coupled with mixed reviews, the film proved popular with audiences, making over $300 million worldwide (from a $70 million budget).\r\n \r\nIn 1993, Spielberg returned to the adventure genre with the film version of Michael Crichton's novel Jurassic Park, about a theme park with genetically engineered dinosaurs. With revolutionary special effects provided by friend George Lucas's Industrial Light & Magic company, the film would eventually become the highest grossing film of all time (at the worldwide box office) with $914.7 million. This would be the third time that one of Spielberg's films became the highest grossing film ever.\r\n \r\nSpielberg's next film, Schindler's List, was based on the true story of Oskar Schindler, a man who risked his life to save 1,100 Jews from the Holocaust.[24] Schindler's List earned Spielberg his first Academy Award for Best Director (it also won Best Picture). With the film a huge success at the box office, Spielberg used the profits to set up the Shoah Foundation, a non-profit organization that archives filmed testimony of Holocaust survivors. In 1997, the American Film Institute listed it among the 10 Greatest American Films ever Made (#9) which moved up to (#8) when the list was remade in 2007.\r\n",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2011-10-28T16:26:52.163Z"
+    },
+    {
+      "_id": "2abc51f9-111d-4a46-9a64-a45b8f559f59",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Saying hello at 5px",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2011-10-26T20:58:05.96Z"
+    },
+    {
+      "_id": "3cf73534-53da-4a08-abcf-96b38bf989eb",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Hey Rabbi, Just saying hello",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2011-10-26T16:42:15.073Z"
+    },
+    {
+      "_id": "07be2baf-45d3-4754-9854-fc11b1452598",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "I hope you had a meaningful Yom Kippur!\nI just wanted to tell you that my phone number has changed from 310-709-8042 to 212-742-2228. Which is 212-Shabbat !! My best, Benzion Klatzko",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2011-10-09T02:32:15.527Z"
+    },
+    {
+      "_id": "5aaec7db-381c-42cf-a89c-2daa6f694aab",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2011-09-26T12:10:28.853Z"
+    },
+    {
+      "_id": "267b4672-eaa4-4a6e-aebc-e8da6dcef2ac",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Surprise Goodbye Party for our daughter Shira (leaving to Israel for a year). \n\nPLEASE PLEASE COME FOR A FEW MINUTES!!!! (It would mean so much to her!!!!!)\n\n4 Wannamaker Court, Monsey NY\n\n10PM tonight (Tuesday night)",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2011-09-06T22:21:45.82Z"
+    },
+    {
+      "_id": "85e2df18-2c71-435c-bbd4-377f3a198408",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Dear Friends!\nwww.Shabbat.com Community Shabbaton has Launched!\n\nEach week, a Shabbaton in a different community!\n\nSimply go to Shabbat.com, and click on the banner at the bottom of the home page to join this week's inaugural Shabbaton, taking place at the exclusive Mariner Way Community in Monsey.\n\n AND OF COURSE, IT'S FREE!!\n\n Good food, great company...your shidduch??\n\n Space IS limited!",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2011-07-19T18:55:55.36Z"
+    },
+    {
+      "_id": "7e8ceaf7-504e-4b4c-8553-526bf968328b",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2011-07-07T01:01:19.613Z"
+    },
+    {
+      "_id": "b5e0ccd7-c234-4c7a-bc7d-06eb1b236ab8",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Since you are our dear friends, we wanted to send you our newest family album. Just copy and paste this link to your browser bar.  \n\nhttp://www.facebook.com/media/set/?set=a.10150221506741781.316200.503426780&l=36d31519c4\n\nMuch love,\nBenzion and Shani   \n",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2011-06-28T05:57:21.59Z"
+    },
+    {
+      "_id": "55c114ee-6963-48b4-8df5-bf1e7b5a478e",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Is now a good time to talk?",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2011-06-10T19:31:12.237Z"
+    },
+    {
+      "_id": "1f9855b8-6f01-411e-813f-bba6008a90e6",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2011-06-06T16:49:00.503Z"
+    },
+    {
+      "_id": "28c67529-5962-4925-bf1e-d055272c6df9",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Check out the autocomple on the send message popup. GREATLY IMPROVED. Go ahead click on a picture. Try typing in david and see how many pop through",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2011-04-15T17:54:42.777Z"
+    },
+    {
+      "_id": "e6796e62-62b9-467e-915a-1f76b824728a",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2011-03-07T21:26:14.267Z"
+    },
+    {
+      "_id": "b47b4ece-2388-49f5-8f0b-078c82b9e122",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "2.0 launched",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2011-02-09T04:59:24.993Z"
+    },
+    {
+      "_id": "f2d2256d-dede-49fb-b4b2-001b7fe50b4f",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "ttt_2_reply",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2010-08-30T22:03:43.85Z"
+    },
+    {
+      "_id": "4c8ba32e-5664-40fb-956c-7d924050e938",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "t2",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2010-08-30T21:42:28.037Z"
+    },
+    {
+      "_id": "4cdc1090-6bff-4f66-ad54-ca04ed23abed",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2010-08-30T21:06:52.693Z"
+    },
+    {
+      "_id": "d3de9358-ad28-4ff3-992a-d58e1aedef33",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2010-08-30T21:06:29.41Z"
+    },
+    {
+      "_id": "a28bfd9f-5052-4555-920f-32b796c9fd37",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2010-08-10T15:54:59.877Z"
+    },
+    {
+      "_id": "131bd099-14a0-4f6d-a044-7880027ca333",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2010-08-10T15:51:51.52Z"
+    },
+    {
+      "_id": "53123296-e347-48cb-9b7c-e1727f0ae646",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test test",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2010-07-28T19:10:39.533Z"
+    },
+    {
+      "_id": "30604f2c-6449-41e3-ae77-0121c3eb9035",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "just testing here",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2010-07-21T20:50:20.357Z"
+    },
+    {
+      "_id": "3e6de3ff-da9c-4db4-9993-ec0039e9eecd",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "testing here",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2010-07-18T22:58:33.44Z"
+    },
+    {
+      "_id": "9e903e13-7aa7-417c-8d90-bb978f0db90f",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test2",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2010-05-31T22:06:02.387Z"
+    },
+    {
+      "_id": "1d4e501c-1570-4f06-8a9e-ad256f068d44",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test message",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2010-05-31T22:02:15.34Z"
+    },
+    {
+      "_id": "ce645760-ec0d-4a3f-8fc6-154be7bd57d4",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "ashg",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2010-04-15T17:18:19.223Z"
+    },
+    {
+      "_id": "02f5a236-3cf1-420d-b99e-95d53dfdf204",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "sdhg",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2010-04-15T14:34:09.13Z"
+    },
+    {
+      "_id": "1d49b851-2e32-4c25-9c53-f06bb0645c04",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "szag",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2010-04-15T14:27:42.96Z"
+    },
+    {
+      "_id": "ea19ceec-9b13-407e-8fdb-a9c2350708c7",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2010-04-15T14:21:09.213Z"
+    },
+    {
+      "_id": "02fba4c6-79cf-4c3b-b8fe-9ee0aae7f94a",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "",
+      "sender": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2010-04-15T14:06:01.883Z"
+    },
+    {
+      "_id": "9e788da3-4257-432c-9bc9-7d86184bf0e2",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2010-01-31T23:16:48.42Z"
+    },
+    {
+      "_id": "e24def43-bf59-4806-8ac3-c2f916bf6028",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "test",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2010-01-05T04:24:55.3Z"
+    },
+    {
+      "_id": "a57beb25-1e6e-4101-b7d0-297e886966ff",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "t5",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3"
+        }
+      ],
+      "dateSent": "2010-01-01T07:26:10.137Z"
+    },
+    {
+      "_id": "7d0e4fcd-6187-48bc-8355-9584bef34639",
+      "status": "sent",
+      "attachments": [],
+      "type": "text",
+      "conversation": "",
+      "text": "Subject: Test Body: This is a test",
+      "sender": "2fbf34a0-e86b-4e3a-91a1-3925fee8b1f3",
+      "recipients": [
+        {
+          "recipient": "cf7e43fe-7ee8-4fd3-bd03-99a88c2e1619"
+        }
+      ],
+      "dateSent": "2010-01-01T01:54:32.027Z"
+    }
+  ]
+}

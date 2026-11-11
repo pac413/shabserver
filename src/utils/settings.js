@@ -1,0 +1,1 @@
+export const UPDATE_PROFILE_VIEW_DAYS = 7

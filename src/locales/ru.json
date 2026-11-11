@@ -1,0 +1,309 @@
+{
+  "auth": {
+    "reset-for-deleted-account": "Электронное письмо для сброса пароля отправлено. Когда вы войдете на сайт shabbat.com с новым паролем, вы сможете восстановить свою учетную запись."
+  },
+  "errors": {
+    "admin": {
+      "already-admin": "Пользователь уже является администратором",
+      "not-admin": "Пользователь не является администратором",
+      "only-allowed": "Только администратор может использовать эту функцию"
+    },
+    "auth": {
+      "deleted": "Аккаунт удален",
+      "different-account": "В настоящее время вы вошли в другую учетную запись Shabbat.com. Чтобы использовать эту ссылку, сначала выйдите из системы, а затем войдите в учетную запись, связанную с этой ссылкой.",
+      "duplicate-email": "Введенный адрес электронной почты уже существует для учетной записи на Shabbat.com",
+      "email-already-confirmed": "Адрес электронной почты уже подтвержден",
+      "error": "Произошла ошибка, и ваш запрос не может быть обработан.",
+      "forbidden-email": "Запрещенная электронная почта",
+      "forbidden-password": "Запрещенный пароль",
+      "invalid-credentials": "Ваш адрес электронной почты или пароль недействителен",
+      "invalid-email": "Недействительная электронная",
+      "invalid-first-name": "Неверное имя",
+      "invalid-last-name": "Недопустимая фамилия",
+      "invalid-password-length": "Пароль должен содержать не менее 6 символов",
+      "invalid-token": "Ваш токен недействителен",
+      "not-found-reset-password-token": "Маркер сброса пароля не найден",
+      "not-found-user": "Никакая учетная запись не связана с этим введенным адресом электронной почты. Пожалуйста, проверьте еще раз и повторите попытку.",
+      "registration-paused": "Регистрация временно приостановлена",
+      "suspended": "Аккаунт заблокирован"
+    },
+    "conversation": {
+      "approval-forbidden": "Вы не уполномочены утверждать эту беседу",
+      "blocked-participants-list": "Не удается создать беседу с участником Shabbat.com, которого вы блокируете, и наоборот",
+      "empty-participants-list": "Не удается создать беседу с пустым списком участников {{participants}}",
+      "forbidden-archive-broadcast-conversation": "У вас нет прав для архивирования этого широковещательного разговора",
+      "forbidden-create-broadcast-conversation": "Вы не уполномочены создавать новый разговор в эфире",
+      "invalid-id": "Недопустимый идентификатор беседы {{conversationId}}",
+      "reject-forbidden": "Вы не имеете права отклонять этот разговор",
+      "reject-not-pending": "Вы можете отклонить только ожидающий разговор, но этот разговор не находится в ожидании",
+      "restricted-participants-list": "Не удается создать беседу с участниками с ограниченным доступом"
+    },
+    "dating": {
+      "profile-already-request": "Вы уже запросили просмотр этого профиля знакомств. В настоящее время запросы не могут быть сделаны более одного раза."
+    },
+    "endorse": {
+      "endorsement-blocked": "Подтверждение заблокировано для этого профиля",
+      "invalid-endorsee-site-role": "Endorsee не является {{siteRole}}"
+    },
+    "feed": {
+      "forbidden": "У вас нет доступа к этому элементу веб-канала",
+      "invalid-id": "Недопустимый идентификатор элемента веб-канала {{feedItemId}}"
+    },
+    "flagging-content": {
+      "invalid-post-comment-id": "Недопустимый идентификатор комментария к записи {{resourceId}} для флага",
+      "invalid-post-comment-reply-id": "Недопустимый комментарий к записи Идентификатор ответа {{resourceId}} для флага",
+      "invalid-post-id": "Недопустимый идентификатор записи {{resourceId}} для флага",
+      "invalid-profile-avatar-id": "Недопустимый аватар профиля (Media)id {{resourceId}} для флага",
+      "invalid-profile-picture-id": "Недопустимое изображение профиля (Media)id {{resourceId}} для флага"
+    },
+    "follower": {
+      "invalid-follower-id": "Вы не следили за профилем {{followerId}}",
+      "invalid-follower-profile-id": "Профиль подписчика не существует {{followerId}}"
+    },
+    "friend": {
+      "approve-request-failed": "Не удается утвердить запрос на добавление в друзья, так как срок его действия истек или он уже принят",
+      "blocking-friend-profile-id": "Извините, не удалось добавить друга в это время",
+      "frienship-already-exists": "Дружба уже существует",
+      "invalid-friend-profile-id": "Неверный идентификатор профиля друга",
+      "invalid-friend-request-id": "Недопустимый идентификатор запроса на добавление в друзья"
+    },
+    "global": {
+      "forbidden": "Запретный",
+      "internal": "Внутренняя ошибка сервера",
+      "not-found": "Не найдено",
+      "unauthorised": "Несанкционированного"
+    },
+    "greenlight": {
+      "already-greenlight": "Пользователь уже имеет статус Greenlight",
+      "not-greenlight": "Пользователь не является зеленым светом"
+    },
+    "guest-profile": {
+      "update-forbidden": "Не удается обновить профиль гостя"
+    },
+    "hosting": {
+      "accept-hosting-invitation-forbidden": "Вы не имеете права принимать это приглашение на хостинг",
+      "accept-hosting-request-forbidden": "Вы не уполномочены принимать этот запрос на хостинг",
+      "contacts-forbidden": "Вы не авторизованы для просмотра контактов этого профиля",
+      "create-invite-forbidden": "Вы не имеете права создавать это приглашение",
+      "create-invite-private-code-mismatch": "Частный код приглашения не совпадает. Пожалуйста, еще раз подтвердите код у хозяина.",
+      "create-invite-private-code-required": "Для запроса хостинга требуется частный пригласительный код.",
+      "reject-hosting-invitation-forbidden": "Вы не имеете права отклонять это приглашение на хостинг",
+      "reject-hosting-request-forbidden": "Вы не имеете права отклонять этот запрос на хостинг",
+      "request-hosting-forbidden": "Вы не имеете права запрашивать хостинг"
+    },
+    "hosting-profile": {
+      "no-host-profile-found": "Профиль хоста не найден",
+      "private-invite-not-enabled": "Частное приглашение не включено. Пожалуйста, сначала включите его."
+    },
+    "media": {
+      "invalid-feed-reference": "Не удается найти feedItemId из ссылки на носитель"
+    },
+    "message": {
+      "forbidden-conversation-id": "Не удается перечислить сообщения из беседы, к которым вы не принадлежите",
+      "pending-approval": "Вы не можете отправить сообщение, пока не одобрите беседу"
+    },
+    "message-reaction": {
+      "invalid-conversation-id": "Разговор не найден",
+      "invalid-message-id": "Сообщение не найдено",
+      "invalid-message-reaction-id": "Реакция на сообщение не найдена"
+    },
+    "mute-connection": {
+      "profile-not-muted": "Вы не скрывали сообщения профиля {{profileId}}"
+    },
+    "notification": {
+      "invalid-id": "Недопустимый идентификатор уведомления {{notificationId}}",
+      "update-forbidden": "Вы не уполномочены обновлять состояние этого уведомления {{notificationId}}"
+    },
+    "post": {
+      "comment-like-not-found": "Нет лайка в комментарии {{activeProfileId}}",
+      "comment-reply-like-not-found": "Нет лайка на ответ на комментарий к посту {{activeProfileId}}",
+      "delete-comment-forbidden": "Вы не можете удалить этот комментарий",
+      "delete-comment-reply-forbidden": "Вы не можете удалить этот комментарий ответ",
+      "invalid-comment-id": "Не найдено сообщение для комментария с id: {{commentId}} для публикации по id: {{postId}}",
+      "invalid-id": "Недопустимый идентификатор записи {{postId}}",
+      "invalid-like-id": "Нет лайков для публикации: {{activeProfileId}}",
+      "update-comment-forbidden": "Вы не можете обновлять этот комментарий",
+      "update-comment-reply-forbidden": "Вы не можете обновить ответ на этот комментарий"
+    },
+    "profile": {
+      "incomplete-profile": "Неполный профиль {{flags}}",
+      "not-found": "Профиль не найден {{profileId}}",
+      "update-forbidden": "Не удается обновить этот профиль {{profileId}}"
+    },
+    "reference": {
+      "create-forbidden": "Не удается добавить ссылку на этот профиль {{profileId}}",
+      "invalid-id": "Не удается найти запрос ссылки {{referenceId}}",
+      "invalid-recipient-profile-id": "Не удается найти профиль получателя {{profileId}}",
+      "invalid-requestor-profile-id": "Не удается найти профиль запрашивающей стороны {{profileId}}",
+      "request-exists": "Ссылки уже были запрошены. В случае одобрения вы получите все рекомендации по электронной почте.",
+      "update-forbidden": "Не удается обновить ссылку на этот профиль {{profileId}}"
+    },
+    "zealot": {
+      "already-zealot": "Пользователь уже фанатик",
+      "not-zealot": "Пользователь не имеет статуса Zealot"
+    }
+  },
+  "messages": {
+    "new-friends": "Теперь вы друзья на <a href=\"https://shabbat.com\">Shabbat.com</a>. Начните беседу.",
+    "new-hosting": "Обсудите свое приглашение в Шаббат в сообщении"
+  },
+  "notification": {
+    "comment-media-processed": {
+      "content": "Ваш {{mediaType}} теперь доступен для просмотра в виде комментария",
+      "mobile-content": "Ваш {{mediaType}} теперь доступен для просмотра в виде комментария",
+      "title": "Ваш недавний комментарий готов к просмотру",
+      "view": "вид"
+    },
+    "comment_reply-media-processed": {
+      "content": "Ваш {{mediaType}} теперь виден как ответ на комментарий",
+      "mobile-content": "Ваш {{mediaType}} теперь виден как ответ на комментарий",
+      "title": "Ваш недавний ответ на комментарий готов к просмотру",
+      "view": "вид"
+    },
+    "dating-profile-request": {
+      "accept": "Принимать",
+      "content": "Запрос нового профиля знакомств от <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a>",
+      "mobile-content": "Новый запрос профиля знакомств от {{firstName}} {{lastName}}",
+      "title": "Запрос нового профиля знакомств"
+    },
+    "friend-request-approved": {
+      "content": "Запрос на добавление в друзья к <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> был одобрен",
+      "mobile-content": "Запрос на добавление в друзья {{firstName}} {{lastName}} одобрен",
+      "title": "{{firstName}} {{lastName}} принял ваш запрос на добавление в друзья"
+    },
+    "guest-endorsement-request": {
+      "accept": "Одобрить здесь",
+      "content": "Добавьте новое одобрение гостя для <a href=\"{{profileUrl}}\">{{firstName}} {{LastName}}</a>.",
+      "delete": "Пропускать",
+      "mobile-content": "Добавьте новое одобрение гостей для {{firstName}} {{lastName}}.",
+      "title": "Запрос на одобрение нового гостя"
+    },
+    "host-approved": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> принял ваш запрос на хостинг",
+      "mobile-content": "{{firstName}} {{lastName}} принял ваш запрос на хостинг",
+      "title": "Хост одобрен"
+    },
+    "host-declined": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> вежливо отклонил ваш запрос на Шаббат",
+      "mobile-content": "{{firstName}} {{lastName}} вежливо отклонил ваш запрос на Шаббат",
+      "title": "Хост отклонен"
+    },
+    "host-endorsement-request": {
+      "accept": "Одобрить здесь",
+      "content": "Добавьте новое одобрение хоста для <a href=\"{{profileUrl}}\">{{firstName}} {{LastName}}</a>.",
+      "delete": "Пропускать",
+      "mobile-content": "Добавьте новое одобрение хоста для {{firstName}} {{lastName}}.",
+      "title": "Запрос на одобрение нового хоста"
+    },
+    "invite-accepted": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> принял ваше приглашение на Шаббат",
+      "mobile-content": "{{firstName}} {{lastName}} принял ваше приглашение на Шаббат",
+      "title": "Приглашение принято"
+    },
+    "invite-declined": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> отклонил ваше приглашение на Шаббат",
+      "mobile-content": "{{firstName}} {{lastName}} отклонил ваше приглашение на Шаббат",
+      "title": "Приглашение отклонено"
+    },
+    "message-reaction": {
+      "content": "{{reaction}}",
+      "mobile-content": "{{reaction}}",
+      "mobile-title": "{{firstName}} {{lastName}} отреагировал на ваше сообщение"
+    },
+    "new-comment-on-comment": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> прокомментировал комментарий: \"{{content}}\" ",
+      "mobile-content": "{{firstName}} {{lastName}} прокомментировал комментарий",
+      "title": "Новый комментарий Ответить",
+      "view": "вид"
+    },
+    "new-comment-on-post": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> прокомментировал ваш пост: \"{{content}}\" ",
+      "mobile-content": "{{firstName}} {{lastName}} прокомментировал ваше сообщение",
+      "title": "Новый комментарий к сообщению",
+      "view": "вид"
+    },
+    "new-friend-request": {
+      "accept": "Принимать",
+      "content": "Новый запрос на добавление в друзья от <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a>",
+      "delete": "удалить",
+      "mobile-content": "Новый запрос на добавление в друзья от {{firstName}} {{lastName}}",
+      "title": "Новый запрос на добавление в друзья"
+    },
+    "new-host-request": {
+      "accept": "Принимать",
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> запрашивает хостинг для Шаббата",
+      "decline": "Отклонять",
+      "mobile-content": "{{firstName}} {{lastName}} запрашивает хостинг для Шаббата",
+      "more": "Сведения о приглашении",
+      "title": "Запрос нового хоста",
+      "view-invite": "Просмотреть приглашение"
+    },
+    "new-invite": {
+      "accept": "Принимать",
+      "content": "Вы были приглашены на Шаббат <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a>",
+      "decline": "Отклонять",
+      "mobile-content": "Вы были приглашены на Шаббат {{firstName}} {{lastName}}",
+      "more": "Сведения о приглашении",
+      "title": "Новое приглашение",
+      "view-invite": "Просмотреть приглашение"
+    },
+    "new-like-on-comment": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> понравился ваш комментарий: \"{{content}}\" ",
+      "mobile-content": "{{firstName}} {{lastName}} понравился ваш комментарий",
+      "title": "Новый лайк в комментарии",
+      "view": "вид"
+    },
+    "new-like-on-post": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> понравился ваш пост: \"{{content}}\" ",
+      "mobile-content": "{{имяи}} {{фамилия}} понравилось ваше сообщение",
+      "title": "Новый лайк в публикации",
+      "view": "вид"
+    },
+    "new-message": {
+      "attachment": "Новое вложение",
+      "mobile-content": "Новое сообщение от {{senderFirstName}} {{senderLastName}}",
+      "mobile-title": "Новое сообщение от {{senderFirstName}} {{senderLastName}}",
+      "title": "Новое сообщение от <a href=\"{{senderProfileUrl}}\">{{senderFirstName}} {{senderLastName}}</a>",
+      "view": "вид"
+    },
+    "new-message-approved": {
+      "content": "Запрос сообщения к <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> был одобрен",
+      "mobile-content": "Запрос сообщения на {{firstName}} {{lastName}} был одобрен",
+      "title": "Запрос сообщения утвержден"
+    },
+    "new-message-request": {
+      "accept": "Принимать",
+      "content": "Запрос нового сообщения от <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a>",
+      "delete": "удалить",
+      "mobile-content": "Запрос нового сообщения от {{firstName}} {{lastName}}",
+      "title": "Запрос нового сообщения"
+    },
+    "post-media-processed": {
+      "content": "Ваш {{mediaType}} теперь доступен для просмотра в вашем канале",
+      "mobile-content": "Ваш {{mediaType}} теперь доступен для просмотра в вашем канале",
+      "title": "Ваша недавняя публикация готова к просмотру",
+      "view": "вид"
+    },
+    "profile-endorsed": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> одобрил вас для {{siteRole}}",
+      "endorse-back": "Одобрить Назад",
+      "mobile-content": "{{имяи}} {{фамилия}} одобрил вас за {{siteRole}}",
+      "title": "Новое одобрение",
+      "view": "Посмотреть одобрение"
+    },
+    "profile-followed": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> теперь следует за вами по Shabbat.com",
+      "mobile-content": "{{имяи}} {{фамилия}} теперь следует за вами в Shabbat.com",
+      "title": "Новый подписчик"
+    },
+    "profile-viewed": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> просмотрел ваш профиль",
+      "mobile-content": "{{имяи}} {{фамилия}} просмотрел ваш профиль",
+      "title": "Новое представление профиля"
+    }
+  },
+  "post": {
+    "avatar-updated": "{{имяи}} Аватар {{фамилия}} изменился.",
+    "new-picture-added": "{{имяи}} {{фамилия}} добавил картинку."
+  }
+}

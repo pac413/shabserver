@@ -1,0 +1,309 @@
+{
+  "auth": {
+    "reset-for-deleted-account": "דוא&quot;ל איפוס הסיסמה שלך נשלח. כאשר אתה נכנס ל-shabbat.com עם הסיסמה החדשה שלך תוכל להחזיר את חשבונך."
+  },
+  "errors": {
+    "admin": {
+      "already-admin": "המשתמש כבר מנהל",
+      "not-admin": "המשתמש אינו מנהל",
+      "only-allowed": "רק אדמין יכול להשתמש בתכונה זו"
+    },
+    "auth": {
+      "deleted": "החשבון נמחק",
+      "different-account": "אתה מחובר כעת לחשבון אחר ב-Sabbat.com. כדי להשתמש בקישור זה, אנא צא תחילה ולאחר מכן היכנס לחשבון המשויך לקישור זה.",
+      "duplicate-email": "האימייל שהוזן כבר קיים עבור חשבון ב-Sabbat.com",
+      "email-already-confirmed": "האימייל כבר אושר",
+      "error": "אירעה שגיאה ולא ניתן היה לעבד את הבקשה שלך.",
+      "forbidden-email": "אימייל אסור",
+      "forbidden-password": "סיסמה אסורה",
+      "invalid-credentials": "האימייל או הסיסמה שלך לא חוקיים",
+      "invalid-email": "אימייל שגוי",
+      "invalid-first-name": "שם פרטי לא חוקי",
+      "invalid-last-name": "שם משפחה לא חוקי",
+      "invalid-password-length": "הסיסמה חייבת להכיל לפחות 6 תווים",
+      "invalid-token": "האסימון שלך לא חוקי",
+      "not-found-reset-password-token": "אסימון איפוס הסיסמה לא נמצא",
+      "not-found-user": "שום חשבון לא משויך לכתובת האימייל הזו שהוזנה. אנא בדוק שוב ונסה שוב.",
+      "registration-paused": "ההרשמה מושהית זמנית",
+      "suspended": "חשבון הושעה"
+    },
+    "conversation": {
+      "approval-forbidden": "אינך מורשה לאשר שיחה זו",
+      "blocked-participants-list": "לא ניתן ליצור שיחה עם חבר ב-Sabbat.com שאתה חוסם ולהיפך",
+      "empty-participants-list": "לא ניתן ליצור שיחה עם רשימת משתתפים ריקה {{ משתתפים }}",
+      "forbidden-archive-broadcast-conversation": "אינך מורשה להעביר את שיחת השידור הזו לארכיון",
+      "forbidden-create-broadcast-conversation": "אינך מורשה ליצור שיחת שידור חדשה",
+      "invalid-id": "מזהה שיחה לא חוקי {{conversationId}}",
+      "reject-forbidden": "אינך מורשה לדחות שיחה זו",
+      "reject-not-pending": "אתה יכול לדחות רק שיחה ממתינה אבל השיחה הזו לא ממתינה",
+      "restricted-participants-list": "לא ניתן ליצור שיחה עם משתתפים מוגבלים להעברת הודעות"
+    },
+    "dating": {
+      "profile-already-request": "כבר ביקשת לצפות בפרופיל היכרויות זה. בשלב זה לא ניתן להגיש בקשות יותר מפעם אחת."
+    },
+    "endorse": {
+      "endorsement-blocked": "חסימה חסומה עבור פרופיל זה",
+      "invalid-endorsee-site-role": "Endorsee אינו {{siteRole}}"
+    },
+    "feed": {
+      "forbidden": "אין לך גישה לפריט העדכון הזה",
+      "invalid-id": "מזהה פריט עדכון לא חוקי {{feedItemId}}"
+    },
+    "flagging-content": {
+      "invalid-post-comment-id": "מזהה תגובה לא חוקי של פוסט {{resourceId}} לסימון",
+      "invalid-post-comment-reply-id": "תגובת פוסט לא חוקית מזהה תגובה {{resourceId}} לסימון",
+      "invalid-post-id": "מזהה פוסט לא חוקי {{resourceId}} לסימון",
+      "invalid-profile-avatar-id": "מזהה פרופיל (מדיה) לא חוקי {{resourceId}} לסימון",
+      "invalid-profile-picture-id": "תמונת פרופיל (מדיה)מזהה {{resourceId}} לא חוקית לסימון"
+    },
+    "follower": {
+      "invalid-follower-id": "לא עקבת אחר הפרופיל {{followerId}}",
+      "invalid-follower-profile-id": "פרופיל העוקבים לא קיים {{followerId}}"
+    },
+    "friend": {
+      "approve-request-failed": "לא ניתן לאשר בקשת חברות כי היא פג או שכבר התקבלה",
+      "blocking-friend-profile-id": "מתנצל, לא ניתן להוסיף חבר בשלב זה",
+      "frienship-already-exists": "ידידות כבר קיימת",
+      "invalid-friend-profile-id": "מזהה פרופיל חבר לא חוקי",
+      "invalid-friend-request-id": "מזהה בקשת חברות לא חוקי"
+    },
+    "global": {
+      "forbidden": "אסור",
+      "internal": "שגיאת שרת פנימית",
+      "not-found": "לא נמצא",
+      "unauthorised": "לא מורשה"
+    },
+    "greenlight": {
+      "already-greenlight": "למשתמש כבר יש סטטוס Greenlight",
+      "not-greenlight": "המשתמש אינו אור ירוק"
+    },
+    "guest-profile": {
+      "update-forbidden": "לא ניתן לעדכן את פרופיל האורח הזה"
+    },
+    "hosting": {
+      "accept-hosting-invitation-forbidden": "אינך מורשה לאשר את הזמנת האירוח הזו",
+      "accept-hosting-request-forbidden": "אינך מורשה לקבל בקשת אירוח זו",
+      "contacts-forbidden": "אינך מורשה להציג את אנשי הקשר בפרופיל זה",
+      "create-invite-forbidden": "אינך מורשה ליצור הזמנה זו",
+      "create-invite-private-code-mismatch": "קוד ההזמנה הפרטי אינו תואם. אנא אשר את הקוד עם המארח שוב",
+      "create-invite-private-code-required": "נדרש קוד הזמנה פרטי כדי לבקש אירוח",
+      "reject-hosting-invitation-forbidden": "אינך מורשה לדחות הזמנת אירוח זו",
+      "reject-hosting-request-forbidden": "אינך מורשה לדחות בקשת אירוח זו",
+      "request-hosting-forbidden": "אינך מורשה לבקש אירוח"
+    },
+    "hosting-profile": {
+      "no-host-profile-found": "לא נמצא פרופיל מארח",
+      "private-invite-not-enabled": "הזמנה פרטית אינה מופעלת. אנא הפעל אותו תחילה."
+    },
+    "media": {
+      "invalid-feed-reference": "לא ניתן למצוא feedItemId מהפניה למדיה"
+    },
+    "message": {
+      "forbidden-conversation-id": "לא ניתן לרשום הודעות מהשיחה שאינך שייך אליה",
+      "pending-approval": "אינך יכול לשלוח הודעה עד שתאשר את השיחה"
+    },
+    "message-reaction": {
+      "invalid-conversation-id": "השיחה לא נמצאה",
+      "invalid-message-id": "ההודעה לא נמצאה",
+      "invalid-message-reaction-id": "התגובה להודעה לא נמצאה"
+    },
+    "mute-connection": {
+      "profile-not-muted": "לא הסתרת פוסטים של הפרופיל {{profileId}}"
+    },
+    "notification": {
+      "invalid-id": "מזהה הודעה לא חוקי {{notificationId}}",
+      "update-forbidden": "אינך מורשה לעדכן את סטטוס ההתראה הזה {{notificationId}}"
+    },
+    "post": {
+      "comment-like-not-found": "אין לייק לתגובה לפוסט מאת {{activeProfileId}}",
+      "comment-reply-like-not-found": "אין לייק בתגובה לפוסט תגובה מאת {{activeProfileId}}",
+      "delete-comment-forbidden": "אינך רשאי למחוק את התגובה הזו",
+      "delete-comment-reply-forbidden": "אינך רשאי למחוק את התגובה הזו",
+      "invalid-comment-id": "לא נמצא פוסט להערה עם מזהה: {{commentId}} עבור פוסט לפי מזהה: {{postId}}",
+      "invalid-id": "מזהה פוסט לא חוקי {{postId}}",
+      "invalid-like-id": "לא נמצא לייק לפוסט מאת: {{activeProfileId}}",
+      "update-comment-forbidden": "אינך רשאי לעדכן תגובה זו",
+      "update-comment-reply-forbidden": "אינך רשאי לעדכן את התגובה הזו"
+    },
+    "profile": {
+      "incomplete-profile": "פרופיל לא שלם {{flags}}",
+      "not-found": "הפרופיל לא נמצא {{profileId}}",
+      "update-forbidden": "לא ניתן לעדכן את הפרופיל הזה {{profileId}}"
+    },
+    "reference": {
+      "create-forbidden": "לא ניתן להוסיף הפניה לפרופיל זה {{profileId}}",
+      "invalid-id": "לא ניתן למצוא את בקשת הפניה {{referenceId}}",
+      "invalid-recipient-profile-id": "לא ניתן למצוא את פרופיל הנמען {{profileId}}",
+      "invalid-requestor-profile-id": "לא ניתן למצוא את פרופיל המבקש {{profileId}}",
+      "request-exists": "הפניות כבר התבקשו. אם יאושר, תקבל את כל ההפניות בדוא&quot;ל.",
+      "update-forbidden": "לא ניתן לעדכן את ההפניה של הפרופיל הזה {{profileId}}"
+    },
+    "zealot": {
+      "already-zealot": "משתמש כבר קנאי",
+      "not-zealot": "למשתמש אין סטטוס קנאי"
+    }
+  },
+  "messages": {
+    "new-friends": "אתם עכשיו חברים ב- <a href=\"https://shabbat.com\">Sabbat.com</a> . התחל שיחה.",
+    "new-hosting": "שוחח על הזמנת השבת שלך בהודעות"
+  },
+  "notification": {
+    "comment-media-processed": {
+      "content": "כעת ניתן לראות את ה-{{mediaType}} שלך כהערה",
+      "mobile-content": "כעת ניתן לראות את ה-{{mediaType}} שלך כהערה",
+      "title": "התגובה האחרונה שלך מוכנה כעת לצפייה",
+      "view": "נוף"
+    },
+    "comment_reply-media-processed": {
+      "content": "כעת ניתן לראות את ה-{{mediaType}} שלך כתגובה להערה",
+      "mobile-content": "כעת ניתן לראות את ה-{{mediaType}} שלך כתגובה להערה",
+      "title": "תשובת התגובה האחרונה שלך מוכנה כעת לצפייה",
+      "view": "נוף"
+    },
+    "dating-profile-request": {
+      "accept": "לְקַבֵּל",
+      "content": "בקשה חדשה לפרופיל היכרויות מאת <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a>",
+      "mobile-content": "בקשה חדשה לפרופיל היכרויות מאת {{firstName}} {{lastName}}",
+      "title": "בקשה חדשה לפרופיל היכרויות"
+    },
+    "friend-request-approved": {
+      "content": "בקשת חברות אל <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> אושרה",
+      "mobile-content": "בקשת חברות אל {{firstName}} {{lastName}} אושרה",
+      "title": "{{firstName}} {{lastName}} קיבל את בקשת החברות שלך"
+    },
+    "guest-endorsement-request": {
+      "accept": "תסמכו כאן",
+      "content": "הוסף המלצת אורח חדשה עבור <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> .",
+      "delete": "להתעלם",
+      "mobile-content": "הוסף המלצת אורח חדשה עבור {{firstName}} {{lastName}}.",
+      "title": "בקשת אישור אורח חדשה"
+    },
+    "host-approved": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> אישר את בקשתך לאירוח",
+      "mobile-content": "{{firstName}} {{lastName}} אישר את בקשתך לאירוח",
+      "title": "המארח אושר"
+    },
+    "host-declined": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> דחה בנימוס את בקשתך לשבת",
+      "mobile-content": "{{firstName}} {{lastName}} דחה בנימוס את בקשתך לשבת",
+      "title": "המארח נדחה"
+    },
+    "host-endorsement-request": {
+      "accept": "תסמכו כאן",
+      "content": "הוסף תמיכה מארח חדשה עבור <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> .",
+      "delete": "להתעלם",
+      "mobile-content": "הוסף המלצה חדשה מארח עבור {{firstName}} {{lastName}}.",
+      "title": "בקשת אישור מארח חדשה"
+    },
+    "invite-accepted": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> קיבל את הזמנתך לשבת",
+      "mobile-content": "{{firstName}} {{lastName}} קיבל את הזמנתך לשבת",
+      "title": "ההזמנה התקבלה"
+    },
+    "invite-declined": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> דחה את הזמנתך לשבת",
+      "mobile-content": "{{firstName}} {{lastName}} דחה את הזמנתך לשבת",
+      "title": "ההזמנה נדחתה"
+    },
+    "message-reaction": {
+      "content": "{{reaction}}",
+      "mobile-content": "{{reaction}}",
+      "mobile-title": "{{firstName}} {{lastName}} הגיב להודעה שלך"
+    },
+    "new-comment-on-comment": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> הגיב על תגובה: &quot;{{content}}&quot;",
+      "mobile-content": "{{firstName}} {{lastName}} הגיב על תגובה",
+      "title": "תגובה חדשה תגובה",
+      "view": "נוף"
+    },
+    "new-comment-on-post": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> הגיב על הפוסט שלך: &quot;{{content}}&quot;",
+      "mobile-content": "{{firstName}} {{lastName}} הגיב על הפוסט שלך",
+      "title": "תגובה חדשה לפוסט",
+      "view": "נוף"
+    },
+    "new-friend-request": {
+      "accept": "לְקַבֵּל",
+      "content": "בקשת חברות חדשה מאת <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a>",
+      "delete": "לִמְחוֹק",
+      "mobile-content": "בקשת חברות חדשה מאת {{firstName}} {{lastName}}",
+      "title": "בקשת חברות חדשה"
+    },
+    "new-host-request": {
+      "accept": "לְקַבֵּל",
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> מבקש אירוח לשבת",
+      "decline": "יְרִידָה",
+      "mobile-content": "{{firstName}} {{lastName}} מבקש אירוח לשבת",
+      "more": "פרטי הזמנה",
+      "title": "בקשת מארח חדשה",
+      "view-invite": "הצג הזמנה"
+    },
+    "new-invite": {
+      "accept": "לְקַבֵּל",
+      "content": "הוזמנת לשבת על ידי <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a>",
+      "decline": "יְרִידָה",
+      "mobile-content": "הוזמנת לשבת על ידי {{firstName}} {{lastName}}",
+      "more": "פרטי הזמנה",
+      "title": "הזמנה חדשה",
+      "view-invite": "הצג הזמנה"
+    },
+    "new-like-on-comment": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> אהב את התגובה שלך: &quot;{{content}}&quot;",
+      "mobile-content": "{{firstName}} {{lastName}} אהב את התגובה שלך",
+      "title": "לייק חדש בתגובה",
+      "view": "נוף"
+    },
+    "new-like-on-post": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> אהב את הפוסט שלך: &quot;{{content}}&quot;",
+      "mobile-content": "{{firstName}} {{lastName}} אהב את הפוסט שלך",
+      "title": "לייק חדש בפוסט",
+      "view": "נוף"
+    },
+    "new-message": {
+      "attachment": "קובץ מצורף חדש",
+      "mobile-content": "הודעה חדשה מאת {{senderFirstName}} {{senderLastName}}",
+      "mobile-title": "הודעה חדשה מאת {{senderFirstName}} {{senderLastName}}",
+      "title": "הודעה חדשה מאת <a href=\"{{senderProfileUrl}}\">{{senderFirstName}} {{senderLastName}}</a>",
+      "view": "נוף"
+    },
+    "new-message-approved": {
+      "content": "בקשת הודעה אל <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> אושרה",
+      "mobile-content": "בקשת הודעה אל {{firstName}} {{lastName}} אושרה",
+      "title": "בקשת ההודעה אושרה"
+    },
+    "new-message-request": {
+      "accept": "לְקַבֵּל",
+      "content": "בקשת הודעה חדשה מאת <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a>",
+      "delete": "לִמְחוֹק",
+      "mobile-content": "בקשת הודעה חדשה מאת {{firstName}} {{lastName}}",
+      "title": "בקשת הודעה חדשה"
+    },
+    "post-media-processed": {
+      "content": "כעת ניתן לצפות ב-{{mediaType}} שלך בפיד שלך",
+      "mobile-content": "כעת ניתן לצפות ב-{{mediaType}} שלך בפיד שלך",
+      "title": "הפוסט האחרון שלך מוכן כעת לצפייה",
+      "view": "נוף"
+    },
+    "profile-endorsed": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> תמך בך עבור {{siteRole}}",
+      "endorse-back": "לאשר בחזרה",
+      "mobile-content": "{{firstName}} {{lastName}} תמך בך עבור {{siteRole}}",
+      "title": "אישור חדש",
+      "view": "צפה באישור"
+    },
+    "profile-followed": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> עוקב אחריך כעת ב-Sabbat.com",
+      "mobile-content": "{{firstName}} {{lastName}} עוקב אחריך כעת ב-Sabbat.com",
+      "title": "עוקב חדש"
+    },
+    "profile-viewed": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> צפה בפרופיל שלך",
+      "mobile-content": "{{firstName}} {{lastName}} צפה בפרופיל שלך",
+      "title": "תצוגת פרופיל חדשה"
+    }
+  },
+  "post": {
+    "avatar-updated": "הדמות של {{firstName}} של {{lastName}} השתנתה.",
+    "new-picture-added": "{{firstName}} {{lastName}} הוסיפה תמונה."
+  }
+}

@@ -1,0 +1,5 @@
+export const CREATED = 'post_created'
+export const UPDATED = 'post_updated'
+export const DELETED = 'post_deleted'
+export const MEDIA_UPLOADED = 'post_media_uploaded'
+export const MEDIA_PROCESSED = 'post_media_processed'

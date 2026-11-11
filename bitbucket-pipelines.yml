@@ -1,0 +1,120 @@
+image: node:14
+
+definitions:
+  caches:
+    node:
+      key:
+        files:
+          - package-lock.json
+      path: node_modules
+  steps:
+    - step: &Lint
+        name: Lint
+        caches:
+          - node
+        script:
+          - npm install
+          - npm run eslint
+
+    - step: &Translate
+        name: Download translations from localazy
+        image: localazy/cli:latest
+        script:
+          - localazy download -w $LOCALAZY_WRITE_KEY -r $LOCALAZY_READ_KEY
+
+    - step: &Build
+        name: Build
+        caches:
+          - node
+        script:
+          - npm run build
+          - tar -cvzf dist.tar.gz ./dist
+        artifacts:
+          - dist.tar.gz
+
+    - step: &DeployV2
+        name: Build and Deploy
+        caches:
+          - node
+        script:
+          - echo "$SSH_PEM" | base64 --decode > ./key.pem
+          - chmod 400 ./key.pem
+          - scp -i ./key.pem ./dist.tar.gz package.json $SSH_USER@$SERVER_IP:$SOURCE_LOCATION
+          - ssh -i ./key.pem $SSH_USER@$SERVER_IP "cd $SOURCE_LOCATION && rm package-lock.json && npm install"
+          - ssh -i ./key.pem $SSH_USER@$SERVER_IP "rm -rf $SOURCE_LOCATION/dist/*"
+          - ssh -i ./key.pem $SSH_USER@$SERVER_IP "cd $SOURCE_LOCATION && tar -xzvf $SOURCE_LOCATION/dist.tar.gz && rm $SOURCE_LOCATION/dist.tar.gz"
+          - ssh -i ./key.pem $SSH_USER@$SERVER_IP "pm2 reload server --update-env"
+          - scp -i ./key.pem ./dist.tar.gz package.json $SSH_USER@$MEDIA_SERVER_IP:$SOURCE_LOCATION
+          - ssh -i ./key.pem $SSH_USER@$MEDIA_SERVER_IP "cd $SOURCE_LOCATION && rm package-lock.json && npm install"
+          - ssh -i ./key.pem $SSH_USER@$MEDIA_SERVER_IP "rm -rf $SOURCE_LOCATION/dist/*"
+          - ssh -i ./key.pem $SSH_USER@$MEDIA_SERVER_IP "cd $SOURCE_LOCATION && tar -xzvf $SOURCE_LOCATION/dist.tar.gz && rm $SOURCE_LOCATION/dist.tar.gz"
+          - ssh -i ./key.pem $SSH_USER@$MEDIA_SERVER_IP "pm2 reload media-processor --update-env"
+          - scp -i ./key.pem ./dist.tar.gz package.json $SSH_USER@$WORKER_SERVER_IP:$SOURCE_LOCATION
+          - ssh -i ./key.pem $SSH_USER@$WORKER_SERVER_IP "cd $SOURCE_LOCATION && rm package-lock.json && npm install"
+          - ssh -i ./key.pem $SSH_USER@$WORKER_SERVER_IP "rm -rf $SOURCE_LOCATION/dist/*"
+          - ssh -i ./key.pem $SSH_USER@$WORKER_SERVER_IP "cd $SOURCE_LOCATION && tar -xzvf $SOURCE_LOCATION/dist.tar.gz && rm $SOURCE_LOCATION/dist.tar.gz"
+          - ssh -i ./key.pem $SSH_USER@$WORKER_SERVER_IP "pm2 reload worker --update-env"
+
+    - step: &Deploy
+        name: Build and Deploy
+        caches:
+          - node
+        script:
+          - echo "$SSH_PEM" | base64 --decode > ./key.pem
+          - chmod 400 ./key.pem
+          - scp -i ./key.pem ./dist.tar.gz package.json $SSH_USER@$SERVER_IP:$SOURCE_LOCATION
+          - ssh -i ./key.pem $SSH_USER@$SERVER_IP "cd $SOURCE_LOCATION && rm package-lock.json && npm install"
+          - ssh -i ./key.pem $SSH_USER@$SERVER_IP "rm -rf $SOURCE_LOCATION/dist/*"
+          - ssh -i ./key.pem $SSH_USER@$SERVER_IP "cd $SOURCE_LOCATION && tar -xzvf $SOURCE_LOCATION/dist.tar.gz && rm $SOURCE_LOCATION/dist.tar.gz"
+          - ssh -i ./key.pem $SSH_USER@$SERVER_IP "pm2 reload server --update-env && pm2 reload worker --update-env && pm2 reload media-processor --update-env"
+
+pipelines:
+  pull-requests:
+    '**':
+      - step: *Lint
+      - step:
+          <<: *Translate
+          deployment: localazy
+      - step:
+          <<: *Build
+  branches:
+    dev:
+      - step: *Lint
+      - step:
+          <<: *Translate
+          deployment: localazy
+      - step:
+          <<: *Build
+      - step:
+          <<: *DeployV2
+          deployment: develop
+
+    staging:
+      - step: *Lint
+      - step:
+          <<: *Translate
+          deployment: localazy
+      - step: *Build
+      - step:
+          <<: *DeployV2
+          deployment: staging
+
+    uat:
+      - step: *Lint
+      - step:
+          <<: *Translate
+          deployment: localazy
+      - step: *Build
+      - step:
+          <<: *Deploy
+          deployment: uat
+
+    master:
+      - step: *Lint
+      - step:
+          <<: *Translate
+          deployment: localazy
+      - step: *Build
+      - step:
+          <<: *DeployV2
+          deployment: production

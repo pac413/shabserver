@@ -1,0 +1,309 @@
+{
+  "auth": {
+    "reset-for-deleted-account": "Ihre E-Mail zum Zurücksetzen des Passworts wurde gesendet. Wenn Sie sich mit Ihrem neuen Passwort bei shabbat.com anmelden, können Sie Ihr Konto wiederherstellen."
+  },
+  "errors": {
+    "admin": {
+      "already-admin": "Benutzer ist bereits ein Administrator",
+      "not-admin": "Benutzer ist kein Administrator",
+      "only-allowed": "Nur der Administrator kann diese Funktion verwenden"
+    },
+    "auth": {
+      "deleted": "Konto wurde gelöscht",
+      "different-account": "Sie sind derzeit bei einem anderen Shabbat.com-Konto angemeldet. Um diesen Link zu verwenden, melden Sie sich bitte zuerst ab und dann bei dem mit diesem Link verknüpften Konto an.",
+      "duplicate-email": "Die eingegebene E-Mail-Adresse existiert bereits für ein Konto auf Shabbat.com",
+      "email-already-confirmed": "E-Mail bereits bestätigt",
+      "error": "Ein Fehler ist aufgetreten und Ihre Anfrage konnte nicht verarbeitet werden.",
+      "forbidden-email": "Verbotene E-Mail",
+      "forbidden-password": "Verbotenes Passwort",
+      "invalid-credentials": "Ihre E-Mail-Adresse oder Ihr Passwort ist ungültig",
+      "invalid-email": "Ungültige E-Mail",
+      "invalid-first-name": "ungültiger Vorname",
+      "invalid-last-name": "Ungültiger Nachname",
+      "invalid-password-length": "Das Passwort muss mindestens 6 Zeichen enthalten",
+      "invalid-token": "Ihr Token ist ungültig",
+      "not-found-reset-password-token": "Kennworttoken zurücksetzen nicht gefunden",
+      "not-found-user": "Dieser eingegebenen E-Mail-Adresse ist kein Konto zugeordnet. Bitte überprüfen Sie es erneut und versuchen Sie es erneut.",
+      "registration-paused": "Die Registrierung ist vorübergehend pausiert",
+      "suspended": "Konto wurde gesperrt"
+    },
+    "conversation": {
+      "approval-forbidden": "Sie sind nicht berechtigt, diese Konversation zu genehmigen",
+      "blocked-participants-list": "Kann keine Konversation mit einem Shabbat.com-Mitglied erstellen, das Sie blockieren, und umgekehrt",
+      "empty-participants-list": "Konversation mit leerer Teilnehmerliste kann nicht erstellt werden {{ teilnehmer }}",
+      "forbidden-archive-broadcast-conversation": "Sie sind nicht berechtigt, diese Broadcast-Konversation zu archivieren",
+      "forbidden-create-broadcast-conversation": "Sie sind nicht berechtigt, eine neue Broadcast-Konversation zu erstellen",
+      "invalid-id": "Ungültige Konversations-ID {{conversationId}}",
+      "reject-forbidden": "Sie sind nicht berechtigt, diese Konversation abzulehnen",
+      "reject-not-pending": "Sie können nur anstehende Konversationen ablehnen, aber diese Konversation ist nicht ausstehend",
+      "restricted-participants-list": "Konversation mit Teilnehmern mit eingeschränkter Nachrichtenübermittlung kann nicht erstellt werden"
+    },
+    "dating": {
+      "profile-already-request": "Sie haben bereits angefordert, dieses Dating-Profil anzuzeigen. Anträge können derzeit nicht mehr als einmal gestellt werden."
+    },
+    "endorse": {
+      "endorsement-blocked": "Die Unterstützung ist für dieses Profil blockiert",
+      "invalid-endorsee-site-role": "Endorsee ist keine {{siteRole}}"
+    },
+    "feed": {
+      "forbidden": "Sie haben keinen Zugriff auf dieses Feedelement",
+      "invalid-id": "Ungültige Feedelement-ID {{feedItemId}}"
+    },
+    "flagging-content": {
+      "invalid-post-comment-id": "Ungültige Post-Kommentar-ID {{resourceId}} zum Markieren",
+      "invalid-post-comment-reply-id": "Ungültiger Post-Kommentar Antwort-ID {{resourceId}} zum Markieren",
+      "invalid-post-id": "Ungültige Beitrags-ID {{resourceId}} zum Markieren",
+      "invalid-profile-avatar-id": "Ungültige Profil-Avatar-(Medien-)ID {{resourceId}} zum Markieren",
+      "invalid-profile-picture-id": "Ungültiges Profilbild (Media)id {{resourceId}} zum Markieren"
+    },
+    "follower": {
+      "invalid-follower-id": "Du folgst dem Profil {{followerId}} nicht",
+      "invalid-follower-profile-id": "Follower-Profil existiert nicht {{followerId}}"
+    },
+    "friend": {
+      "approve-request-failed": "Freundschaftsanfrage kann nicht genehmigt werden, da sie entweder abgelaufen oder bereits angenommen wurde",
+      "blocking-friend-profile-id": "Entschuldigung, ich konnte zurzeit keinen Freund hinzufügen",
+      "frienship-already-exists": "Freundschaft besteht bereits",
+      "invalid-friend-profile-id": "Ungültige Freundesprofil-ID",
+      "invalid-friend-request-id": "Ungültige Freundschaftsanfrage-ID"
+    },
+    "global": {
+      "forbidden": "Verboten",
+      "internal": "interner Serverfehler",
+      "not-found": "Nicht gefunden",
+      "unauthorised": "Unbefugt"
+    },
+    "greenlight": {
+      "already-greenlight": "Benutzer hat bereits einen Greenlight-Status",
+      "not-greenlight": "Benutzer ist kein grünes Licht"
+    },
+    "guest-profile": {
+      "update-forbidden": "Diese Gästekartei kann nicht aktualisiert werden"
+    },
+    "hosting": {
+      "accept-hosting-invitation-forbidden": "Sie sind nicht berechtigt, diese Hosting-Einladung anzunehmen",
+      "accept-hosting-request-forbidden": "Sie sind nicht berechtigt, diese Hosting-Anfrage anzunehmen",
+      "contacts-forbidden": "Sie sind nicht berechtigt, diese Profilkontakte anzuzeigen",
+      "create-invite-forbidden": "Sie sind nicht berechtigt, diese Einladung zu erstellen",
+      "create-invite-private-code-mismatch": "Der private Einladungscode stimmt nicht überein. Bitte bestätigen Sie den Code noch einmal beim Gastgeber",
+      "create-invite-private-code-required": "Für die Hosting-Anfrage ist ein privater Einladungscode erforderlich",
+      "reject-hosting-invitation-forbidden": "Sie sind nicht berechtigt, diese Hosting-Einladung abzulehnen",
+      "reject-hosting-request-forbidden": "Sie sind nicht berechtigt, diese Hosting-Anfrage abzulehnen",
+      "request-hosting-forbidden": "Sie sind nicht berechtigt, Hosting anzufordern"
+    },
+    "hosting-profile": {
+      "no-host-profile-found": "Kein Hostprofil gefunden",
+      "private-invite-not-enabled": "Private Einladung ist nicht aktiviert. Bitte aktivieren Sie sie zuerst."
+    },
+    "media": {
+      "invalid-feed-reference": "FeedItemId kann in der Medienreferenz nicht gefunden werden"
+    },
+    "message": {
+      "forbidden-conversation-id": "Nachrichten aus der Konversation, zu der Sie nicht gehören, können nicht aufgelistet werden",
+      "pending-approval": "Sie können keine Nachricht senden, bis Sie die Konversation genehmigt haben"
+    },
+    "message-reaction": {
+      "invalid-conversation-id": "Konversation nicht gefunden",
+      "invalid-message-id": "Nachricht nicht gefunden",
+      "invalid-message-reaction-id": "Nachrichtenreaktion nicht gefunden"
+    },
+    "mute-connection": {
+      "profile-not-muted": "Sie haben Beiträge des Profils {{profileId}} nicht ausgeblendet"
+    },
+    "notification": {
+      "invalid-id": "Ungültige Benachrichtigungs-ID {{notificationId}}",
+      "update-forbidden": "Sie sind nicht berechtigt, diesen Benachrichtigungsstatus zu aktualisieren {{notificationId}}"
+    },
+    "post": {
+      "comment-like-not-found": "Kein „Gefällt mir“ auf Beitragskommentar von {{activeProfileId}}",
+      "comment-reply-like-not-found": "Kein „Gefällt mir“ auf Post-Kommentar-Antwort von {{activeProfileId}}",
+      "delete-comment-forbidden": "Sie sind nicht berechtigt, diesen Kommentar zu löschen",
+      "delete-comment-reply-forbidden": "Sie sind nicht berechtigt, diese Kommentarantwort zu löschen",
+      "invalid-comment-id": "Kein Post gefunden für Kommentar mit ID: {{commentId}} für Post von ID: {{postId}}",
+      "invalid-id": "Ungültige Beitrags-ID {{postId}}",
+      "invalid-like-id": "Kein Like gefunden für Beitrag von: {{activeProfileId}}",
+      "update-comment-forbidden": "Sie sind nicht berechtigt, diesen Kommentar zu aktualisieren",
+      "update-comment-reply-forbidden": "Sie sind nicht berechtigt, diese Kommentarantwort zu aktualisieren"
+    },
+    "profile": {
+      "incomplete-profile": "Unvollständiges Profil {{flags}}",
+      "not-found": "Profil nicht gefunden {{profileId}}",
+      "update-forbidden": "Dieses Profil kann nicht aktualisiert werden {{profileId}}"
+    },
+    "reference": {
+      "create-forbidden": "Referenz zu diesem Profil kann nicht hinzugefügt werden {{profileId}}",
+      "invalid-id": "Referenzanfrage {{referenceId}} kann nicht gefunden werden",
+      "invalid-recipient-profile-id": "Empfängerprofil {{profileId}} kann nicht gefunden werden",
+      "invalid-requestor-profile-id": "Anforderungsprofil {{profileId}} kann nicht gefunden werden",
+      "request-exists": "Referenzen wurden bereits angefordert. Bei Genehmigung erhalten Sie alle Referenzen per E-Mail.",
+      "update-forbidden": "Die Referenz dieses Profils {{profileId}} kann nicht aktualisiert werden"
+    },
+    "zealot": {
+      "already-zealot": "Benutzer bereits ein Eiferer",
+      "not-zealot": "Der Benutzer hat keinen Zealot-Status"
+    }
+  },
+  "messages": {
+    "new-friends": "Sie sind jetzt Freunde auf <a href=\"https://shabbat.com\">Shabbat.com</a> . Eine Konversation beginnen.",
+    "new-hosting": "Besprechen Sie Ihre Shabbat-Einladung im Messaging"
+  },
+  "notification": {
+    "comment-media-processed": {
+      "content": "Ihr {{mediaType}} ist jetzt als Kommentar sichtbar",
+      "mobile-content": "Ihr {{mediaType}} ist jetzt als Kommentar sichtbar",
+      "title": "Ihr letzter Kommentar kann jetzt angezeigt werden",
+      "view": "Aussicht"
+    },
+    "comment_reply-media-processed": {
+      "content": "Ihr {{mediaType}} ist jetzt als Kommentarantwort sichtbar",
+      "mobile-content": "Ihr {{mediaType}} ist jetzt als Kommentarantwort sichtbar",
+      "title": "Ihre letzte Kommentarantwort kann jetzt angezeigt werden",
+      "view": "Aussicht"
+    },
+    "dating-profile-request": {
+      "accept": "Akzeptieren",
+      "content": "Neue Dating-Profilanfrage von <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a>",
+      "mobile-content": "Neue Dating-Profilanfrage von {{firstName}} {{lastName}}",
+      "title": "Neue Dating-Profilanfrage"
+    },
+    "friend-request-approved": {
+      "content": "Freundschaftsanfrage an <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> wurde genehmigt",
+      "mobile-content": "Freundschaftsanfrage an {{firstName}} {{lastName}} wurde genehmigt",
+      "title": "{{firstName}} {{lastName}} hat deine Freundschaftsanfrage akzeptiert"
+    },
+    "guest-endorsement-request": {
+      "accept": "Unterstütze hier",
+      "content": "Fügen Sie eine neue Gastempfehlung für <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}} hinzu</a> .",
+      "delete": "Ignorieren",
+      "mobile-content": "Füge eine neue Gastbewertung für {{firstName}} {{lastName}} hinzu.",
+      "title": "Neue Gast-Endorsement-Anfrage"
+    },
+    "host-approved": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> hat Ihre Hosting-Anfrage angenommen",
+      "mobile-content": "{{firstName}} {{lastName}} hat Ihre Hosting-Anfrage angenommen",
+      "title": "Gastgeber genehmigt"
+    },
+    "host-declined": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> hat Ihre Anfrage für den Schabbat höflich abgelehnt",
+      "mobile-content": "{{firstName}} {{lastName}} hat Ihre Anfrage für den Schabbat höflich abgelehnt",
+      "title": "Gastgeber abgelehnt"
+    },
+    "host-endorsement-request": {
+      "accept": "Unterstütze hier",
+      "content": "Fügen Sie eine neue Host-Bestätigung für <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}} hinzu</a> .",
+      "delete": "Ignorieren",
+      "mobile-content": "Füge eine neue Host-Empfehlung für {{firstName}} {{lastName}} hinzu.",
+      "title": "Neue Host-Endorsement-Anfrage"
+    },
+    "invite-accepted": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> hat Ihre Einladung zum Schabbat angenommen",
+      "mobile-content": "{{firstName}} {{lastName}} hat Ihre Einladung zum Schabbat angenommen",
+      "title": "Einladung angenommen"
+    },
+    "invite-declined": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> hat Ihre Einladung zum Schabbat abgelehnt",
+      "mobile-content": "{{firstName}} {{lastName}} hat Ihre Einladung zum Schabbat abgelehnt",
+      "title": "Einladung abgelehnt"
+    },
+    "message-reaction": {
+      "content": "{{reaction}}",
+      "mobile-content": "{{reaction}}",
+      "mobile-title": "{{firstName}} {{lastName}} hat auf deine Nachricht reagiert"
+    },
+    "new-comment-on-comment": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}} hat</a> Kommentar kommentiert: &quot;{{content}}&quot;",
+      "mobile-content": "{{firstName}} {{lastName}} hat den Kommentar kommentiert",
+      "title": "Neue Kommentarantwort",
+      "view": "Aussicht"
+    },
+    "new-comment-on-post": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}} hat</a> Ihren Beitrag kommentiert: &quot;{{content}}&quot;",
+      "mobile-content": "{{firstName}} {{lastName}} hat Ihren Beitrag kommentiert",
+      "title": "Neuer Kommentar zum Beitrag",
+      "view": "Aussicht"
+    },
+    "new-friend-request": {
+      "accept": "Akzeptieren",
+      "content": "Neue Freundschaftsanfrage von <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a>",
+      "delete": "Löschen",
+      "mobile-content": "Neue Freundschaftsanfrage von {{firstName}} {{lastName}}",
+      "title": "Neue Freundschaftsanfrage"
+    },
+    "new-host-request": {
+      "accept": "Akzeptieren",
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}} bittet</a> um Hosting für Schabbat",
+      "decline": "Ablehnen",
+      "mobile-content": "{{firstName}} {{lastName}} bittet um Hosting für Schabbat",
+      "more": "Einzelheiten einladen",
+      "title": "Neue Hostanfrage",
+      "view-invite": "Einladung ansehen"
+    },
+    "new-invite": {
+      "accept": "Akzeptieren",
+      "content": "Sie wurden von <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> zum Schabbat eingeladen",
+      "decline": "Ablehnen",
+      "mobile-content": "Sie wurden von {{firstName}} {{lastName}} zum Schabbat eingeladen",
+      "more": "Einzelheiten einladen",
+      "title": "Neue Einladung",
+      "view-invite": "Einladung ansehen"
+    },
+    "new-like-on-comment": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> hat Ihren Kommentar gefallen: &quot;{{content}}&quot;",
+      "mobile-content": "{{firstName}} {{lastName}} hat Ihren Kommentar gefallen",
+      "title": "Neues Like auf Kommentar",
+      "view": "Aussicht"
+    },
+    "new-like-on-post": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> hat Ihren Beitrag gefallen: &quot;{{content}}&quot;",
+      "mobile-content": "{{firstName}} {{lastName}} hat Ihren Beitrag gefallen",
+      "title": "Neues „Gefällt mir“ auf Beitrag",
+      "view": "Aussicht"
+    },
+    "new-message": {
+      "attachment": "Neuer Anhang",
+      "mobile-content": "Neue Nachricht von {{senderFirstName}} {{senderLastName}}",
+      "mobile-title": "Neue Nachricht von {{senderFirstName}} {{senderLastName}}",
+      "title": "Neue Nachricht von <a href=\"{{senderProfileUrl}}\">{{senderFirstName}} {{senderLastName}}</a>",
+      "view": "Aussicht"
+    },
+    "new-message-approved": {
+      "content": "Nachrichtenanfrage an <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> wurde genehmigt",
+      "mobile-content": "Nachrichtenanfrage an {{firstName}} {{lastName}} wurde genehmigt",
+      "title": "Nachrichtenanfrage genehmigt"
+    },
+    "new-message-request": {
+      "accept": "Akzeptieren",
+      "content": "Neue Nachrichtenanfrage von <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a>",
+      "delete": "Löschen",
+      "mobile-content": "Neue Nachrichtenanfrage von {{firstName}} {{lastName}}",
+      "title": "Neue Nachrichtenanforderung"
+    },
+    "post-media-processed": {
+      "content": "Ihr {{mediaType}} ist jetzt in Ihrem Feed sichtbar",
+      "mobile-content": "Ihr {{mediaType}} ist jetzt in Ihrem Feed sichtbar",
+      "title": "Ihr letzter Beitrag kann jetzt angezeigt werden",
+      "view": "Aussicht"
+    },
+    "profile-endorsed": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> hat Sie für {{siteRole}} empfohlen",
+      "endorse-back": "Rücken unterstützen",
+      "mobile-content": "{{firstName}} {{lastName}} hat Sie für {{siteRole}} empfohlen",
+      "title": "Neue Bestätigung",
+      "view": "Bestätigung ansehen"
+    },
+    "profile-followed": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> folgt dir jetzt auf Shabbat.com",
+      "mobile-content": "{{firstName}} {{lastName}} folgt dir jetzt auf Shabbat.com",
+      "title": "Neuer Anhänger"
+    },
+    "profile-viewed": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}} hat</a> Ihr Profil angesehen",
+      "mobile-content": "{{firstName}} {{lastName}} hat Ihr Profil angesehen",
+      "title": "Neue Profilansicht"
+    }
+  },
+  "post": {
+    "avatar-updated": "Der Avatar von {{firstName}} {{lastName}} hat sich geändert.",
+    "new-picture-added": "{{firstName}} {{lastName}} hat ein Bild hinzugefügt."
+  }
+}

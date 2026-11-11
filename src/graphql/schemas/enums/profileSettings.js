@@ -1,0 +1,42 @@
+import { gql } from 'apollo-server-express'
+
+export const profileSettings = gql`
+  enum MessagingPrivacyTier {
+    SITE_MEMBERS
+    CONNECTIONS_OTHERS_REQUEST
+    CONNECTIONS_ONLY
+  }
+  enum PostPrivacySetting {
+    ALL
+    CONNECTIONS
+    FRIENDS
+  }
+  enum FeedContentSetting {
+    ALL
+    PUBLIC
+    RECOMMENDED
+    TRENDING
+    CONNECTIONS
+  }
+  enum BooleanProfileSetting {
+    ANONYMOUS_BROWSING
+    FRIEND_REQUEST_NEEDED
+    HIDE_ALL_MEDIA
+    MESSAGES_BY_EMAIL
+    MESSAGES_BY_PUSH
+    INVITES_BY_EMAIL
+    INVITES_BY_PUSH
+    PROFILE_VIEWS_BY_EMAIL
+    PROFILE_VIEWS_BY_PUSH
+    NEW_FRIENDS_BY_EMAIL
+    NEW_FRIENDS_BY_PUSH
+    LIKES_BY_EMAIL
+    LIKES_BY_PUSH
+    COMMENTS_BY_EMAIL
+    COMMENTS_BY_PUSH
+    FRIEND_REQUEST_BY_EMAIL
+    FRIEND_REQUEST_BY_PUSH
+    WEEKLY_ACTIVITY_SUMMARY_EMAIL
+    PAGINATED_SEARCH_RESULT
+  }
+`

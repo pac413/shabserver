@@ -1,0 +1,309 @@
+{
+  "auth": {
+    "reset-for-deleted-account": "Seu e-mail de redefinição de senha foi enviado. Ao fazer login no shabbat.com com sua nova senha, você poderá restabelecer sua conta."
+  },
+  "errors": {
+    "admin": {
+      "already-admin": "O usuário já é um administrador",
+      "not-admin": "O usuário não é um administrador",
+      "only-allowed": "Somente o administrador pode usar este recurso"
+    },
+    "auth": {
+      "deleted": "A conta foi excluída",
+      "different-account": "Você está logado atualmente em uma conta Shabbat.com diferente. Para usar este link, faça logout primeiro e, em seguida, faça login na conta associada a este link.",
+      "duplicate-email": "O e-mail inserido já existe para uma conta no Shabbat.com",
+      "email-already-confirmed": "E-mail já confirmado",
+      "error": "Ocorreu um erro e sua solicitação não pôde ser processada.",
+      "forbidden-email": "E-mail proibido",
+      "forbidden-password": "Senha proibida",
+      "invalid-credentials": "Seu e-mail ou senha é inválido",
+      "invalid-email": "E-mail inválido",
+      "invalid-first-name": "Nome inválido",
+      "invalid-last-name": "Sobrenome inválido",
+      "invalid-password-length": "A senha deve conter pelo menos 6 caracteres",
+      "invalid-token": "Seu token é inválido",
+      "not-found-reset-password-token": "Redefinir token de senha não encontrado",
+      "not-found-user": "Nenhuma conta está associada a este endereço de e-mail inserido. Verifique novamente e tente novamente.",
+      "registration-paused": "O registro está temporariamente pausado",
+      "suspended": "Conta foi suspensa"
+    },
+    "conversation": {
+      "approval-forbidden": "Você não está autorizado a aprovar esta conversa",
+      "blocked-participants-list": "Não é possível criar uma conversa com um membro do Shabbat.com que você está bloqueando e vice-versa",
+      "empty-participants-list": "Não é possível criar uma conversa com a lista de participantes vazia {{ participantes }}",
+      "forbidden-archive-broadcast-conversation": "Você não está autorizado a arquivar esta conversa transmitida",
+      "forbidden-create-broadcast-conversation": "Você não está autorizado a criar uma nova conversa de transmissão",
+      "invalid-id": "ID de conversa inválido {{conversationId}}",
+      "reject-forbidden": "Você não está autorizado a rejeitar esta conversa",
+      "reject-not-pending": "Você só pode rejeitar conversas pendentes, mas esta conversa não está pendente",
+      "restricted-participants-list": "Não é possível criar conversas com participantes restritos a mensagens"
+    },
+    "dating": {
+      "profile-already-request": "Você já pediu para ver este perfil de namoro. As solicitações não podem ser feitas mais de uma vez neste momento."
+    },
+    "endorse": {
+      "endorsement-blocked": "O endosso está bloqueado para este perfil",
+      "invalid-endorsee-site-role": "Endossado não é um {{siteRole}}"
+    },
+    "feed": {
+      "forbidden": "Você não tem acesso a este item de feed",
+      "invalid-id": "ID de item de feed inválido {{feedItemId}}"
+    },
+    "flagging-content": {
+      "invalid-post-comment-id": "ID de comentário de postagem inválido {{resourceId}} para sinalizar",
+      "invalid-post-comment-reply-id": "ID de resposta de comentário de postagem inválido {{resourceId}} para sinalizar",
+      "invalid-post-id": "ID de postagem inválido {{resourceId}} para sinalizar",
+      "invalid-profile-avatar-id": "ID de avatar de perfil (mídia) inválido {{resourceId}} para sinalizar",
+      "invalid-profile-picture-id": "ID de imagem de perfil (mídia) inválido {{resourceId}} para sinalizar"
+    },
+    "follower": {
+      "invalid-follower-id": "Você não está seguindo o perfil {{followerId}}",
+      "invalid-follower-profile-id": "O perfil do seguidor não existe {{followerId}}"
+    },
+    "friend": {
+      "approve-request-failed": "Não é possível aprovar a solicitação de amizade porque ela expirou ou já foi aceita",
+      "blocking-friend-profile-id": "Desculpe, não foi possível adicionar amigo no momento",
+      "frienship-already-exists": "A amizade já existe",
+      "invalid-friend-profile-id": "ID de perfil de amigo inválido",
+      "invalid-friend-request-id": "ID de solicitação de amizade inválido"
+    },
+    "global": {
+      "forbidden": "Proibido",
+      "internal": "Erro do Servidor Interno",
+      "not-found": "Não encontrado",
+      "unauthorised": "Não autorizado"
+    },
+    "greenlight": {
+      "already-greenlight": "O usuário já tem um status Greenlight",
+      "not-greenlight": "O usuário não é um sinal verde"
+    },
+    "guest-profile": {
+      "update-forbidden": "Não é possível atualizar este perfil de convidado"
+    },
+    "hosting": {
+      "accept-hosting-invitation-forbidden": "Você não está autorizado a aceitar este convite de hospedagem",
+      "accept-hosting-request-forbidden": "Você não está autorizado a aceitar esta solicitação de hospedagem",
+      "contacts-forbidden": "Você não está autorizado a visualizar os contatos deste perfil",
+      "create-invite-forbidden": "Você não está autorizado a criar este convite",
+      "create-invite-private-code-mismatch": "O código de convite privado não corresponde. Por favor, confirme o código com o anfitrião novamente",
+      "create-invite-private-code-required": "O código de convite privado é necessário para solicitar hospedagem",
+      "reject-hosting-invitation-forbidden": "Você não está autorizado a rejeitar este convite de hospedagem",
+      "reject-hosting-request-forbidden": "Você não está autorizado a rejeitar esta solicitação de hospedagem",
+      "request-hosting-forbidden": "Você não está autorizado a solicitar hospedagem"
+    },
+    "hosting-profile": {
+      "no-host-profile-found": "Nenhum perfil de anfitrião encontrado",
+      "private-invite-not-enabled": "O convite privado não está ativado. Por favor, ative-o primeiro."
+    },
+    "media": {
+      "invalid-feed-reference": "Não é possível encontrar feedItemId da referência de mídia"
+    },
+    "message": {
+      "forbidden-conversation-id": "Não é possível listar mensagens da conversa à qual você não pertence",
+      "pending-approval": "Você não pode enviar mensagem até aprovar a conversa"
+    },
+    "message-reaction": {
+      "invalid-conversation-id": "Conversa não encontrada",
+      "invalid-message-id": "Mensagem não encontrada",
+      "invalid-message-reaction-id": "Reação da mensagem não encontrada"
+    },
+    "mute-connection": {
+      "profile-not-muted": "Você não escondeu postagens do perfil {{profileId}}"
+    },
+    "notification": {
+      "invalid-id": "ID de notificação inválido {{notificationId}}",
+      "update-forbidden": "Você não está autorizado a atualizar este status de notificação {{notificationId}}"
+    },
+    "post": {
+      "comment-like-not-found": "Nenhuma curtida no comentário da postagem de {{activeProfileId}}",
+      "comment-reply-like-not-found": "Nenhum like na resposta do comentário da postagem por {{activeProfileId}}",
+      "delete-comment-forbidden": "Você não tem permissão para excluir este comentário",
+      "delete-comment-reply-forbidden": "Você não tem permissão para excluir esta resposta de comentário",
+      "invalid-comment-id": "Nenhuma postagem encontrada para comentário com id: {{commentId}} para postagem por id: {{postId}}",
+      "invalid-id": "ID de postagem inválido {{postId}}",
+      "invalid-like-id": "Nenhuma curtida encontrada para postagem de: {{activeProfileId}}",
+      "update-comment-forbidden": "Você não tem permissão para atualizar este comentário",
+      "update-comment-reply-forbidden": "Você não tem permissão para atualizar esta resposta de comentário"
+    },
+    "profile": {
+      "incomplete-profile": "Perfil incompleto {{flags}}",
+      "not-found": "Perfil não encontrado {{profileId}}",
+      "update-forbidden": "Não é possível atualizar este perfil {{profileId}}"
+    },
+    "reference": {
+      "create-forbidden": "Não é possível adicionar referência a este perfil {{profileId}}",
+      "invalid-id": "Não é possível encontrar a solicitação de referência {{referenceId}}",
+      "invalid-recipient-profile-id": "Não é possível encontrar o perfil do destinatário {{profileId}}",
+      "invalid-requestor-profile-id": "Não é possível encontrar o perfil do solicitante {{profileId}}",
+      "request-exists": "Referências já foram solicitadas. Se aprovado, você receberá todas as referências por e-mail.",
+      "update-forbidden": "Não é possível atualizar a referência deste perfil {{profileId}}"
+    },
+    "zealot": {
+      "already-zealot": "O usuário já é um fanático",
+      "not-zealot": "O usuário não tem um status de Zealot"
+    }
+  },
+  "messages": {
+    "new-friends": "Vocês agora são amigos no <a href=\"https://shabbat.com\">Shabbat.com</a> . Inicie uma conversa.",
+    "new-hosting": "Discuta seu convite de Shabat nas mensagens"
+  },
+  "notification": {
+    "comment-media-processed": {
+      "content": "Seu {{mediaType}} agora pode ser visualizado como um comentário",
+      "mobile-content": "Seu {{mediaType}} agora pode ser visualizado como um comentário",
+      "title": "Seu comentário recente está pronto para ser visualizado",
+      "view": "Visão"
+    },
+    "comment_reply-media-processed": {
+      "content": "Seu {{mediaType}} agora pode ser visto como uma resposta de comentário",
+      "mobile-content": "Seu {{mediaType}} agora pode ser visto como uma resposta de comentário",
+      "title": "Sua resposta recente ao comentário está pronta para ser visualizada",
+      "view": "Visão"
+    },
+    "dating-profile-request": {
+      "accept": "Aceitar",
+      "content": "Nova solicitação de perfil de namoro de <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a>",
+      "mobile-content": "Nova solicitação de perfil de namoro de {{firstName}} {{lastName}}",
+      "title": "Nova solicitação de perfil de namoro"
+    },
+    "friend-request-approved": {
+      "content": "A solicitação de amizade para <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> foi aprovada",
+      "mobile-content": "A solicitação de amizade para {{firstName}} {{lastName}} foi aprovada",
+      "title": "{{firstName}} {{lastName}} aceitou sua solicitação de amizade"
+    },
+    "guest-endorsement-request": {
+      "accept": "Apoiar aqui",
+      "content": "Adicione uma nova recomendação de convidado para <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> .",
+      "delete": "Ignorar",
+      "mobile-content": "Adicione um novo endosso de convidado para {{firstName}} {{lastName}}.",
+      "title": "Solicitação de endosso de novo convidado"
+    },
+    "host-approved": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> aceitou sua solicitação de hospedagem",
+      "mobile-content": "{{firstName}} {{lastName}} aceitou sua solicitação de hospedagem",
+      "title": "Aprovado pelo anfitrião"
+    },
+    "host-declined": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> recusou educadamente seu pedido de Shabat",
+      "mobile-content": "{{firstName}} {{lastName}} recusou educadamente seu pedido de Shabat",
+      "title": "Anfitrião recusado"
+    },
+    "host-endorsement-request": {
+      "accept": "Apoiar aqui",
+      "content": "Adicione uma nova recomendação de anfitrião para <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> .",
+      "delete": "Ignorar",
+      "mobile-content": "Adicione um novo endosso de anfitrião para {{firstName}} {{lastName}}.",
+      "title": "Solicitação de endosso de novo host"
+    },
+    "invite-accepted": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> aceitou seu convite para o Shabat",
+      "mobile-content": "{{firstName}} {{lastName}} aceitou seu convite para o Shabat",
+      "title": "Convite aceito"
+    },
+    "invite-declined": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> recusou seu convite para o Shabat",
+      "mobile-content": "{{firstName}} {{lastName}} recusou seu convite para o Shabat",
+      "title": "Convite recusado"
+    },
+    "message-reaction": {
+      "content": "{{reaction}}",
+      "mobile-content": "{{reaction}}",
+      "mobile-title": "{{firstName}} {{lastName}} reagiu à sua mensagem"
+    },
+    "new-comment-on-comment": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> comentou no comentário: &quot;{{content}}&quot;",
+      "mobile-content": "{{firstName}} {{lastName}} comentou no comentário",
+      "title": "Nova resposta de comentário",
+      "view": "Visão"
+    },
+    "new-comment-on-post": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> comentou em sua postagem: &quot;{{content}}&quot;",
+      "mobile-content": "{{firstName}} {{lastName}} comentou em sua postagem",
+      "title": "Novo comentário na postagem",
+      "view": "Visão"
+    },
+    "new-friend-request": {
+      "accept": "Aceitar",
+      "content": "Novo pedido de amizade de <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a>",
+      "delete": "Excluir",
+      "mobile-content": "Novo pedido de amizade de {{firstName}} {{lastName}}",
+      "title": "Novo pedido de amizade"
+    },
+    "new-host-request": {
+      "accept": "Aceitar",
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> está solicitando hospedagem para o Shabat",
+      "decline": "Declínio",
+      "mobile-content": "{{firstName}} {{lastName}} está solicitando hospedagem para o Shabat",
+      "more": "Ver convite",
+      "title": "Novo pedido de anfitrião",
+      "view-invite": "Ver convite"
+    },
+    "new-invite": {
+      "accept": "Aceitar",
+      "content": "Você foi convidado para o Shabat por <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a>",
+      "decline": "Declínio",
+      "mobile-content": "Você foi convidado para o Shabat por {{firstName}} {{lastName}}",
+      "more": "Ver convite",
+      "title": "Novo convite",
+      "view-invite": "Ver convite"
+    },
+    "new-like-on-comment": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> gostou do seu comentário: &quot;{{content}}&quot;",
+      "mobile-content": "{{firstName}} {{lastName}} gostou do seu comentário",
+      "title": "Nova curtida no comentário",
+      "view": "Visão"
+    },
+    "new-like-on-post": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> gostou da sua postagem: &quot;{{content}}&quot;",
+      "mobile-content": "{{firstName}} {{lastName}} gostou da sua postagem",
+      "title": "Nova curtida na postagem",
+      "view": "Visão"
+    },
+    "new-message": {
+      "attachment": "Novo anexo",
+      "mobile-content": "Nova mensagem de {{senderFirstName}} {{senderLastName}}",
+      "mobile-title": "Nova mensagem de {{senderFirstName}} {{senderLastName}}",
+      "title": "Nova mensagem de <a href=\"{{senderProfileUrl}}\">{{senderFirstName}} {{senderLastName}}</a>",
+      "view": "Visão"
+    },
+    "new-message-approved": {
+      "content": "A solicitação de mensagem para <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> foi aprovada",
+      "mobile-content": "A solicitação de mensagem para {{firstName}} {{lastName}} foi aprovada",
+      "title": "Solicitação de mensagem aprovada"
+    },
+    "new-message-request": {
+      "accept": "Aceitar",
+      "content": "Nova solicitação de mensagem de <a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a>",
+      "delete": "Excluir",
+      "mobile-content": "Nova solicitação de mensagem de {{firstName}} {{lastName}}",
+      "title": "Nova solicitação de mensagem"
+    },
+    "post-media-processed": {
+      "content": "Seu {{mediaType}} agora pode ser visualizado em seu feed",
+      "mobile-content": "Seu {{mediaType}} agora pode ser visualizado em seu feed",
+      "title": "Sua postagem recente está pronta para ser visualizada",
+      "view": "Visão"
+    },
+    "profile-endorsed": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> endossou você para {{siteRole}}",
+      "endorse-back": "Endossar de volta",
+      "mobile-content": "{{firstName}} {{lastName}} endossou você para {{siteRole}}",
+      "title": "Novo endosso",
+      "view": "Ver endosso"
+    },
+    "profile-followed": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> está seguindo você no Shabat.com",
+      "mobile-content": "{{firstName}} {{lastName}} está seguindo você no Shabat.com",
+      "title": "Novo seguidor"
+    },
+    "profile-viewed": {
+      "content": "<a href=\"{{profileUrl}}\">{{firstName}} {{lastName}}</a> visualizou seu perfil",
+      "mobile-content": "{{firstName}} {{lastName}} visualizou seu perfil",
+      "title": "Nova visualização de perfil"
+    }
+  },
+  "post": {
+    "avatar-updated": "O avatar de {{firstName}} {{lastName}} mudou.",
+    "new-picture-added": "{{firstName}} {{lastName}} adicionou uma foto."
+  }
+}
